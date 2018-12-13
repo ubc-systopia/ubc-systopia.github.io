@@ -56,6 +56,22 @@
     border-radius: 10px;
 }
 
+.video-responsive {
+    position: relative;
+    padding-bottom: 45%;
+    /* 16/9 ratio */
+    padding-top: 30px;
+    /* IE6 workaround*/
+    height: 0;
+    overflow: hidden;
+    width: 100%; }
+  
+  iframe {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    height: 502px; }
+
  @media (min-width:768px){section{
      padding:150px 0
     }}
@@ -182,12 +198,18 @@
      text-align:center;
      color:#fff;
      background: rgb(245, 145, 70);
-     background-image:url(../img/header-bg-transparent.png);
      background-repeat:no-repeat;
      background-attachment:scroll;
      background-position:center center;
      background-size:cover
     }
+
+.bg-orange {
+    background: rgb(245, 145, 70) !important;
+}
+.bg-yellow {
+    background:#fed136 !important;
+}
 
  header.masthead .intro-text{
      padding-top:150px;
