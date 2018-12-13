@@ -136,9 +136,8 @@
      right:0;
      padding:13px;
      text-transform:uppercase;
-     color:#06244f;
+     color:rgb(245, 145, 70);
      border:0;
-     background-color:#fed136;
      font-family:Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'
     }
 
@@ -212,8 +211,8 @@
 }
 
  header.masthead .intro-text{
-     padding-top:150px;
-     padding-bottom:100px
+     padding-top:100px;
+     padding-bottom:60px
     }
 
  header.masthead .intro-text .intro-lead-in{
@@ -233,8 +232,8 @@
     }
 
  @media (min-width:768px){header.masthead .intro-text{
-     padding-top:300px;
-     padding-bottom:200px
+     padding-top:200px;
+     padding-bottom:120px
     }
 
  header.masthead .intro-text .intro-lead-in{
@@ -252,6 +251,13 @@
      margin-bottom:50px;
      font-family:Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'
     }}
+
+.partner-list-item {
+    background: transparent !important;
+    border: 0px !important;
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+}
 
  .service-heading{
      margin:15px 0;
