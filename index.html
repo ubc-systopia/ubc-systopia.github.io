@@ -30,7 +30,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="index.html"><img src="img/motivote-logo.png"></a>
+        <a class="navbar-brand js-scroll-trigger py-0" href="index.html"><img src="img/motivote-logo.png" class="align-top"></a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <i class="fas fa-bars"></i>
         </button>
@@ -51,6 +51,9 @@
               <li class="nav-item">
                   <a class="nav-link js-scroll-trigger" href="3things.html">Our 3 Things</a>
                 </li>
+                <li class="nav-item">
+                  <a class="nav-link js-scroll-trigger" href="#contactform">Contact Us</a>
+                </li>
           </ul>
         </div>
       </div>
@@ -61,23 +64,26 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100" src="img/about/1.jpg" alt="First slide">
-          <div class="carousel-caption d-none d-md-block">
-              <h5>Heading One</h5>
+          <div class="carousel-caption d-none d-md-block text-left">
+              <h1>Heading One</h1>
               <p>Subheading</p>
+              <P>Additional text</P>
             </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="img/about/2.jpg" alt="Second slide">
-          <div class="carousel-caption d-none d-md-block">
-              <h5>Heading Two</h5>
-              <p>Subheading</p>
+          <div class="carousel-caption d-none d-md-block text-right">
+            <h1>Heading Two</h1>
+            <p>Subheading</p>
+            <P>Additional text</P>
             </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="img/about/3.jpg" alt="Third slide">
-          <div class="carousel-caption d-none d-md-block">
-              <h5>Heading Three</h5>
-              <p>Subheading</p>
+          <div class="carousel-caption d-none d-md-block text-center">
+            <h1>Heading Three</h1>
+            <p>Subheading</p>
+            <P>Additional text</P>
             </div>
         </div>
       </div>
@@ -95,7 +101,7 @@
     <header class="masthead bg-yellow">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-heading text-uppercase text-left">THE SINGLE-MOST EFFECTIVE WAY TO TURN OUT YOUNG VOTERS</div>
+          <div class="intro-heading text-uppercase text-left" style="text-shadow: 4px 3px rgb(245, 145, 70) !important;">THE SINGLE-MOST EFFECTIVE WAY TO TURN OUT YOUNG VOTERS</div>
         </div>
       </div>
     </header>
@@ -116,11 +122,11 @@
     </div>
   </section>  
 
-      <!-- Video -->
-      <section class="bg-orange">
-          <div class="container video">
-              <div class="”video-responsive”">
-                  <iframe src="https://player.vimeo.com/video/262494543" class="align-middle" frameborder="0"
+<!-- Video -->
+      <section class="bg-orange p-0">
+          <div class="container-fluid p-0 video">
+              <div class="embed-responsive embed-responsive-16by9">
+                  <iframe src="https://player.vimeo.com/video/262494543" class="embed-responsive-item" frameborder="0"
                           allowfullscreen="allowfullscreen"></iframe>
               </div>
           </div>
@@ -263,7 +269,8 @@
       </div>
     </section>
 
-    <section class="bg-light">
+    <!-- Contact -->
+    <section class="bg-light" id="contactform">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-md-8 col-sm-12">
@@ -318,51 +325,6 @@
             </form>
           </div>
           </div>  
-      </div>
-    </section>
-
-    <!-- Contact -->
-    <section id="contact" style="display: none;">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Contact Us</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <form id="contactForm" name="sentMessage" novalidate="novalidate">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="clearfix"></div>
-                <div class="col-lg-12 text-center">
-                  <div id="success"></div>
-                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
-                </div>
-              </div>
-            </form>
-          </div>
-        </div>
       </div>
     </section>
 

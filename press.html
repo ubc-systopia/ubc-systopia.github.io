@@ -30,7 +30,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="index.html"><img src="img/motivote-logo.png"></a>
+        <a class="navbar-brand js-scroll-trigger py-0" href="index.html"><img src="img/motivote-logo.png" class="align-top"></a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <i class="fas fa-bars"></i>
         </button>
@@ -50,6 +50,9 @@
               </li>
               <li class="nav-item">
                   <a class="nav-link js-scroll-trigger" href="3things.html">Our 3 Things</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link js-scroll-trigger" href="#contactform">Contact Us</a>
                 </li>
           </ul>
         </div>
@@ -193,6 +196,65 @@
         </div>
       </div>
     </section>
+
+<!-- Contact -->
+<section class="bg-light" id="contactform">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-8 col-sm-12">
+        <h3 class="text-muted">Stay in touch.</h3>
+        <h1>Contact Us</h1>
+        <P class="mb-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt lacus ut fringilla lacinia. Curabitur ac risus vitae magna bibendum pellentesque. Vestibulum vitae lorem eros.</P>
+      <form>
+          <div class="form-row">
+            <div class="form-group col-md-6">
+              <label for="inputEmail4">First Name</label>
+              <input type="email" class="form-control" id="inputEmail4" placeholder="">
+            </div>
+            <div class="form-group col-md-6">
+              <label for="inputPassword4">Last Name</label>
+              <input type="password" class="form-control" id="inputPassword4" placeholder="">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="inputAddress">Email</label>
+            <input type="text" class="form-control" id="inputAddress" placeholder="">
+          </div>
+          <div class="form-group">
+            <label for="inputAddress2">Address</label>
+            <input type="text" class="form-control" id="inputAddress2" placeholder="">
+          </div>
+          <div class="form-row">
+            <div class="form-group col-md-6">
+              <label for="inputCity">City</label>
+              <input type="text" class="form-control" id="inputCity">
+            </div>
+            <div class="form-group col-md-4">
+              <label for="inputState">State</label>
+              <select id="inputState" class="form-control">
+                <option selected>Choose...</option>
+                <option>...</option>
+              </select>
+            </div>
+            <div class="form-group col-md-2">
+              <label for="inputZip">Zip</label>
+              <input type="text" class="form-control" id="inputZip">
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" id="gridCheck">
+              <label class="form-check-label" for="gridCheck">
+                I agree to the terms
+              </label>
+            </div>
+          </div>
+          <button type="submit" class="btn btn-primary">Sign in</button>
+        </form>
+      </div>
+      </div>  
+  </div>
+</section>
     
     <!-- Footer -->
     <footer>
