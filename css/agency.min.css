@@ -202,6 +202,19 @@
      background-position:center center;
      background-size:cover
     }
+#mastheadtext {
+    text-shadow: 4px 3px#ff7f00 !important;
+    -moz-text-fill-color: white; 
+    -webkit-text-fill-color: white;
+    -moz-text-stroke-color: #ff7f00;
+    -webkit-text-stroke-color: #ff7f00;
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 1px;
+}
+header.masthead a:hover{
+    text-decoration: none !important;
+    
+}
 
 .bg-orange {
     background: rgb(245, 145, 70) !important;
