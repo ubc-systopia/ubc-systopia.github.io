@@ -9,6 +9,10 @@
      font-family:'Roboto Slab',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'
     }
 
+.shadowtext {
+    text-shadow: 0 0 15px rgba(0,0,0,0.75);
+}
+
  p{
      line-height:1.75
     }
@@ -224,8 +228,6 @@ header.masthead a:hover{
 }
 
  header.masthead .intro-text{
-     padding-top:100px;
-     padding-bottom:60px
     }
 
  header.masthead .intro-text .intro-lead-in{
@@ -244,9 +246,9 @@ header.masthead a:hover{
      font-family:Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'
     }
 
- @media (min-width:768px){header.masthead .intro-text{
-     padding-top:200px;
-     padding-bottom:120px
+@media (min-width:768px){header.masthead .intro-text{
+     /* padding-top:100px;
+     padding-bottom:50px; */
     }
 
  header.masthead .intro-text .intro-lead-in{
