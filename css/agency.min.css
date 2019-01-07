@@ -9,10 +9,6 @@
      font-family:'Roboto Slab',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'
     }
 
-.shadowtext {
-    text-shadow: 0 0 15px rgba(0,0,0,0.75);
-}
-
  p{
      line-height:1.75
     }
@@ -33,7 +29,15 @@
      font-weight:700;
      font-family:Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'
     }
-
+h1.intro-heading {
+    text-shadow: 4px 3px#ffedad !important;
+}
+.testimonialslider {
+    min-height:300px;
+}
+.testimonialslider.carousel-item.active {
+    display:block;
+}
  section{
      padding:100px 0
     }
@@ -200,7 +204,7 @@
  header.masthead{
      text-align:center;
      color:#fff;
-     background: rgb(245, 145, 70);
+     background: #ff7f00;
      background-repeat:no-repeat;
      background-attachment:scroll;
      background-position:center center;
@@ -220,11 +224,23 @@ header.masthead a:hover{
     
 }
 
+.cellphone {
+    background: url('..//img/iphone.png') !important;
+    background-size: contain !important; 
+    background-repeat:no-repeat !important;
+    background-position:center bottom !important;
+    min-height: 300px;
+}
+
 .bg-orange {
-    background: rgb(245, 145, 70) !important;
+    background: #ff7f00 !important;
 }
 .bg-yellow {
     background:#ffedad !important;
+/**    background: url('..//img/about/selfie-collage.png') !important;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-position: center center; **/
 }
 
  header.masthead .intro-text{
