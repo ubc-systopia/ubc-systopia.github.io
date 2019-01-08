@@ -34,6 +34,7 @@ h1.intro-heading {
 }
 .testimonialslider {
     min-height:300px;
+    color: #ffffff;
 }
 .testimonialslider.carousel-item.active {
     display:block;
