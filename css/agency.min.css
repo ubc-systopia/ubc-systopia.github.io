@@ -238,10 +238,9 @@ header.masthead a:hover{
 }
 .bg-yellow {
     background:#ffedad !important;
-/**    background: url('..//img/about/selfie-collage.png') !important;
-    background-repeat: no-repeat;
-    background-size: cover !important;
-    background-position: center center; **/
+}
+.news-item {
+    border: 0px !important;
 }
 
  header.masthead .intro-text{
