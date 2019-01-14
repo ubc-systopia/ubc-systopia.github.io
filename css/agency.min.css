@@ -232,6 +232,17 @@ header.masthead a:hover{
     background-position:center bottom !important;
     min-height: 300px;
 }
+/*
+.carousel-item-left, .carousel-item-right {
+    align-items: center !important;
+    padding-top: 3rem !important;
+}*/
+.align-items-center {
+    display: flex; 
+    align-items: center;  
+    justify-content: center; 
+  }
+
 
 .bg-orange {
     background: #ff7f00 !important;
