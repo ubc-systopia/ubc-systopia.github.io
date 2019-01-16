@@ -39,6 +39,10 @@ h1.intro-heading {
 .testimonialslider.carousel-item.active {
     display:block;
 }
+.carousel-caption {
+    right: 0 !important;
+}
+
  section{
      padding:100px 0
     }
