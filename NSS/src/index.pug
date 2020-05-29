@@ -1,0 +1,120 @@
+doctype html
+html(lang="en")
+    head
+        title Page title
+        meta(charset="utf-8")
+        meta(name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no")
+        meta(name="description" content="")
+        meta(name="author" content="")
+        link(rel="stylesheet" href="https://fonts.googleapis.com/css?family=Biryani:200,400,900|Roboto+Mono:300,300i,400&amp;subset=latin")
+        link(rel="stylesheet" href="css/bootstrap/bootstrap-theme.css")
+        link(rel="icon" href="favicon.ico")
+    body
+        .container-fluid.m-0.p-0
+
+
+            nav.navbar.navbar-expand-lg.navbar-light.container
+                a.navbar-brand(href="#") SYSTOPIA
+                button.navbar-toggler(type="button", data-toggle="collapse", data-target="#navigations-08", aria-controls="navigations-08", aria-expanded="false", aria-label="Toggle navigation")
+                    span.navbar-toggler-icon
+                #navigations-08.collapse.navbar-collapse
+                    ul.navbar-nav.ml-auto
+                        li.nav-item
+                            a.nav-link(href="#")
+                                | People
+                                span.sr-only (current)
+                        li.nav-item
+                            a.nav-link(href="#") Research
+                        li.nav-item
+                            a.nav-link(href="#") Publications
+                        li.nav-item
+                            a.nav-link(href="#") News
+                        li.nav-item
+                            a.nav-link(href="#") Seminar
+
+
+            section.main-slideshow
+                .container-fluid.p-0
+                    #gallery-06.carousel.slide(data-ride="carousel")
+                        ol.carousel-indicators
+                            li(data-target="#gallery-06", data-slide-to="0")
+                            li.active(data-target="#gallery-06", data-slide-to="1")
+                            li(data-target="#gallery-06", data-slide-to="2")
+                        .carousel-inner
+                            .carousel-item.bg-dark
+                                div
+                                    .carousel-img
+                                        img.img-fluid.w-100.slide-img(src="images/slide1-lab.jpg", alt="")
+                                    .carousel-caption.d-none.d-md-block
+                                        p NSS Lab Members Fall 2019
+                            .carousel-item.bg-dark.active
+                                div
+                                    .carousel-img
+                                        img.img-fluid.w-100.slide-img(src="images/slide2-soccer.jpg", alt="")
+                                    .carousel-caption.d-none.d-md-block
+                                        p NSS Soccer
+                        a.carousel-control-prev(href="#gallery-06", role="button", data-slide="prev")
+                            span.carousel-control-prev-icon(aria-hidden="true")
+                            span.sr-only Previous
+                        a.carousel-control-next(href="#gallery-06", role="button", data-slide="next")
+                            span.carousel-control-next-icon(aria-hidden="true")
+                            span.sr-only Previous
+
+
+            section
+                .container.mb-4
+                    .row
+                        .col-lg-1.d-lg-flex.d-none  
+                        .col-lg-3.col-md-5.p-0.d-md-flex.d-none
+                            img.img-fluid(src="images/Vectorized_Logo_(EDITED).png", alt="")
+                        .col-lg-1.d-lg-flex.d-none  
+                        .col-lg-6.col-md-7.my-auto.pl-md-5.py-5
+                            h2.text-right Who We Are
+                            h1.mt-4.mb-3.text-right Networks, Systems, and Security (NSS) Lab
+                            hr.heading-divider
+                            p.subheading.text-lg-left.text-justify
+                                | The NSS lab is part of the Department of Computer Science, at the University of British Columbia.
+                        .col-lg-1.d-lg-flex.d-none  
+
+
+            section.pt-md-5.pb-lg-5.pb-0
+                .container
+                    link(href="https://fonts.googleapis.com/icon?family=Material+Icons", rel="stylesheet")
+                    .row
+                        .col-12.col-md-4.mb-md-0.mb-5.px-md-4
+                            h5.mb-4
+                                span People
+                                span.material-icons.float-right
+                                    | arrow_forward
+                            |       We are a diverse group and are always looking to recruit strong students, post-docs, and new faculty to join us.
+                        .col-12.col-md-4.mb-md-0.mb-5.px-md-4
+                            h5.mb-4
+                                span Research
+                                span.material-icons.float-right
+                                    | arrow_forward
+                            |       We conduct research on a variety of topics, including operating systems, distributed systems, security, and program analysis.
+                        .col-12.col-md-4.px-md-4
+                            h5.mb-4
+                                span Publications
+                                span.material-icons.float-right
+                                    | arrow_forward
+                            |       We have a strong track-record in publishing in top systems, networks, and security conferences and journals.
+
+
+            section.py-5
+                .container-fluid.img-divider.p-0
+                    .row
+                        .col-lg-4.my-auto.py-5
+                        .col-lg-8.mh-100
+                            img.img-fluid(src="images/20089915475_8364baed6d_k.jpg", alt="")
+
+
+            section.pb-5
+                .container.text-center
+                    p.small
+                        | NSS lab is supported by a number of government and industrial sources, including Cisco Systems, the Communications Security Establishment Canada, Intel Research, the National Sciences and Engineering Research Council of Canada (NSERC), Network Appliance, Office of the Privacy Commissioner of Canada, and the National Science Foundation (NSF).
+
+
+        script(src="js/jquery/jquery.min.js")
+        script(src="js/popper/popper.min.js")
+        script(src="js/bootstrap/bootstrap.min.js")

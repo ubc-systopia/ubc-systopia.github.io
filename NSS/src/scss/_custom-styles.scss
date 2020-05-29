@@ -1,0 +1,78 @@
+/**
+* 1. This is a valid SCSS file. 
+* 2. You can use CSS and SCSS here. 
+* 3. Custom CSS must be saved manually.
+**/
+h1 {
+  font-family: 'Biryani', sans-serif;
+  font-weight: 900;
+  font-size: 2.5rem;
+  line-height: 3rem;
+  }
+h2 {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 300;
+  font-size: 1.25rem;
+  }
+h5 {
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 300;
+  font-size: 1.5rem;
+  }
+.subheading {
+  font-weight: 200;
+  font-size: 1.15rem;
+  line-height: 1.85rem;
+  letter-spacing: 0.03rem;
+  }
+.heading-divider {
+  border-top: 0.5rem solid #1F65FC;
+  margin: 1rem 0 2rem 10rem;
+  }
+body {
+  font-size: .95rem;
+  line-height: 1.65rem;
+  }
+.navbar {
+  font-size: 1rem;
+  padding-top: 1rem;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  }
+.navbar-brand {
+  color: #05C1FC !important;
+  font-weight: 900;
+  letter-spacing: .2rem;
+  font-size: 1.5rem;
+  }
+/* Slideshow Styling */
+.carousel-img
+  {
+  max-height: 500px;
+  overflow: hidden;
+  position: relative;
+  }
+
+.material-icons {
+  color: #B7FEFA;
+  }
+/* FOOTER STYLES */
+.img-divider {
+  max-height: 25rem;
+  overflow: hidden;
+  }
+
+/* Media Screen Styles */
+@media only screen and (max-width: 600px) {
+  .carousel-img {
+    height: 500px;
+    width: 889px;
+    overflow: hidden;
+    margin-left: -50%;
+  }
+  .slide-img {
+    height:500px;
+    width: 1000px;
+    }
+}
+
