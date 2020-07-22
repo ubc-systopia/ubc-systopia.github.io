@@ -1,0 +1,440 @@
+# NOTES
+# Publications are organized by year.
+# When entering publication info, please maintain the following format:
+# [Authors, separated by comma]. [Publisher] [Year of publication].
+
+- date: 2019
+  publications:
+    - title: "Brokered Agreements in Multi-Party Machine Learning."
+      info: Clement Fung, Ivan Beschastnikh. APSys 2019.
+      link: https://dl.acm.org/doi/10.1145/3343737.3343744
+    
+    - title: Optimal Sparse Decision Trees.
+      info: Xiyang Hu, Cynthia Rudin, Margo I. Seltzer. ArXiv 2019.
+      link: https://arxiv.org/abs/1904.12847
+      
+    - title: Bandwidth-Efficient Transaction Relay for Bitcoin.
+      info: Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Sasha Fedorova, Ivan Beschastnikh. ArXiv 2019.
+      link: http://arxiv.org/abs/1905.10518
+      
+    - title: Aquarium Technical Report Preprint.
+      info: Ming Kawaguchi, Jingmei Hu, Eric Lu, David A. Holland, Stephen Chong, Margo Seltzer. ArXiv 2019.
+      link: http://arxiv.org/abs/1908.00093
+      
+    - title: ProvMark - A Provenance Expressiveness Benchmarking System.
+      info: Sheung Chi Chan, James Cheney, Pramod Bhatotia, Thomas F. J.-M. Pasquier, Ashish Gehani, Hassaan Irshad, Lucian Carata, Margo Seltzer. ArXiv 2019.
+      link: http://arxiv.org/abs/1909.11187
+      
+    - title: Erlay - Efficient Transaction Relay for Bitcoin.
+      info: Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra Fedorova, Ivan Beschastnikh. CCS 2019.
+      link: https://doi.org/10.1145/3319535.3354237
+      
+    - title: Vulnerability & Blame - Making Sense of Unauthorized Access to Smartphones.
+      info: Diogo Marques, Tiago João Guerreiro, Luís Carriço, Ivan Beschastnikh, Konstantin Beznosov. CHI 2019.
+      link: https://doi.org/10.1145/3290605.3300819
+      
+    - title: Jumpgate - In-Network Processing as a Service for Data Analytics. 
+      info: Craig Mustard, Fabian Ruffy, Anny Gakhokidze, Ivan Beschastnikh, Alexandra Fedorova. HotCloud 2019.
+      link: https://www.usenix.org/conference/hotcloud19/presentation/mustard
+      
+    - title: Improving microservice-based applications with runtime placement adaptation.
+      info: Adalberto R. Sampaio, Julia Rubin, Ivan Beschastnikh, Nelson S. Rosa. J. Internet Services and Applications 2019.
+      link: https://doi.org/10.1186/s13174-019-0104-0
+      
+    - title: Permissions Plugins as Android Apps.
+      info: Nisarg Raval, Ali Razeen, Ashwin Machanavajjhala, Landon P. Cox, Andrew Warfield. MobiSys 2019.
+      link: https://doi.org/10.1145/3307334.3326095
+      
+    - title: Learning to listen for design. 
+      info: Elisa L. A. Baniassad, Ivan Beschastnikh, Reid Holmes, Gregor Kiczales, Meghan Allen. Onward 2019.
+      link: https://doi.org/10.1145/3359591.3359738
+      
+    - title: Trials and Tribulations in Synthesizing Operating Systems.
+      info: Jingmei Hu, Eric Lu, David A. Holland, Ming Kawaguchi, Stephen Chong, Margo I. Seltzer. PLOS@SOSP 2019.
+      link: https://doi.org/10.1145/3365137.3365401
+      
+    - title: From Here to Provtopia.
+      info: Thomas F. J.-M. Pasquier, David M. Eyers, Margo Seltzer. Poly/DMAH@VLDB 2019.
+      link: https://doi.org/10.1007/978-3-030-33752-0_4
+      
+    - title: Mining Specifications from Documentation using a Crowd.
+      info: Peng Sun, Chris Brown, Ivan Beschastnikh, Kathryn T. Stolee. SANER 2019.
+      link: https://doi.org/10.1109/SANER.2019.8668025
+
+- date: 2018 
+  publications:   
+    - title: Runtime Analysis of Whole-System Provenance.
+      info: Thomas F. J.-M. Pasquier, Xueyuan Han, Thomas Moyer, Adam Bates, Olivier Hermant, David M. Eyers, Jean Bacon, Margo Seltzer. ACM Conference on Computer and Communications Security 2018.
+      link: https://doi.org/10.1145/3243734.3243776
+
+    - title: VNF chain allocation and management at data center scale.
+      info: Nodir Kodirov, Sam Bayless, Fabian Ruffy, Ivan Beschastnikh, Holger H. Hoos, Alan J. Hu. ANCS 2018.
+      link: https://doi.org/10.1145/3230718.3230724
+
+    - title: Sharing and Preserving Computational Analyses for Posterity with encapsulator.
+      info: Thomas F. J.-M. Pasquier, Matthew K. Lau, Xueyuan Han, Elizabeth Fong, Barbara Staudt Lerner, Emery R. Boose, Merce Crosas, Aaron M. Ellison, Margo Seltzer. ArXiv 2018.
+      link: http://arxiv.org/abs/1803.05808
+
+    - title: Persistent Memory Transactions.
+      info: Virendra J. Marathe, Achin Mishra, Amee Trivedi, Yihe Huang, Faisal Zaghloul, Sanidhya Kashyap, Margo Seltzer, Tim Harris, Steve Byan, Bill Bridge, Dave Dice. ArXiv 2018.
+      link: http://arxiv.org/abs/1804.00701
+
+    - title: Provenance-based Intrusion Detection - Opportunities and Challenges.
+      info: Xueyuan Han, Thomas F. J.-M. Pasquier, Margo Seltzer. ArXiv 2018.
+      link: http://arxiv.org/abs/1806.00934
+
+    - title: Mitigating Sybils in Federated Learning Poisoning.
+      info: Clement Fung, Chris J. M. Yoon, Ivan Beschastnikh. ArXiv 2018.
+      link: http://arxiv.org/abs/1808.04866
+
+    - title: Runtime Analysis of Whole-System Provenance.
+      info: Thomas F. J.-M. Pasquier, Xueyuan Han, Thomas Moyer, Adam Bates, Olivier Hermant, David M. Eyers, Jean Bacon, Margo Seltzer. ArXiv 2018.
+      link: http://arxiv.org/abs/1808.06049
+
+    - title: Automatic Parallelization of Sequential Programs.
+      info: Peter Kraft, Amos Waterland, Daniel Y. Fu, Anitha Gollamudi, Shai Szulanski, Margo Seltzer. ArXiv 2018.
+      link: http://arxiv.org/abs/1809.07684
+
+    - title: Dancing in the Dark - Private Multi-Party Machine Learning in an Untrusted Setting.
+      info: Clement Fung, Jamie Koerner, Stewart Grant, Ivan Beschastnikh. ArXiv 2018.
+      link: http://arxiv.org/abs/1811.09712
+
+    - title: Biscotti - A Ledger for Private and Secure Peer-to-Peer Machine Learning.
+      info: Muhammad Shayan, Clement Fung, Chris J. M. Yoon, Ivan Beschastnikh. ArXiv 2018.
+      link: http://arxiv.org/abs/1811.09904
+
+    - title: Iroko - A Framework to Prototype Reinforcement Learning for Data Center Traffic Control.
+      info: Fabian Ruffy, Michael Przystupa, Ivan Beschastnikh. ArXiv 2018.
+      link: http://arxiv.org/abs/1812.09975
+
+    - title: Sharing and Preserving Computational Analyses for Posterity with encapsulator.
+      info: Thomas F. J.-M. Pasquier, Matthew K. Lau, Xueyuan Han, Elizabeth Fong, Barbara Staudt Lerner, Emery R. Boose, Merce Crosas, Aaron M. Ellison, Margo Seltzer. Computing in Science and Engineering 2018.
+      link: https://doi.org/10.1109/MCSE.2018.042781334
+
+    - title: Towards Accountable Systems (Dagstuhl Seminar 18181).
+      info: David M. Eyers, Christopher Millard, Margo Seltzer, Jatinder Singh. Dagstuhl Reports 2018.
+      link: https://doi.org/10.4230/DagRep.8.4.126
+
+    - title: Performance comprehension at WiredTiger.
+      info: Alexandra Fedorova, Craig Mustard, Ivan Beschastnikh, Julia Rubin, Augustine Wong, Svetozar Miucin, Louis Ye. ESEC/SIGSOFT FSE 2018.
+      link: https://doi.org/10.1145/3236024.3236081
+
+    - title: An NVM Carol - Visions of NVM Past, Present, and Future.
+      info: Margo Seltzer, Virendra J. Marathe, Steve Byan. ICDE 2018.
+      link: https://doi.org/10.1109/ICDE.2018.00011
+
+    - title: Inferring and asserting distributed system invariants.
+      info: Stewart Grant, Hendrik Cech, Ivan Beschastnikh. ICSE 2018.
+      link: https://doi.org/10.1145/3180155.3180199
+
+    - title: Tsumiki - A Meta-Platform for Building Your Own Testbed.
+      info: Justin Cappos, Yanyan Zhuang, Albert Rafetseder, Ivan Beschastnikh. IEEE Trans. Parallel Distrib. Syst. 2018.
+      link: https://doi.org/10.1109/TPDS.2018.2846242
+
+    - title: Data provenance to audit compliance with privacy policy in the Internet of Things.
+      info: Thomas F. J.-M. Pasquier, Jatinder Singh, Julia E. Powles, David M. Eyers, Margo Seltzer, Jean Bacon. Personal and Ubiquitous Computing 2018.
+      link: https://doi.org/10.1007/s00779-017-1067-4
+
+    - title: Provenance-based Intrusion Detection - Opportunities and Challenges.
+      info: Xueyuan Han, Thomas F. J.-M. Pasquier, Margo Seltzer. TaPP 2018.
+      link: https://www.usenix.org/conference/tapp2018/presentation/han
+
+    - title: Closing the Performance Gap Between Volatile and Persistent Key-Value Stores Using Cross-Referencing Logs.
+      info: Yihe Huang, Matej Pavlovic, Virendra J. Marathe, Margo Seltzer, Tim Harris, Steve Byan. USENIX Annual Technical Conference 2018.
+      link: https://www.usenix.org/conference/atc18/presentation/huang
+
+- date: 2017
+  publications:
+    - title: Flipping Out in Computer Science.
+      info: Margo Seltzer. ;login- 2017.
+      link: https://www.usenix.org/publications/login/fall2017/seltzer
+
+    - title: Learning Certifiably Optimal Rule Lists for Categorical Data.
+      info: Elaine Angelino, Nicholas Larus-Stone, Daniel Alabi, Margo Seltzer, Cynthia Rudin. ArXiv 2017.
+      link: http://arxiv.org/abs/1704.01701
+
+    - title: Practical Whole-System Provenance Capture.
+      info: Thomas F. J.-M. Pasquier, Xueyuan Han, Mark Goldstein, Thomas Moyer, David M. Eyers, Margo Seltzer, Jean Bacon. ArXiv 2017.
+      link: http://arxiv.org/abs/1711.05296
+
+    - title: FRAPpuccino - Fault-detection through Runtime Analysis of Provenance.
+      info: Xueyuan Han, Thomas F. J.-M. Pasquier, Tanvi Ranjan, Mark Goldstein, Margo Seltzer. ArXiv 2017.
+      link: http://arxiv.org/abs/1711.11487
+
+    - title: Characterizing Social Insider Attacks on Facebook.
+      info: Wali Ahmed Usmani, Diogo Marques, Ivan Beschastnikh, Konstantin Beznosov, Tiago João Vieira Guerreiro, Luís Carriço. CHI 2017.
+      link: https://doi.org/10.1145/3025453.3025901
+
+    - title: Mirador - An Active Control Plane for Datacenter Storage.
+      info: Jake Wires, Andrew Warfield. FAST 2017.
+      link: https://www.usenix.org/conference/fast17/technical-sessions/presentation/wires
+
+    - title: FRAPpuccino - Fault-detection through Runtime Analysis of Provenance.
+      info: Xueyuan Han, Thomas F. J.-M. Pasquier, Tanvi Ranjan, Mark Goldstein, Margo Seltzer. HotCloud 2017.
+      link: https://www.usenix.org/conference/hotcloud17/program/presentation/han
+
+    - title: Persistent Memcached - Bringing Legacy Code to Byte-Addressable Persistent Memory.
+      info: Virendra J. Marathe, Margo Seltzer, Steve Byan, Tim Harris. HotStorage 2017.
+      link: https://www.usenix.org/conference/hotstorage17/program/presentation/marathe
+
+    - title: Scalable Bayesian Rule Lists.
+      info: Hongyu Yang, Cynthia Rudin, Margo Seltzer. ICML 2017.
+      link: http://proceedings.mlr.press/v70/yang17h.html
+
+    - title: Studying multi-threaded behavior with TSViz.
+      info: Matheus Nunes, Harjeet Lalh, Ashaya Sharma, Augustine Wong, Svetozar Miucin, Alexandra Fedorova, Ivan Beschastnikh. ICSE 2017.
+      link: https://doi.org/10.1109/ICSE-C.2017.9
+
+    - title: Accelerating Software Engineering Research Adoption with Analysis Bots.
+      info: Ivan Beschastnikh, Mircea Filip Lungu, Yanyan Zhuang. ICSE-NIER 2017.
+      link: https://doi.org/10.1109/ICSE-NIER.2017.17
+
+    - title: Refactoring Asynchrony in JavaScript.
+      info: Keheliya Gallaba, Quinn Hanam, Ali Mesbah, Ivan Beschastnikh. ICSME 2017.
+      link: https://doi.org/10.1109/ICSME.2017.83
+
+    - title: Supporting Microservice Evolution.
+      info: Adalberto R. Sampaio, Harshavardhan Kadiyala, Bo Hu, John Steinbacher, Tony Erwin, Nelson S. Rosa, Ivan Beschastnikh, Julia Rubin. ICSME 2017.
+      link: https://doi.org/10.1109/ICSME.2017.63
+
+    - title: Scalable Constraint-based Virtual Data Center Allocation.
+      info: Sam Bayless, Nodir Kodirov, Ivan Beschastnikh, Holger H. Hoos, Alan J. Hu. IJCAI 2017.
+      link: https://doi.org/10.24963/ijcai.2017/77
+
+    - title: Learning Certifiably Optimal Rule Lists for Categorical Data.
+      info: Elaine Angelino, Nicholas Larus-Stone, Daniel Alabi, Margo Seltzer, Cynthia Rudin. J. Mach. Learn. Res. 2017.
+      link: http://jmlr.org/papers/v18/17-716.html
+
+    - title: Learning Certifiably Optimal Rule Lists.
+      info: Elaine Angelino, Nicholas Larus-Stone, Daniel Alabi, Margo Seltzer, Cynthia Rudin. KDD 2017.
+      link: https://doi.org/10.1145/3097983.3098047
+
+    - title: A Crowdsourcing Approach to Collecting Tutorial Videos - Toward Personalized Learning-at-Scale.
+      info: Jacob Whitehill, Margo Seltzer. L@S 2017.
+      link: https://doi.org/10.1145/3051457.3053973
+
+    - title: Scalable and Fault Tolerant Platform for Distributed Learning on Private Medical Data.
+      info: Alborz Amir-Khalili, Soheil Kianzad, Rafeef Abugharbieh, Ivan Beschastnikh. MLMI@MICCAI 2017.
+      link: https://doi.org/10.1007/978-3-319-67389-9_21
+
+    - title: Decibel - Isolation and Sharing in Disaggregated Rack-Scale Storage.
+      info: Mihir Nanavati, Jake Wires, Andrew Warfield. NSDI 2017.
+      link: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/nanavati
+
+    - title: Practical whole-system provenance capture.
+      info: Thomas F. J.-M. Pasquier, Xueyuan Han, Mark Goldstein, Thomas Moyer, David M. Eyers, Margo Seltzer, Jean Bacon. SoCC 2017.
+      link: https://doi.org/10.1145/3127479.3129249
+
+    - title: Sketches of space - ownership accounting for shared storage.
+      info: Jake Wires, Pradeep Ganesan, Andrew Warfield. SoCC 2017.
+      link: https://doi.org/10.1145/3127479.3132021
+
+- date: 2016
+  publications:
+    - title: Debugging Distributed Systems.
+      info: Ivan Beschastnikh, Patty Wang, Yuriy Brun, Michael D. Ernst. ACM Queue 2016.
+      link: http://doi.acm.org/10.1145/2927299.2940294
+
+    - title: A Crowdsourcing Approach to Collecting 399 Tutorial Videos on Logarithms.
+      info: Jacob Whitehill, Margo Seltzer. ArXiv 2016.
+      link: http://arxiv.org/abs/1606.09610
+
+    - title: Scalable Bayesian Rule Lists.
+      info: Hongyu Yang, Cynthia Rudin, Margo Seltzer. ArXiv 2016.
+      link: http://arxiv.org/abs/1602.08610
+
+    - title: Non-volatile storage.
+      info: Mihir Nanavati, Malte Schwarzkopf, Jake Wires, Andrew Warfield. Commun. ACM 2016.
+      link: https://doi.org/10.1145/2814342
+
+    - title: Precisely Measuring Quantitative Information Flow - 10K Lines of Code and Beyond.
+      info: Celina G. Val, Michael A. Enescu, Sam Bayless, William Aiello, Alan J. Hu. EuroS&P 2016.
+      link: https://doi.org/10.1109/EuroSP.2016.15
+
+    - title: Visually reasoning about system and resource behavior.
+      info: Tony Ohmann, Ryan Stanley, Ivan Beschastnikh, Yuriy Brun. ICSE 2016.
+      link: https://doi.org/10.1145/2889160.2889166
+
+    - title: Comparing repositories visually with repograms.
+      info: Daniel Rozenberg, Ivan Beschastnikh, Fabian Kosmale, Valerie Poser, Heiko Becker, Marc Palyart, Gail C. Murphy. MSR 2016.
+      link: https://doi.org/10.1145/2901739.2901768
+
+    - title: Shuffler - Fast and Deployable Continuous Code Re-Randomization.
+      info: David Williams-King, Graham Gobieski, Kent Williams-King, James P. Blake, Xinhao Yuan, Patrick Colp, Michelle Zheng, Vasileios P. Kemerlis, Junfeng Yang, William Aiello. OSDI 2016.
+      link: https://www.usenix.org/conference/osdi16/technical-sessions/presentation/williams-king
+
+    - title: Beeswax - a platform for private web apps.
+      info: Jean-Sébastien Légaré, Róbert Sumi, William Aiello. PoPETs 2016.
+      link: https://doi.org/10.1515/popets-2016-0014
+
+  date: 2015
+  publications:
+    - title: Counter Stacks and the Elusive Working Set.
+      info: Jake Wires, Stephen Ingram, Zachary Drudi, Nicholas J. A. Harvey, Andrew Warfield. ;login- 2015.
+      link: https://www.usenix.org/publications/login/feb15/wires
+
+    - title: Non-volatile Storage.
+      info: Mihir Nanavati, Malte Schwarzkopf, Jake Wires, Andrew Warfield. ACM Queue 2015.
+      link: http://doi.acm.org/10.1145/2857274.2874238
+
+    - title: Approximating Hit Rate Curves using Streaming Algorithms.
+      info: Zachary Drudi, Nicholas J. A. Harvey, Stephen Ingram, Andrew Warfield, Jake Wires. APPROX-RANDOM 2015.
+      link: https://doi.org/10.4230/LIPIcs.APPROX-RANDOM.2015.225
+
+    - title: Using Declarative Specification to Improve the Understanding, Extensibility, and Comparison of Model-Inference Algorithms.
+      info: Ivan Beschastnikh, Yuriy Brun, Jenny Abrahamson, Michael D. Ernst, Arvind Krishnamurthy. IEEE Trans. Software Eng. 2015.
+      link: https://doi.org/10.1109/TSE.2014.2369047
+
+    - title: Tardigrade - Leveraging Lightweight Virtual Machines to Easily and Efficiently Construct Fault-Tolerant Services.
+      info: Jacob R. Lorch, Andrew Baumann, Lisa Glendenning, Dutch T. Meyer, Andrew Warfield. NSDI 2015.
+      link: https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/lorch
+
+- date: 2014
+  publications:
+    - title: Preface.
+      info: Jennifer L. Burke, Alan Wagner, Donald A. Sofge, William F. Lawless. AAAI Spring Symposia 2014.
+      link: http://www.aaai.org/ocs/index.php/SSS/SSS14/paper/view/8053
+
+    - title: Cloud security - a gathering storm.
+      info: Mihir Nanavati, Patrick Colp, Bill Aiello, Andrew Warfield. Commun. ACM 2014.
+      link: https://doi.org/10.1145/2593686
+
+    - title: An integrated fine-grain runtime system for MPI.
+      info: Humaira Kamal, Alan Wagner. Computing 2014.
+      link: https://doi.org/10.1007/s00607-013-0329-x
+
+    - title: Strata - scalable high-performance storage on virtualized non-volatile memory.
+      info: Brendan Cully, Jake Wires, Dutch T. Meyer, Kevin Jamieson, Keir Fraser, Tim Deegan, Daniel Stodden, Geoffrey Lefebvre, Daniel Ferstay, Andrew Warfield. FAST 2014.
+      link: https://www.usenix.org/conference/fast14/technical-sessions/presentation/cully
+
+    - title: A scalable distributed skip list for range queries.
+      info: Sarwar Alam, Humaira Kamal, Alan Wagner. HPDC 2014.
+      link: https://doi.org/10.1145/2600212.2600712
+
+    - title: Innesto - a multi-attribute searchable consistent key/value store.
+      info: Mahdi Tayarani Najaran, Norman C. Hutchinson. IJBDI 2014.
+      link: https://doi.org/10.1504/IJBDI.2014.066323
+
+    - title: SPEX - scalable spatial publish/subscribe for distributed virtual worlds without borders.
+      info: Mahdi Tayarani Najaran, Shun-Yun Hu, Norman C. Hutchinson. MMSys 2014.
+      link: https://doi.org/10.1145/2557642.2557655
+
+    - title: Characterizing Storage Workloads with Counter Stacks.
+      info: Jake Wires, Stephen Ingram, Zachary Drudi, Nicholas J. A. Harvey, Andrew Warfield. OSDI 2014.
+      link: https://www.usenix.org/conference/osdi14/technical-sessions/presentation/wires
+
+- date: 2013
+  publications:
+    - title: Service Oriented Programming in MPI.
+      info: Sarwar Alam, Humaira Kamal, Alan Wagner. CPA 2013.
+      link: http://wotug.org/paperdb/show_pap.php?f=1&num=695
+
+    - title: Innesto - A Searchable Key/Value Store for Highly Dimensional Data.
+      info: Mahdi Tayarani Najaran, Norman C. Hutchinson. CloudCom 2013.
+      link: https://doi.org/10.1109/CloudCom.2013.60
+
+    - title: Whose cache line is it anyway? - operating system support for live detection and repair of false sharing.
+      info: Mihir Nanavati, Mark Spear, Nathan Taylor, Shriram Rajagopalan, Dutch T. Meyer, William Aiello, Andrew Warfield. EuroSys 2013.
+      link: https://doi.org/10.1145/2465351.2465366
+
+    - title: Escape Capsule - Explicit State Is Robust and Scalable.
+      info: Shriram Rajagopalan, Dan Williams, Hani Jamjoom, Andrew Warfield. HotOS 2013.
+      link: https://www.usenix.org/conference/hotos13/session/rajagopalan
+
+    - title: Split/Merge - System Support for Elastic Execution in Virtual Middleboxes.
+      info: Shriram Rajagopalan, Dan Williams, Hani Jamjoom, Andrew Warfield. NSDI 2013.
+      link: https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/rajagopalan
+
+    - title: Tolerating business failures in hosted applications.
+      info: Jean-Sébastien Légaré, Dutch T. Meyer, Mark Spear, Alexandru Totolici, Sara Bainbridge, Kalan MacRow, Róbert Sumi, Quinlan Jung, Dennis Tjandra, David Williams-King, William Aiello, Andrew Warfield. SoCC 2013.
+      link: https://doi.org/10.1145/2523616.2523618
+
+    - title: RemusDB - transparent high availability for database systems.
+      info: Umar Farooq Minhas, Shriram Rajagopalan, Brendan Cully, Ashraf Aboulnaga, Kenneth Salem, Andrew Warfield. VLDB J. 2013.
+      link: https://doi.org/10.1007/s00778-012-0294-6
+
+- date: 2012
+  publications:
+    - title: An Integrated Runtime Scheduler for MPI.
+      info: Humaira Kamal, Alan Wagner. EuroMPI 2012.
+      link: https://doi.org/10.1007/978-3-642-33518-1_22
+
+    - title: Portable and Performant Userspace SCTP Stack.
+      info: Brad Penoff, Alan Wagner, Michael Tüxen, Irene Rüngeler. ICCCN 2012.
+      link: https://doi.org/10.1109/ICCCN.2012.6289222
+
+    - title: Added Concurrency to Improve MPI Performance on Multicore.
+      info: Humaira Kamal, Alan Wagner. ICPP 2012.
+      link: https://doi.org/10.1109/ICPP.2012.15
+
+    - title: Execution mining.
+      info: Geoffrey Lefebvre, Brendan Cully, Christopher Head, Mark Spear, Norman C. Hutchinson, Mike Feeley, Andrew Warfield. VEE 2012.
+      link: https://doi.org/10.1145/2151024.2151044
+
+    - title: SecondSite - disaster tolerance as a service.
+      info: Shriram Rajagopalan, Brendan Cully, Ryan O'Connor, Andrew Warfield. VEE 2012.
+      link: https://doi.org/10.1145/2151024.2151039
+
+    - title: DOHA - scalable real-time web applications through adaptive concurrent execution.
+      info: Aiman Erbad, Norman C. Hutchinson, Charles Krasic. WWW 2012.
+      link: https://doi.org/10.1145/2187836.2187859
+
+- date: 2011
+  publications:
+    - title: Namespace Management in Virtual Desktops.
+      info: Dutch T. Meyer, Jake Wires, Norman C. Hutchinson, Andrew Warfield. ;login- 2011.
+      link: https://www.usenix.org/publications/login/february-2011-volume-36-number-1/namespace-management-virtual-desktops
+
+    - title: Protecting consumer privacy from electric load monitoring.
+      info: Stephen E. McLaughlin, Patrick D. McDaniel, William Aiello. ACM Conference on Computer and Communications Security 2011.
+      link: https://doi.org/10.1145/2046707.2046720
+
+    - title: Capo - Recapitulating Storage for Virtual Desktops.
+      info: Mohammad Shamma, Dutch T. Meyer, Jake Wires, Maria Ivanova, Norman C. Hutchinson, Andrew Warfield. FAST 2011.
+      link: http://www.usenix.org/events/fast11/tech/techAbstracts.html#Shamma
+
+    - title: Herbert West - Deanonymizer.
+      info: Mihir Nanavati, Nathan Taylor, William Aiello, Andrew Warfield. HotSec 2011.
+      link: https://www.usenix.org/conference/hotsec11/herbert-west%E2%80%94deanonymizer
+
+    - title: Exposing File System Mappings with MapFS.
+      info: Jake Wires, Mark Spear, Andrew Warfield. HotStorage 2011.
+      link: https://www.usenix.org/conference/hotstorage11/exposing-file-system-mappings-mapfs
+
+    - title: RemusDB - Transparent High Availability for Database Systems.
+      info: Umar Farooq Minhas, Shriram Rajagopalan, Brendan Cully, Ashraf Aboulnaga, Kenneth Salem, Andrew Warfield. PVLDB 2011.
+      link: http://www.vldb.org/pvldb/vol4/p738-minhas.pdf
+
+    - title: Breaking up is hard to do - security and functionality in a commodity hypervisor.
+      info: Patrick Colp, Mihir Nanavati, Jun Zhu, William Aiello, George Coker, Tim Deegan, Peter Loscocco, Andrew Warfield. SOSP 2011.
+      link: https://doi.org/10.1145/2043556.2043575
+
+    - title: A new fast algorithm for connecting the INET simulation framework to applications in real-time.
+      info: Irene Rüngeler, Michael Tüxen, Brad Penoff, Alan Wagner. SimuTools 2011.
+      link: https://doi.org/10.4108/icst.simutools.2011.245506
+
+    - title: Retroactive aspects - programming in the past.
+      info: Robin Salkeld, Wenhao Xu, Brendan Cully, Geoffrey Lefebvre, Andrew Warfield, Gregor Kiczales. WODA 2011.
+      link: https://doi.org/10.1145/2002951.2002960
+
+- date: 2010
+  publications:
+    - title: Beyond Blocks and Files.
+      info: Jake Wires, Andrew Warfield. ;login- 2010.
+      link: https://www.usenix.org/publications/login/april-2010-volume-35-number-2/beyond-blocks-and-files
+
+    - title: Scalability of communicators and groups in MPI.
+      info: Humaira Kamal, Seyed M. Mirtaheri, Alan Wagner. HPDC 2010.
+      link: https://doi.org/10.1145/1851476.1851507
+
+    - title: Fast and Cautious Evolution of Cloud Storage.
+      info: Dutch T. Meyer, Mohammad Shamma, Jake Wires, Quan Zhang, Norman C. Hutchinson, Andrew Warfield. HotStorage 2010.
+      link: https://www.usenix.org/conference/hotstorage-10/fast-and-cautious-evolution-cloud-storage
+
+    - title: FG-MPI - Fine-grain MPI for multicore and clusters.
+      info: Humaira Kamal, Alan Wagner. IPDPS Workshops 2010.
+      link: https://doi.org/10.1109/IPDPSW.2010.5470773
+
+    - title: Employing transport layer multi-railing in cluster networks.
+      info: Brad Penoff, Humaira Kamal, Alan Wagner, Mike Tsai, Karol Mroz, Janardhan R. Iyengar. J. Parallel Distrib. Comput. 2010.
+      link: https://doi.org/10.1016/j.jpdc.2009.11.005

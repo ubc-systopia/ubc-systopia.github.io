@@ -1,0 +1,108 @@
+# NOTES
+# Only use the "name:" for a project that has a specific name (i.e. "Decibel").  The project name will be formatted with a colon after it.
+# If you want to include a project bullet that DOES NOT have a named heading, leave out "name:" and ONLY use "info:" instead
+# "link-name" should be used if you want make the name of the project into a link.
+
+- topic: Provenance
+  description: We investigate techniques and applications that make data more valuable, from capturing data provenance (a formal history of how data came to be in its present form) to deriving provenance to developing applications that use data provenance. We build tools to facilitate scientific reproducibility and we investigate ways to build systems that are more accountable to the people who develop and use them.
+  img: provenance.png
+
+- topic: Networked and distributed systems
+  description: We investigate new design principles in datacenter system design and operation.
+  img: disagg-logo.png
+  project:
+    - name: Decibel
+      info: a system for storage sharing in disaggregation
+      pubinfo: NSDI 2017
+      link: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/nanavati
+    - name: Jumpgate
+      info: In-Network Processing as a Service for Data Analytics
+      pubinfo: HotCloud 2019
+      link: https://www.cs.ubc.ca/~bestchai/papers/hotcloud19-jumpgate.pdf
+    - name: Disaggregated datacenters
+      info: fate sharing considerations and programmable fault tolerance
+      pubinfo: HotNets 2017
+      link: https://conferences.sigcomm.org/hotnets/2017/program.html#
+    - name: NetSolver
+      info: virtual data center and NFV chain allocation
+      pubinfo: IJCAI 2017
+      link: http://www.cs.ubc.ca/~bestchai/papers/netsolver-ijcai17.pdf
+    - info: New data structures and algortihms to characterize storage workloads
+      pubinfo: OSDI 2014
+      link: https://www.usenix.org/conference/osdi14/technical-sessions/presentation/wires
+
+- topic: Security
+  description: We develop systems to protect users' data and activities using a variety of approaches.
+  img: tcapsules-logo.jpg
+  project:
+    - name: Shuffler
+      info: Fast and Deployable Continuous Code Re-Randomization.
+      pubinfo: OSDI 2016
+      link: https://www.usenix.org/conference/osdi16/technical-sessions/presentation/williams-king
+    - info: Theory and techniques for quantifying information flow
+      pubinfo: EuroS&P 2016
+      link: http://ieeexplore.ieee.org/document/7467345/
+    - name: Micasa
+      info: Preserving user data functionality after service end-of-life in hosted applications
+      pubinfo: SoCC 2013
+      link: http://www.socc2013.org/home/program/a22-legare.pdf
+
+- topic: Privacy
+  description: We use modern privacy-preserving methods to provide new guarantees to current system design paradigms.
+  img: tormentor-logo.png
+  project: 
+    - name: InsuLearn
+      info: a system for building shared models across privately owned medical data
+      pubinfo: MICCAI MLMI 2017
+      link: https://www.cs.ubc.ca/~bestchai/papers/mlmi17-distributed-ml.pdf
+      link-name: https://github.com/DistributedML/InsuLearn
+    - name: Insider attacks
+      info: we characterized physical insider attacks on Facebook
+      pubinfo: CHI 2017
+      link: http://www.cs.ubc.ca/~bestchai/papers/social-insider-chi17.pdf
+      link-name: https://bestchai.github.io/social-insider-study/
+    - name: Beeswax
+      info: A client-side platform for private web applications
+      pubinfo: PETS 2016
+      link: https://petsymposium.org/2016/files/papers/Beeswax__a_platform_for_private_web_apps.pdf
+    - name: TorMentor
+      info: Brokered Agreements in Multi-Party Machine Learning
+      pubinfo: APSys 2019
+      link: https://www.cs.ubc.ca/~bestchai/papers/apsys19-brokering.pdf
+      link-name: https://github.com/DistributedML/TorML
+    - name: Biscotti
+      info: A Ledger for Private and Secure Peer-to-Peer Machine Learning
+      pubinfo: Arxiv pre-print
+      link: https://arxiv.org/abs/1811.09904
+      link-name: https://github.com/DistributedML/biscotti
+
+- topic: Software engineering for systems
+  description: We research processes, techniques, and tools to help engineer complex systems.
+  img: dinv-logo.jpg
+  project:
+    - name: NetCheck
+      info: diagnosing networked applications from blackbox syscall traces
+      pubinfo: NSDI 2014
+      link: http://www.cs.ubc.ca/~bestchai/papers/nsdi14_netcheck.pdf
+    - name: Dinv
+      info: a distributed invariant miner and checker
+      pubinfo: ICSE 2018
+      link: https://www.icse2018.org/
+    - name: ShiViz
+      info: a tool to visualize distributed and multi-threaded systems
+      pubinfo: ICSE 2014
+      link: https://www.cs.ubc.ca/~bestchai/papers/icse14_shivector_shiviz_poster_abstract.pdf
+      link-name: https://bestchai.bitbucket.io/shiviz/
+    - name: TSViz
+      info: a tool to visualize distributed and multi-threaded systems
+      pubinfo: ICSE 2017
+      link: https://www.cs.ubc.ca/~bestchai/papers/tsviz-icse17tool.pdf
+      link-name: https://bestchai.bitbucket.io/tsviz/
+    - name: PGo
+      info: a compiler from PlusCal formal specifications to Go implementions
+      pubinfo: SOSP 2017 SRC Winner
+      link: https://src.acm.org/winners/2018
+    - name: Dara
+      info: A model checker for distributed systems in Go
+      pubinfo: ESEC/FSE 2018 SRC 2nd Place
+      link: https://2018.fseconference.org/info/distinguished-paper-awards

@@ -1,0 +1,18 @@
+# IMPORTANT NOTE
+# To insert line breaks in the "title" section of the faculty info,
+# place the line in within a " " add \n in between each item.
+
+- name: Fangyu "Gary" Gai
+  title: "Blockchain"
+  link: #
+  img: gary.jpg
+
+- name: Jimmy Lin
+  title: "Optimization"
+  link: #
+  img: jimmy.jpg
+
+- name: Stephen Ye
+  title: "Software reliability"
+  link: #
+  img: stephen.jpg

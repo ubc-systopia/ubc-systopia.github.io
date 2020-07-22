@@ -1,0 +1,23 @@
+<!-- .faculty -->
+<div class="row">
+    {% for faculty in site.data.faculty %}
+    <div class="card-deck mx-0 p-0 col-lg-4">
+        <div class="card rounded-0 m-1 profile">
+            <div class="card-body d-flex align-items-start flex-column">
+                <h6>
+                    {{ faculty.name }}
+                </h6>
+                <span class="small">
+                    {{ faculty.title | newline_to_br }}
+                </span>
+                <a class="mt-auto profile-link text-right ml-auto" href="{{ faculty.link }}">
+                    <span class="material-icons">
+                    arrow_forward
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+<!-- /.faculty -->

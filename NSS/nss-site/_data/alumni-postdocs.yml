@@ -1,0 +1,9 @@
+# IMPORTANT NOTE
+# To insert line breaks in the "title" section of the faculty info,
+# place the line in within a " " add \n in between each item.
+
+- name: Ali Razeen
+  info: 2019, Amazon
+
+- name: Yanyan Zhuang
+  info: 2016, Assistant Professor @ University of Colorado, Colorado Springs

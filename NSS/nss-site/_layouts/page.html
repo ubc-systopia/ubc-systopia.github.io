@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<!-- heading-image -->
+{% if page.headerimg %}
+<div class="container-fluid p-0 bg-dark">    
+    <section><div class="container-fluid img-divider p-0">
+        <img class="img-fluid w-100" src="../../assets/images/{{ page.headerimg }}" alt="" style="opacity: 0.5;">
+    </section>
+</div>
+{% endif %}
+<!-- /heading-image -->
+<div class="container mt-5">
+    <!-- .about section -->
+    <section class="mb-5">
+        <div class="mb-4">
+            <div class="row">
+                <div class="col-lg-4"> 
+                    <h2>{{ page.tagline }}</h2>
+                    <h3 class="mt-3 mb-4">{{ page.heading }}</h3>
+                    <hr class="page-heading-divider">
+                </div>
+                <div class="col-lg-8 d-none"> </div>
+                </div>
+            <div class="row">
+                <div class="col">
+                    <p class="subheading text-lg-left text-justify">{{ page.description }}</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- /.about section -->
+</div>
+    
+{{ content }}
+{% include footer.html %}

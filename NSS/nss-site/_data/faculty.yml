@@ -1,0 +1,38 @@
+# IMPORTANT NOTE
+# To insert line breaks in the "title" section of the faculty info,
+# place the line in within a " " add \n in between each item.
+
+- name: Bill Aiello
+  title: In Loving Memory
+  link: https://www.cs.ubc.ca/people/bill-aiello
+  img: bill.jpg
+
+- name: Ivan Beschastnikh
+  title: "Distributed systems\nNetworks\nSoftware engineering"
+  link: http://www.cs.ubc.ca/~bestchai/
+  img: ivan.jpg
+
+- name: Mike Feeley
+  title: "Distributed systems\nOperating systems"
+  link: http://www.cs.ubc.ca/~feeley/
+  img: mike.jpg
+
+- name: Norm Hutchinson
+  title: "Distributed systems\nCompilers"
+  link: http://www.cs.ubc.ca/~norm/
+  img: norm.jpg
+
+- name: Mathias Lécuyer
+  title: "Joining 2021"
+  link: http://mathias.lecuyer.me/
+  img: mathias.jpg
+
+- name: Margo Seltzer
+  title: "Data quality\nSystems\nStorage"
+  link: https://www.seltzer.com/margo/
+  img: margo.jpg
+
+- name: Alan Wagner
+  title: "High performance systems"
+  link: http://www.cs.ubc.ca/~wagner/
+  img: alan.jpg

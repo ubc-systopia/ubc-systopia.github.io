@@ -1,0 +1,28 @@
+# IMPORTANT NOTE
+# To insert line breaks in the "title" section of the faculty info,
+# place the line in within a " " add \n in between each item.
+
+- name: Patrick Colp
+  title: "Computer security\nVirtualisation\nOperating systems"
+  link: http://people.cs.ubc.ca/~pjcolp/
+  img: newdefault.jpg
+
+- name: Swati Goswami
+  title: "Systems"
+  link: https://www.linkedin.com/in/swatigirigoswami/
+  img: swati.jpg
+
+- name: Nodir Kodirov
+  title: "Datacenter networking\nNetwork functions\nDatacenter scheduling"
+  link: https://www.cs.ubc.ca/~knodir/
+  img: nodir.jpg
+
+- name: Tony Mason
+  title: "File systems"
+  link: https://www.linkedin.com/in/tonymason2/
+  img: tony.jpg
+
+- name: Surbhi Palande
+  title: "Systems"
+  link: https://www.linkedin.com/in/csurbhi/
+  img: surbhi.jpg
