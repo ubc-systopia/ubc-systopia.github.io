@@ -44,4 +44,5 @@ description:
         }
     });
 </script>
+<h2 class="container text-right my-4"><a href="https://wiki.ubc.ca/NSS_Seminar">Read more on the Systopia Wiki <span class="material-icons float-right">arrow_forward</span></a></h2>
 </div>

@@ -6,6 +6,10 @@
 body {
   overflow-x: hidden;
 }
+a:hover {
+  text-decoration: none !important;
+  color: #05C1FC !important;
+}
 h1 {
     font-family: 'Biryani', sans-serif;
     font-weight: 900;
@@ -158,6 +162,20 @@ h1 {
       }
     .panel {
       overflow-x: scroll !important;
+    }
+    .headerimg-container {
+      display:none;
+    }
+  }
+  @media only screen and (min-width: 1400px) {
+    .wikitable {
+      max-width: 90rem;
+      margin: 0 auto;
+    }
+    .limitsize {
+      display: block;
+      max-width: 90rem;
+      margin: 0 auto !important;
     }
   }
 

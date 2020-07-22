@@ -14,7 +14,7 @@ description: We are a diverse group and are always looking to recruit strong stu
 </div>
 
 <div class="container-fluid mb-5 px-4">
-    <div class="row">
+    <div class="row limitsize">
         {% for faculty in site.data.faculty %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
             <div class="card rounded-0 m-1 profile">
@@ -51,7 +51,7 @@ description: We are a diverse group and are always looking to recruit strong stu
 </div>
 
 <div class="container-fluid mb-5 px-4">
-    <div class="row">
+    <div class="row limitsize">
         {% for postdocs in site.data.postdocs %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
             <div class="card rounded-0 m-1 profile">
@@ -88,7 +88,7 @@ description: We are a diverse group and are always looking to recruit strong stu
 </div>
 
 <div class="container-fluid mb-5 px-4">
-    <div class="row">
+    <div class="row limitsize">
         {% for phds in site.data.phds %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
             <div class="card rounded-0 m-1 profile">
@@ -125,7 +125,7 @@ description: We are a diverse group and are always looking to recruit strong stu
 </div>
 
 <div class="container-fluid mb-5 px-4">
-    <div class="row">
+    <div class="row limitsize">
         {% for mscs in site.data.mscs %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
             <div class="card rounded-0 m-1 profile">
@@ -162,7 +162,7 @@ description: We are a diverse group and are always looking to recruit strong stu
 </div>
 
 <div class="container-fluid mb-5 px-4">
-    <div class="row">
+    <div class="row limitsize">
         {% for visitors in site.data.visitors %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
             <div class="card rounded-0 m-1 profile">
@@ -200,7 +200,7 @@ description: We are a diverse group and are always looking to recruit strong stu
         <h4>Faculty Alumni</h4>
     </div>
     <div class="container-fluid mb-5 px-4">
-    <div class="row">
+    <div class="row limitsize">
         {% for alumni-faculty in site.data.alumni-faculty %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
             <div class="card rounded-0 m-1 profile light-bg">
