@@ -1,0 +1,198 @@
+/**
+* 1. This is a valid SCSS file. 
+* 2. You can use CSS and SCSS here. 
+* 3. Custom CSS must be saved manually.
+**/
+body {
+  overflow-x: hidden;
+}
+h1 {
+    font-family: 'Biryani', sans-serif;
+    font-weight: 900;
+    font-size: 2.5rem;
+    line-height: 3rem;
+    }
+  h2 {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-size: 1.25rem;
+    }
+  h5 {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-size: 1.5rem;
+    }
+  h6 {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-size: 1rem;
+    }
+  h3 {
+    font-family: 'Biryani', sans-serif;
+    font-weight: 900 !important;
+    font-size: 2.25rem !important;
+    line-height: 3rem !important;
+  }
+  h4 {
+    font-family: 'Biryani', sans-serif;
+    font-weight: 900 !important;
+    font-size: 1.75rem !important;
+    line-height: 3rem !important;
+  }  
+  .subheading {
+    font-weight: 200;
+    font-size: 1.15rem;
+    line-height: 1.85rem;
+    letter-spacing: 0.03rem;
+    }
+  .heading-divider {
+    border-top: 0.5rem solid #1F65FC;
+    margin: 1rem 0 2rem 10rem;
+    }
+  .page-heading-divider {
+    border-top: 0.25rem solid #1F65FC;
+    margin: 1rem 0 2rem 0;
+    }
+  body {
+    font-size: .95rem;
+    line-height: 1.65rem;
+    }
+  .navbar {
+    font-size: 1rem;
+    padding-top: 1rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    }
+  .navbar-brand {
+    color: #05C1FC !important;
+    font-weight: 900;
+    letter-spacing: .2rem;
+    font-size: 1.5rem;
+    }
+  .nav-card {
+    color: rgba(0,0,0,1);
+    }
+  .nav-card:hover {
+    text-decoration: none;
+    color: rgba(0,0,0,0.75);
+    }
+    
+  /* Slideshow Styling */
+  .carousel-img
+    {
+    max-height: 500px;
+    overflow: hidden;
+    position: relative;
+    }
+  
+  .material-icons {
+    color: #B7FEFA;
+    }
+  .profile-link {
+    display: block;
+    height: 24px;
+  }
+  .profile-link:hover {
+    text-decoration: none;
+  }
+
+  /* FOOTER STYLES */
+  .img-divider {
+    max-height: 25rem;
+    overflow: hidden;
+    }
+
+  /* Research Page Styles */
+  .alternating-block:nth-child(odd) {
+    background: #efefef;
+  }
+
+  /* Profile Card Styles */
+  .profile {
+    min-height: 10rem;
+    max-height: 10rem;
+    overflow: hidden;
+  }
+  .profile img {
+    height: 9.6rem;
+    display: block;
+    margin-left: -0.05rem;
+  }
+  .card {
+    border: .2rem solid #efefef !important;
+  }
+
+  /* Alumni Section Styles */
+  .bg-gray {
+    background-color: #efefef;
+  }
+  .light-bg {
+    background-color: #efefef !important;
+    border-color: #ffffff !important;
+  }
+  .mat-icon-alt {
+    color: #ffffff !important;
+    text-shadow: 0 0 5px rgba(0,0,0,0.25);
+  }
+  .alumni-subheading {
+    display: block;
+    font-size: .75rem;
+    line-height: 1rem;
+    font-weight: 300;
+  }
+  .alumni-accent {
+    color: #1F65FC;
+  }
+  
+  /* Media Screen Styles */
+  @media only screen and (max-width: 600px) {
+    .carousel-img {
+      height: 500px;
+      width: 889px;
+      overflow: hidden;
+      margin-left: -50%;
+    }
+    .slide-img {
+      height:500px;
+      width: 1000px;
+      }
+    .panel {
+      overflow-x: scroll !important;
+    }
+  }
+
+  /* Embedded Wiki Page Styles */
+  .news-h2 { 
+    font-family: 'Biryani', sans-serif;
+    font-weight: 900 !important;
+    font-size: 1.75rem !important;
+    line-height: 3rem !important;
+    margin-top: 3rem;
+    display: block;
+  }
+  .news-h3 { 
+    font-family: 'Roboto Mono', monospace !important;
+    font-weight: 300 !important;
+    font-size: 1.25rem !important;
+    line-height: 1.25rem !important; 
+  }
+  .wikitable th {
+    color: #999999 !important;
+    font-weight: 300;
+    font-family: 'Roboto Mono', monospace;
+    text-transform: uppercase;
+  }
+  .panel {
+    display: none;
+    overflow: hidden;
+  }
+  .firstpanel {
+    display: block !important;
+  }
+  .thingy {
+    color: #05c1fc;
+  }
+  .thingy:hover {
+    color: #1F65FC;
+    cursor: pointer;
+  }
