@@ -5,46 +5,7 @@
 layout: default
 ---
 <!-- .carousel -->
-<section class="main-slideshow"><div class="container-fluid p-0">
-        <div class="carousel slide" id="gallery-06" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li class="" data-target="#gallery-06" data-slide-to="0"></li>
-                <li data-target="#gallery-06" data-slide-to="1" class="active"></li>
-                <li data-target="#gallery-06" data-slide-to="2"></li>
-            </ol>
-            <div class="carousel-inner">
-                <div class="carousel-item bg-dark">
-                    <div>
-                        <div class="carousel-img">
-                            <img class="img-fluid w-100 slide-img" src="../assets/images/slide1-lab.jpg" alt="">
-                        </div>
-                        <div class="carousel-caption d-none d-md-block">
-                            <p>NSS Lab Members Fall 2019</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item bg-dark active">
-                        <div>
-                            <div class="carousel-img">
-                                <img class="img-fluid w-100 slide-img" src="../assets/images/slide2-soccer.jpg" alt="">
-                            </div>
-                            <div class="carousel-caption d-none d-md-block">
-                                <p>NSS Soccer</p>
-                            </div>
-                        </div>
-                </div>
-            </div>
-            <a class="carousel-control-prev" href="#gallery-06" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#gallery-06" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-        </div>
-        </div>
-</section>
+{% include carousel.html height="40" unit="%" duration="7" %}
 <!-- /.carousel -->
 
 <!-- .about section -->
