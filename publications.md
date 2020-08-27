@@ -4,7 +4,7 @@
 # To add a heading image, upload the img to /assets and type the file name + extension into "headerimg"
 
 layout: page
-headerimg: 
+headerimg: 20089915475_8364baed6d_k.jpg
 tagline: Papers, Articles, and More
 heading: Publications
 description: We have a strong track-record in publishing in top systems, networks, and security conferences and journals.

@@ -7,7 +7,7 @@ layout: page
 headerimg: 
 tagline: Updates and Accomplishments
 heading: News
-description: 
+description: Read more about our recent activities--including papers, posters, talks, and internships.
 ---
 <!-- .recent_papers_posters -->
 <div class="container">
