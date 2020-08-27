@@ -7,13 +7,14 @@
 
 layout: post
 date: 2020-08-24 12:02:24 -0700
-categories: optimization
+categories: optimization corels osdt
 headerimg:
 permalink: corels_osdt
 topic: Optimization
 heading: "CORELS + OSDT"
 description: "In the realm of applying systems techniques to the development of machine learning algorithms, we design data structures and computational caching strategies to find provably optimal solutions to real world instances of NP-hard problems. We build interpretable models in a supervised manner by using discrete optimization and customized data structures. Specifically, we find optimal rule lists and decision trees over categorical feature spaces with a certificate of optimality by leveraging algorithmic bounds to efficiently prune the search space."
 ---
+<!-- Project Overview section -->
 <div class="container-fluid bg-gray my-5 py-5">
     <div class="container pt-4">
         <h5>CORELS</h5>
@@ -24,6 +25,8 @@ description: "In the realm of applying systems techniques to the development of 
         <P>OSDT is the first practical algorithm for finding Optimal Sparse Decision Trees for binary variables. Inspired by CORELS, the algorithm is a co-design of analytical bounds that reduce the search space and modern systems techniques including data structures such as a custom bit-vector library. In spite of decision trees presenting a much bigger search space than rule lists, our success demonstrates the feasibility of finding optimal solutions using discrete optimization on modern computers.</P> 
     </div>
 </div>
+<!-- /Project Overview section -->
+<!-- Project Details and Additional Info -->
 <div class="container">
     <h6>On-Going Work</h6>
         <P>We are currently working on two major extensions of OSDT and CORELS:</P>
@@ -31,23 +34,24 @@ description: "In the realm of applying systems techniques to the development of 
             <li>Generality: Both algorithms originally only perform binary classification. We are generalizing our binary classification objective to problems with more than two classes. We also want to experiment with objectives beyond empirical accuracy, taking imbalanced label distributions and different decision boundaries into account.</li>
             <li>Scalability: To scale to larger feature sets and continuous features without sacrificing optimality, we are working on a new algorithm called dynamic-programming with bounds that lets us find optimal trees for a larger class of problems.</li>
         </ol>
-        <h6>Papers</h6>
+    <h6>Papers</h6>
         <ol>
-        <li>CORELS JMLR paper [<a href="https://www.seltzer.com/assets/publications/Learning-Certifiably-Optimal-Rule-Lists.pdf">Link</a>]</li>
-        <li>CORELS KDD paper [<a href="https://www.kdd.org/kdd2017/papers/view/learning-certifiably-optimal-rule-lists-for-categorical-data">Link</a>]</li>
-        <li>OSDT paper for NeurIPS [<a href="https://papers.nips.cc/paper/8947-optimal-sparse-decision-trees.pdf">Link</a>]</li>
-        <li>OSDT paper for NeurIPS [<a href="https://arxiv.org/pdf/1904.12847.pdf">Link</a>]</li>
+            <li>CORELS JMLR paper [<a href="https://www.seltzer.com/assets/publications/Learning-Certifiably-Optimal-Rule-Lists.pdf">Link</a>]</li>
+            <li>CORELS KDD paper [<a href="https://www.kdd.org/kdd2017/papers/view/learning-certifiably-optimal-rule-lists-for-categorical-data">Link</a>]</li>
+            <li>OSDT paper for NeurIPS [<a href="https://papers.nips.cc/paper/8947-optimal-sparse-decision-trees.pdf">Link</a>]</li>
+            <li>OSDT paper for NeurIPS [<a href="https://arxiv.org/pdf/1904.12847.pdf">Link</a>]</li>
         </ol>
-        <h6>Code</h6>
+    <h6>Code</h6>
         <ol>
-        <li>PyCORELS [<a href="https://pycorels.readthedocs.io/en/latest/CorelsClassifier.html">Link</a>]</li>
-        <li>Public C++ CORELS [<a href="https://github.com/corels/corels">Link</a>]</li>
+            <li>PyCORELS [<a href="https://pycorels.readthedocs.io/en/latest/CorelsClassifier.html">Link</a>]</li>
+            <li>Public C++ CORELS [<a href="https://github.com/corels/corels">Link</a>]</li>
         </ol>
-        <h6>Other Resources</h6>
+    <h6>Other Resources</h6>
         <ol>
-        <li>CORELS video [<a href="https://pycorels.readthedocs.io/en/latest/CorelsClassifier.html">Link</a>]</li>
-        <li>Interactive CORELS [<a href=" https://corels.eecs.harvard.edu">Link</a>]</li>
-        <li>BA Thesis on CORELS Implementation [<a href="https://corels.eecs.harvard.edu/corels/Larus-Stone_thesis.pdf">Link</a>]</li>
-        <li>Sean's Thesis on OSDT [<a href="">TBD</a>]</li>
+            <li>CORELS video [<a href="https://pycorels.readthedocs.io/en/latest/CorelsClassifier.html">Link</a>]</li>
+            <li>Interactive CORELS [<a href=" https://corels.eecs.harvard.edu">Link</a>]</li>
+            <li>BA Thesis on CORELS Implementation [<a href="https://corels.eecs.harvard.edu/corels/Larus-Stone_thesis.pdf">Link</a>]</li>
+            <li>Sean's Thesis on OSDT [<a href="">TBD</a>]</li>
         </ol>
 </div>
+<!-- /Project Details and Additional Info -->
