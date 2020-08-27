@@ -1,9 +1,10 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# To add a heading image, upload the img to /assets and type the file name + extension into "headerimg"
 
 layout: page
-headerimg: slide1-lab.jpg
+headerimg: 20089915475_8364baed6d_k.jpg
 tagline: Meet Our Team
 heading: People
 description: We are a diverse group and are always looking to recruit strong students, post-docs, and new faculty to join us.
@@ -17,12 +18,10 @@ description: We are a diverse group and are always looking to recruit strong stu
     <div class="row limitsize">
         {% for faculty in site.data.faculty %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <div class="card rounded-0 m-1 profile">
+            <a href="{{ faculty.link }}"><div class="card rounded-0 m-1 profile">
                 <div class="row px-3">
                     <div>
-                        <a href="{{ faculty.link }}">
-                            <img src="../../assets/images/profiles/{{ faculty.img }}">
-                        </a>
+                        <img src="../../assets/images/profiles/{{ faculty.img }}">
                     </div>
                     <div class="col p-3 d-flex align-items-start flex-column">
                         <h6>
@@ -38,7 +37,7 @@ description: We are a diverse group and are always looking to recruit strong stu
                         </a>
                     </div>
                 </div>
-            </div>
+            </div></a>
         </div>
         {% endfor %}
     </div>
@@ -54,12 +53,10 @@ description: We are a diverse group and are always looking to recruit strong stu
     <div class="row limitsize">
         {% for postdocs in site.data.postdocs %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <div class="card rounded-0 m-1 profile">
+            <a href="{{ postdocs.link }}"><div class="card rounded-0 m-1 profile">
                 <div class="row px-3">
                     <div>
-                        <a href="{{ postdocs.link }}">
-                            <img src="../../assets/images/profiles/{{ postdocs.img }}">
-                        </a>
+                        <img src="../../assets/images/profiles/{{ postdocs.img }}">
                     </div>
                     <div class="col p-3 d-flex align-items-start flex-column">
                         <h6>
@@ -75,7 +72,7 @@ description: We are a diverse group and are always looking to recruit strong stu
                         </a>
                     </div>
                 </div>
-            </div>
+            </div></a>
         </div>
         {% endfor %}
     </div>
@@ -91,12 +88,10 @@ description: We are a diverse group and are always looking to recruit strong stu
     <div class="row limitsize">
         {% for phds in site.data.phds %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <div class="card rounded-0 m-1 profile">
+            <a href="{{ phds.link }}"><div class="card rounded-0 m-1 profile">
                 <div class="row px-3">
                     <div>
-                        <a href="{{ phds.link }}">
-                            <img src="../../assets/images/profiles/{{ phds.img }}">
-                        </a>
+                        <img src="../../assets/images/profiles/{{ phds.img }}">
                     </div>
                     <div class="col p-3 d-flex align-items-start flex-column">
                         <h6>
@@ -112,7 +107,7 @@ description: We are a diverse group and are always looking to recruit strong stu
                         </a>
                     </div>
                 </div>
-            </div>
+            </div></a>
         </div>
         {% endfor %}
     </div>
@@ -128,12 +123,10 @@ description: We are a diverse group and are always looking to recruit strong stu
     <div class="row limitsize">
         {% for mscs in site.data.mscs %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <div class="card rounded-0 m-1 profile">
+            <a href="{{ mscs.link }}"><div class="card rounded-0 m-1 profile">
                 <div class="row px-3">
                     <div>
-                        <a href="{{ mscs.link }}">
-                            <img src="../../assets/images/profiles/{{ mscs.img }}">
-                        </a>
+                        <img src="../../assets/images/profiles/{{ mscs.img }}">
                     </div>
                     <div class="col p-3 d-flex align-items-start flex-column">
                         <h6>
@@ -149,7 +142,7 @@ description: We are a diverse group and are always looking to recruit strong stu
                         </a>
                     </div>
                 </div>
-            </div>
+            </div></a>
         </div>
         {% endfor %}
     </div>
@@ -165,12 +158,10 @@ description: We are a diverse group and are always looking to recruit strong stu
     <div class="row limitsize">
         {% for visitors in site.data.visitors %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <div class="card rounded-0 m-1 profile">
+            <a href="{{ visitors.link }}"><div class="card rounded-0 m-1 profile">
                 <div class="row px-3">
                     <div>
-                        <a href="{{ visitors.link }}">
-                            <img src="../../assets/images/profiles/{{ visitors.img }}">
-                        </a>
+                        <img src="../../assets/images/profiles/{{ visitors.img }}">
                     </div>
                     <div class="col p-3 d-flex align-items-start flex-column">
                         <h6>
@@ -186,7 +177,7 @@ description: We are a diverse group and are always looking to recruit strong stu
                         </a>
                     </div>
                 </div>
-            </div>
+            </div></a>
         </div>
         {% endfor %}
     </div>
@@ -203,12 +194,10 @@ description: We are a diverse group and are always looking to recruit strong stu
     <div class="row limitsize">
         {% for alumni-faculty in site.data.alumni-faculty %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <div class="card rounded-0 m-1 profile light-bg">
+            <a href="{{ alumni-faculty.link }}"><div class="card rounded-0 m-1 profile light-bg">
                 <div class="row px-3">
                     <div>
-                        <a href="{{ alumni-faculty.link }}">
                             <img src="../../assets/images/profiles/{{ alumni-faculty.img }}">
-                        </a>
                     </div>
                     <div class="col p-3 d-flex align-items-start flex-column">
                         <h6>
@@ -224,7 +213,7 @@ description: We are a diverse group and are always looking to recruit strong stu
                         </a>
                     </div>
                 </div>
-            </div>
+            </div></a>
         </div>
         {% endfor %}
     </div>

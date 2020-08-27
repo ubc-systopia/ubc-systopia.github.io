@@ -18,17 +18,17 @@ h1 {
     }
   h2 {
     font-family: 'Roboto Mono', monospace;
-    font-weight: 300;
+    font-weight: 800 !important;
     font-size: 1.25rem;
     }
   h5 {
     font-family: 'Roboto Mono', monospace;
-    font-weight: 300;
+    font-weight: 800 !important;
     font-size: 1.5rem;
     }
   h6 {
     font-family: 'Roboto Mono', monospace;
-    font-weight: 300;
+    font-weight: 800 !important;
     font-size: 1rem;
     }
   h3 {
@@ -117,6 +117,9 @@ h1 {
     max-height: 10rem;
     overflow: hidden;
   }
+  .profile a {
+    color: inherit !important;
+  }
   .profile img {
     height: 9.6rem;
     display: block;
@@ -124,6 +127,11 @@ h1 {
   }
   .card {
     border: .2rem solid #efefef !important;
+    display: block;
+  }
+  .card:hover {
+    border: .2rem solid #B7FEFA !important;
+    display: block;
   }
 
   /* Alumni Section Styles */
@@ -132,6 +140,10 @@ h1 {
   }
   .light-bg {
     background-color: #efefef !important;
+    border-color: #ffffff !important;
+  }
+  .light-bg:hover {
+    background-color: rgba(255,255,255,0.5) !important;
     border-color: #ffffff !important;
   }
   .mat-icon-alt {
@@ -190,13 +202,13 @@ h1 {
   }
   .news-h3 { 
     font-family: 'Roboto Mono', monospace !important;
-    font-weight: 300 !important;
+    font-weight: 800 !important;
     font-size: 1.25rem !important;
     line-height: 1.25rem !important; 
   }
   .wikitable th {
     color: #999999 !important;
-    font-weight: 300;
+    font-weight: 800;
     font-family: 'Roboto Mono', monospace;
     text-transform: uppercase;
   }

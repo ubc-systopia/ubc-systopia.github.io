@@ -1,9 +1,10 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# To add a heading image, upload the img to /assets and type the file name + extension into "headerimg"
 
 layout: page
-headerimg: lablife.jpg
+headerimg: 20089915475_8364baed6d_k.jpg
 tagline: Currently Investigating
 heading: Research
 description: We conduct research on a variety of topics, including operating systems, distributed systems, security, and program analysis.

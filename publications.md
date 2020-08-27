@@ -1,9 +1,10 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# To add a heading image, upload the img to /assets and type the file name + extension into "headerimg"
 
 layout: page
-headerimg: slide2-soccer.jpg
+headerimg: 
 tagline: Papers, Articles, and More
 heading: Publications
 description: We have a strong track-record in publishing in top systems, networks, and security conferences and journals.

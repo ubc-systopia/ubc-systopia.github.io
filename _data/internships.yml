@@ -1,0 +1,20 @@
+# NOTES
+# When entering info, please adhere to the following formatting guidelines:
+# If the title of the publication has a :, please put the entire title inside quotation marks.
+# If there is a separate link for the video, put it in "video-link"
+
+- date: Summer 2019
+  internship:
+    - intern: Vaastav Anand
+      organization: Max Planck Institute for Software Systems
+      org-link: https://www.mpi-sws.org/
+
+- date: Summer 2018
+  internship:
+    - intern: Fabian Ruffy
+      organization: VMware Research
+      org-link: https://research.vmware.com/
+
+    - intern: Gleb Naumenko
+      organization: Blockstream
+      org-link: https://blockstream.com/
