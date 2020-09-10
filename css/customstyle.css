@@ -50,11 +50,11 @@ h1 {
     letter-spacing: 0.03rem;
     }
   .heading-divider {
-    border-top: 0.5rem solid #1F65FC;
+    border-top: 0.5rem solid #05C1FC !important;
     margin: 1rem 0 2rem 10rem;
     }
   .page-heading-divider {
-    border-top: 0.25rem solid #1F65FC;
+    border-top: 0.25rem solid #05C1FC !important;
     margin: 1rem 0 2rem 0;
     }
   body {
@@ -68,7 +68,7 @@ h1 {
     letter-spacing: .1rem;
     }
   .navbar-brand {
-    color: #05C1FC !important;
+    color: #1F65FC !important;
     font-weight: 900;
     letter-spacing: .2rem;
     font-size: 1.5rem;
@@ -76,10 +76,13 @@ h1 {
   .nav-card {
     color: rgba(0,0,0,1);
     }
-  .nav-card:hover {
+  a.nav-card:hover {
     text-decoration: none;
-    color: rgba(0,0,0,0.75);
+    color: #1F65FC !important;
     }
+  .nav-link {
+    color: #000000 !important;
+  }
     
   /* Slideshow Styling */
   .carousel-img
@@ -90,7 +93,7 @@ h1 {
     }
   
   .material-icons {
-    color: #B7FEFA;
+    color: #05c1fc;
     }
   .profile-link {
     display: block;
@@ -225,4 +228,22 @@ h1 {
   .thingy:hover {
     color: #1F65FC;
     cursor: pointer;
+  }
+
+  /* Research Page Styling */
+  a.research-topic-card {
+    color: #000000 !important;
+  }
+  a.research-topic-card:hover{
+    color: #1F65FC !important;
+  }
+  .accordion-toggle {
+    display: block; 
+    color: #1F65FC;
+    margin: 1px 5px 0 0; 
+    float: left;
+    cursor: pointer;
+  }
+  .accordion-toggle:hover {
+    color: #05c1fc !important;
   }

@@ -4,39 +4,40 @@
 # To add a heading image, upload the img to /assets and type the file name + extension into "headerimg"
 
 layout: page
-headerimg: 20089915475_8364baed6d_k.jpg
+headerimg: Snacks.jpeg
 tagline: Currently Investigating
 heading: Research
 description: We conduct research on a variety of topics, including operating systems, distributed systems, security, and program analysis.
 ---
-<!-- .publication_list -->
 
-{% for topic_research in site.data.research %}
-<div class="container-fluid py-5 mb-0 alternating-block">
-    <div class="container py-5">
-        <div class="row">
-            <div class="col-lg-3">
-                <h5>{{ topic_research.topic }}</h5>
-            </div>
-            <div class="col-lg-9">
-                <div class="d-block">
-                    <P>{{ topic_research.description }}</P>
-                    <ul class="py-0 px-3">
-                        {% for project in topic_research.project %}
-                            <li class="col-lg-6 float-left pl-0 pr-5">
-                            {% if project.name %}
-                                <a href="{{ project.link-name }}"><B>{{ project.name }}:</B></a>
-                            {% endif %}
-                            {{ project.info }}
-                            (<a href="{{ project.link}}">{{ project.pubinfo }}</a>)
-                            </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <img class="pt-4 mx-auto d-flex" src="../../assets/images/{{ topic_research.img }}" style="width: 75%;">
-            </div>
+<div class="container-fluid p-0">
+    <div class="collapse-list-wrapper" 
+     id="complex-wrapper-id">
+    {% for item in site.data.research-topics %}
+    {%- capture target-id -%}
+        {{ item.tag }}
+    {%- endcapture -%}
+    <div class="container">
+        <h3>{{ item.topic }}</h3>
+        <P>{{ item.description }}</P>
+        <div class="collapse-list-heading {% unless forloop.index == 1 %} collapsed {% endunless %}" 
+            data-toggle="collapse" 
+            data-target="#{{ target-id }}" 
+            aria-controls="{{ target-id }}" 
+            aria-expanded="{% if forloop.index == 1 %} true {% else %} false {% endif %}">
+            <h6 class="mb-5">
+            <span class="material-icons">arrow_downward</span> 
+            <span class="accordion-toggle" alt="Click to view more">View {{ item.topic }} Projects</span>
+            </h6>
         </div>
     </div>
+    <div class="bg-gray mb-5 collapse-list-target collapse {% if forloop.index == 1 %} show {% endif %}" 
+         id="{{ target-id }}" 
+         aria-labelledby="{{ target-id }}" 
+         data-parent="#complex-wrapper-id">
+        <div class="container">{% assign tag = item.tag %}
+            {% include tagPagesLoop.html tagName=tag %}
+        </div>
+    </div>
+    {% endfor %}
 </div>
-{% endfor %}
-<!-- /.publication_list -->

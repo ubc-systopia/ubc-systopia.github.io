@@ -4,7 +4,7 @@
 # To add a heading image, upload the img to /assets and type the file name + extension into "headerimg"
 
 layout: page
-headerimg: 20089915475_8364baed6d_k.jpg
+headerimg: Social-Distancing-Pano-2.jpeg
 tagline: Meet Our Team
 heading: People
 description: We are a diverse group and are always looking to recruit strong students, post-docs, and new faculty to join us.

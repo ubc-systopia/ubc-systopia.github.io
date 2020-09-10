@@ -7,7 +7,7 @@
 
 layout: post
 date: 2020-08-24 12:02:24 -0700
-categories: optimization corels osdt
+tags: optimization corels osdt
 headerimg:
 permalink: corels_osdt
 topic: Optimization

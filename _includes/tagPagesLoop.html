@@ -1,0 +1,11 @@
+<div class="pb-5">
+    {% for post in site.tags[include.tagName] %}
+
+    <h4 class="pt-5">{{ post.heading }}</h4>
+    <P>{{ post.description }}</P>
+    <a href="/{{ post.permalink }}"><h6>
+        <span class="material-icons">arrow_forward</span> 
+        <span style="display: block; margin: 1px 5px 0 0; float: left;">Read More</span>
+    </h6></a>
+    {% endfor %}
+</div>

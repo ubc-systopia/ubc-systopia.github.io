@@ -1,0 +1,19 @@
+# NOTES
+# If you plan on including quotation marks, colons, or other special punctuation in your description/title, please enclose the text in quotation marks.
+# "url" is used to 
+
+- topic: Optimization
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum ante at nisi hendrerit mattis. Donec ornare, mi nec efficitur placerat, justo tortor lobortis mauris, ut posuere mi purus ut enim. Proin sit amet varius neque, in vulputate purus. Sed pretium diam turpis, eu ullamcorper ex lacinia a. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  tag: optimization
+- topic: Storage
+  description: Pellentesque suscipit lacinia erat, quis blandit diam tristique vitae. Quisque rhoncus ipsum a dolor molestie, quis gravida sapien fermentum. Cras ex massa, malesuada sed purus a, imperdiet pharetra turpis. Morbi elit ante, molestie quis tincidunt eu, eleifend in orci. Nunc vel libero velit. Proin feugiat augue ac nulla iaculis luctus. Vestibulum vitae metus lorem.
+  tag: storage
+- topic: "Velosity: Synthesizing System Software"
+  description: Aliquam ultricies sem id tellus tincidunt ullamcorper. Mauris aliquam ante sed dolor dignissim hendrerit. Praesent at porta odio. Nam ante leo, sagittis quis massa id, elementum dignissim nibh. Aenean ac purus augue. Sed sagittis diam eget metus dignissim facilisis. Nulla ac felis vitae justo vehicula euismod.
+  tag: velosity
+- topic: Provenance
+  description: We investigate techniques and applications that make data more valuable, from capturing data provenance (a formal history of how data came to be in its present form) to deriving provenance to developing applications that use data provenance. We build tools to facilitate scientific reproducibility and we investigate ways to build systems that are more accountable to the people who develop and use them.
+  tag: provenance
+- topic: Security
+  description: Pellentesque suscipit lacinia erat, quis blandit diam tristique vitae. Quisque rhoncus ipsum a dolor molestie, quis gravida sapien fermentum. Cras ex massa, malesuada sed purus a, imperdiet pharetra turpis. Morbi elit ante, molestie quis tincidunt eu, eleifend in orci. Nunc vel libero velit. Proin feugiat augue ac nulla iaculis luctus. Vestibulum vitae metus lorem.
+  tag: security
