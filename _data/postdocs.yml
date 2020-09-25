@@ -1,8 +1,0 @@
-# IMPORTANT NOTE
-# To insert line breaks in the "title" section of the faculty info,
-# place the line in within a " " add \n in between each item.
-
-- name: Jean-Sébastien Légaré
-  title: "Data privacy\nWeb security\nVirtualisation"
-  link: http://www.cs.ubc.ca/~jslegare/
-  img: jean.jpg

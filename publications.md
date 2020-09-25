@@ -20,7 +20,7 @@ description: We have a strong track-record in publishing in top systems, network
             {% for publication in year_publist.publications %}
                 <p><B>{{ publication.title }}</B>
                 {{ publication.info }}
-                <a href="{{ publication.link}}">[Link]</a></p>
+                <a href="{{ publication.link}}" alt="Read More">[Link]</a></p>
             {% endfor %}
         </div>
     </div>

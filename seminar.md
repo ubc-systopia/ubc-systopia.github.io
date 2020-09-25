@@ -15,20 +15,21 @@ description:
     jQuery(document).ready(function(){
         $('h3 .mw-headline').addClass('news-h3');
         $('#toc').attr("style", "display: none !important");
-        $('h3 .mw-headline').addClass('thingy');
         $('h2 .mw-headline').addClass('news-h2');
-        $('h3').addClass('accordion');
-        $('h3:first').removeClass('accordion');
-        $('.accordion').first().before('<hr id="hr1" class="container mb-5"><div class="container"><h4>Current Semester</h4></div>');
+        $('table').wrap('<div class="panel"></div>');
+        $('.panel:first').addClass('firstpanel');
+        $('.firstpanel').prev().addClass('firstpanelheading');
+        $('.firstpanelheading').before('<hr id="hr1" class="container mb-5"><div class="container"><h4>Current Semester</h4></div>');
         $('.toc').each(function() {
             var wrap = $('<div class="container"></div>');
             $(this).nextUntil('#hr1').appendTo(wrap);
             $(this).after(wrap);
         });
-        $('table').wrap('<div class="panel"></div>');
-        $('.panel:first').addClass('firstpanel');
         $('.firstpanel').after('<hr class="container mb-5"><div class="container"><h4>Past Semesters</h4></div>');
+        $('.panel').prev().addClass('accordion');
         $('.accordion').addClass('container');
+        $('.accordion').addClass('expandlink');
+        $('.accordion').last().attr("style", "display: none !important;");
         $('.wikitable').addClass('table table-striped small mb-4');
         var acc = document.getElementsByClassName("accordion");
         var i;

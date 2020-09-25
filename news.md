@@ -15,8 +15,8 @@ description: Read more about our recent activities--including papers, posters, t
     <div class="row mb-5">
         <div class="col">
             <h4 class="mb-4">Recent Papers and Posters</h4>
-            {% for publication in site.data.recent-papers-posters %}
-            <p><B><a href="{{ publication.link}}">{{ publication.title }}.</a></B> {{ publication.authors }}. {{ publication.publisher }}.
+            {% for publication in site.data.news.papers-posters %}
+            <p><B><a href="{{ publication.link}}" alt="Publication Link">{{ publication.title }}.</a></B> {{ publication.authors }}. {{ publication.publisher }}.
                 {% if publication.info %}
             <ul><li>{{ publication.info }}</li></ul>
                 {% endif %}
@@ -30,10 +30,10 @@ description: Read more about our recent activities--including papers, posters, t
     <div class="row mb-5">
         <div class="col">
             <h4 class="mb-4">Recent Talks</h4>
-            {% for talk in site.data.recent-talks %}
+            {% for talk in site.data.news.talks %}
             <ul>
                 <li>
-                    <B>{{ talk.speaker }}</B>: {{ talk.title }}, <a href="{{ talk.link}}">{{ talk.event }}.</a> 
+                    <B>{{ talk.speaker }}</B>: {{ talk.title }}, <a href="{{ talk.link}}" alt="Talk Link">{{ talk.event }}.</a> 
                         {% if talk.video-link %}
                     <a href="{{ talk.video-link }}">[Video]</a>
                         {% endif %}
@@ -49,11 +49,11 @@ description: Read more about our recent activities--including papers, posters, t
     <div class="row mb-5">
         <div class="col">
             <h4 class="mb-4">Internships</h4>
-            {% for internship_date in site.data.internships %}
+            {% for internship_date in site.data.news.internships %}
                 <h5 class="mb-4">{{ internship_date.date }}</h5>
                     {% for internship in internship_date.internship %}
                         <ul class="mb-4">
-                            <li><B>{{ internship.intern }}</B>: <a href="{{ internship.org-link}}">{{ internship.organization }}</a></li>
+                            <li><B>{{ internship.intern }}</B>: <a href="{{ internship.org-link}}" alt="More Info">{{ internship.organization }}</a></li>
                         </ul>
                     {% endfor %}
             {% endfor %}

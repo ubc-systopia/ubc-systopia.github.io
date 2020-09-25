@@ -16,10 +16,10 @@ layout: default
           <div class="col-lg-3 col-md-5 p-0 d-md-flex d-none"><img class="img-fluid" src="../assets/images/Vectorized_Logo_(EDITED).png" alt=""></div>
           <div class="col-lg-1 d-lg-flex d-none"> </div>
           <div class="col-lg-6 col-md-7 my-auto pl-md-5 py-5">
-            <h2 class="text-right">Who We Are</h2>
-            <h1 class="mt-4 mb-3 text-right">Networks, Systems, and Security (NSS) Lab</h1>
+            <h2 class="text-right">Welcome to Systopia</h2>
+            <h1 class="mt-4 mb-3 text-right">Researching Networks, Systems, and Security</h1>
             <hr class="heading-divider">
-            <p class="subheading text-lg-left text-justify">The NSS lab is part of the Department of Computer Science, at the University of British Columbia.</p>
+            <p class="subheading text-lg-left text-justify">The Systopia lab is part of the Department of Computer Science, at the University of British Columbia.</p>
           </div>
           <div class="col-lg-1 d-lg-flex d-none"> </div>
         </div>
@@ -31,21 +31,21 @@ layout: default
 <section class="pt-md-5 pb-lg-5 pb-0">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-4 mb-md-0 mb-5 px-md-4"><a class="nav-card" href="people.html">
+            <div class="col-12 col-md-4 mb-md-0 mb-5 px-md-4"><a class="nav-card" href="people.html" alt="Our Lab">
                 <h5 class="mb-4"><span>People</span>
                     <span class="material-icons float-right">
                     arrow_forward
                     </span></h5>
                 We are a diverse group and are always looking to recruit strong students, post-docs, and new faculty to join us.</a>
             </div>
-            <div class="col-12 col-md-4 mb-md-0 mb-5 px-md-4"><a class="nav-card" href="research.html">
+            <div class="col-12 col-md-4 mb-md-0 mb-5 px-md-4"><a class="nav-card" href="research.html" alt="Our Research">
                 <h5 class="mb-4"><span>Research</span>
                     <span class="material-icons float-right">
                     arrow_forward
                     </span></h5>
                 We conduct research on a variety of topics, including operating systems, distributed systems, security, and program analysis.</a>
             </div>
-            <div class="col-12 col-md-4 px-md-4"><a class="nav-card" href="publications.html">
+            <div class="col-12 col-md-4 px-md-4"><a class="nav-card" href="publications.html" alt="Our Publications">
                 <h5 class="mb-4"><span>Publications</span>
                     <span class="material-icons float-right">
                     arrow_forward

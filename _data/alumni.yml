@@ -1,0 +1,234 @@
+# NOTES FOR ALUMNI SECTION
+# To insert line breaks in the "info" section of any individual, place the text in within a " " and insert \n wherever you need a line break.
+
+#FACULTY ALUMNI
+faculty:
+  - name: Charles "Buck" Krasic
+    info: Assistant Professor, UBC
+
+  - name: Son Vuong
+    info: Associate Professor Emeritus, UBC
+
+  - name: Andrew Warfield
+    info: Amazon
+
+# MSC ALUMNI
+mscs:
+  - name: Anand Jayarajan
+    info: 2019, Phd @ Univ. of Toronto
+
+  - name: Renato Costa
+    info: 2019
+
+  - name: Matthew Do
+    info: 2019
+
+  - name: Jodi Spacek
+    info: 2019
+
+  - name: Fabian Ruffy
+    info: 2019, Phd @ NYU
+
+  - name: Gleb Naumenko
+    info: 2019, Chaincode Labs
+
+  - name: Clement Fung
+    info: 2018, Oasis Labs
+
+  - name: Stewart Grant
+    info: 2018, PhD @ UC San Diego
+    
+  - name: Amanda Carbonari
+    info: 2018, Google
+
+  - name: Peter Chen
+    info: 2017, Arista Networks
+
+  - name: Wali Usmani
+    info: 2017, TwoTallTotems
+
+  - name: Kent Williams-King
+    info: 2017, PhD @ Brown
+
+  - name: David Williams-King
+    info: 2016, PhD @ Columbia
+
+  - name: Mark Spear
+    info: 2015, Google
+
+  - name: Michael Phan-Ba
+    info: 2015
+
+  - name: Daniel Rozenberg
+    info: 2015, Google
+
+  - name: Kalan MacRow
+    info: 2014, Coho Data
+
+  - name: Alexandru Totolici
+    info: 2013, Demonware
+
+  - name: Wenhao Xu
+    info: 2012, SmartX
+
+  - name: Nathan Taylor
+    info: 2012, Twitter
+
+  - name: Cody Brown
+    info: 2012
+
+  - name: Sara Dadizadeh
+    info: 2012, A Thinking Ape
+
+  - name: Arseniy Akuney
+    info: 2011, TELUS
+
+  - name: Jimmy Wong
+    info: 2011, Amazon
+
+  - name: Mohammad (Shamma) Abdul-Amir
+    info: 2011, Google
+
+  - name: Seyed Mirtaheri
+    info: 2011, PhD @ uOttawa
+
+  - name: Ryan O'Connor
+    info: 2011, F5 Networks
+
+  - name: Primal Wijesekera
+    info: 2011, PhD @ UBC
+
+  - name: Sunjeet Singh
+    info: 2011, INETCO
+
+  - name: Gitika Aggarwal
+    info: 2008, Bycast
+
+  - name: Sharath George
+    info: 2008, Microsoft
+
+  - name: Andrei Lifchits
+    info: 2008, Citrix
+
+  - name: Mayukh Saubhasik
+    info: 2008, Microsoft
+
+  - name: Nels Anderson
+    info: 2007, Livecast
+
+  - name: Petter Haggholm
+    info: 2007, eRezLife
+
+  - name: Shuang Hao
+    info: 2007, PhD @ Georgia Tech
+
+  - name: Camilo Ellis Rostoker
+    info: 2007
+
+  - name: Anirban Sinha
+    info: 2007, Zeugma Systems
+
+  - name: Mike Tsai
+    info: 2007
+
+  - name: Gang Peng
+    info: 2007
+
+  - name: Michael Wood
+    info: 2007
+
+  - name: Abhishek Gupta
+    info: 2006, Microsoft
+
+  - name: Bhavana Saha
+    info: 2006, Microsoft
+
+  - name: Randeep Singh Gakhal
+    info: 2006, TiVo
+
+  - name: Jake Wires
+    info: 2006, Citrix
+
+  - name: Mohammed Alam
+    info: 2005, PhD @ UBC
+
+  - name: Lowell Kirsh
+    info: 2005, Amazon
+
+  - name: Greg Kempe
+    info: 2005, Amazon South Africa
+
+  - name: Kapil Kumar Singh
+    info: 2005, PhD @ Georgia Tech
+
+# PHD ALUMNI
+phds:
+  - name: Mihir Nanavati
+    info: 2018, Microsoft Research
+
+  - name: Jake Wires
+    info: 2017, Coho Data
+
+  - name: Brendan Cully
+    info: 2017, Amazon
+
+  - name: Jean-Sébastien Légaré
+    info: 2017, PostDoc at UBC
+
+  - name: Dutch Meyer
+    info: 2015, Microsoft
+
+  - name: Mahdi Tayarani Najaran
+    info: 2015, SAP
+
+  - name: Kan (Ken) Cai
+    info: 2015
+
+  - name: Mohammed Alam
+    info: 2015, MDA
+
+  - name: Shriram Rajagopalan
+    info: 2014, IBM Research
+
+  - name: Humaira Kamal
+    info: 2013, PostDoc at UBC
+
+  - name: Aiman Erbad
+    info: 2012, Assistant Professor @ QU
+
+  - name: Brad Penoff
+    info: 2011, Google
+
+  - name: Geoffrey Lefebvre
+    info: 2011, Coho Data
+
+  - name: Michael Blackstock
+    info: 2008, INETCO
+
+  - name: Chamath Keppitiyagama
+    info: 2005, Lecturer @ Univ. of Colombo
+
+  - name: Alex Brodsky
+    info: 2003, Assistant Professor @ UWinnipeg
+
+  - name: Yvonne Coady
+    info: 2003, Assistant Professor @ UVIC
+
+  - name: Joon Suan Ong
+    info: 2003, Google
+
+  - name: Matt Pederson
+    info: 2003, Assistant Professor @ UNLV
+
+# POSTDOC ALUMNI
+postdocs:
+  - name: Ali Razeen
+    info: 2019, Amazon
+
+  - name: Yanyan Zhuang
+    info: 2016, Assistant Professor @ UCCS
+
+# VISITNG ALUMNI
+visitors: 
+  - name: Adalberto Junior
+    info: 2017, UFPE Brazil

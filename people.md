@@ -16,9 +16,9 @@ description: We are a diverse group and are always looking to recruit strong stu
 
 <div class="container-fluid mb-5 px-4">
     <div class="row limitsize">
-        {% for faculty in site.data.faculty %}
+        {% for faculty in site.data.people.faculty %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <a href="{{ faculty.link }}"><div class="card rounded-0 m-1 profile">
+            <a href="{{ faculty.link }}" alt="View Personal Site"><div class="card rounded-0 m-1 profile">
                 <div class="row px-3">
                     <div>
                         <img src="../../assets/images/profiles/{{ faculty.img }}">
@@ -28,7 +28,7 @@ description: We are a diverse group and are always looking to recruit strong stu
                             {{ faculty.name }}
                         </h6>
                         <span class="small">
-                            {{ faculty.title | newline_to_br }}
+                            {{ faculty.info | newline_to_br }}
                         </span>
                         <a class="mt-auto profile-link text-right ml-auto" href="{{ faculty.link }}">
                             <span class="material-icons">
@@ -51,9 +51,9 @@ description: We are a diverse group and are always looking to recruit strong stu
 
 <div class="container-fluid mb-5 px-4">
     <div class="row limitsize">
-        {% for postdocs in site.data.postdocs %}
+        {% for postdocs in site.data.people.postdocs %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <a href="{{ postdocs.link }}"><div class="card rounded-0 m-1 profile">
+            <a href="{{ postdocs.link }}" alt="View Personal Site"><div class="card rounded-0 m-1 profile">
                 <div class="row px-3">
                     <div>
                         <img src="../../assets/images/profiles/{{ postdocs.img }}">
@@ -63,7 +63,7 @@ description: We are a diverse group and are always looking to recruit strong stu
                             {{ postdocs.name }}
                         </h6>
                         <span class="small">
-                            {{ postdocs.title | newline_to_br }}
+                            {{ postdocs.info | newline_to_br }}
                         </span>
                         <a class="mt-auto profile-link text-right ml-auto" href="{{ postdocs.link }}">
                             <span class="material-icons">
@@ -86,9 +86,9 @@ description: We are a diverse group and are always looking to recruit strong stu
 
 <div class="container-fluid mb-5 px-4">
     <div class="row limitsize">
-        {% for phds in site.data.phds %}
+        {% for phds in site.data.people.phds %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <a href="{{ phds.link }}"><div class="card rounded-0 m-1 profile">
+            <a href="{{ phds.link }}" alt="View Personal Site"><div class="card rounded-0 m-1 profile">
                 <div class="row px-3">
                     <div>
                         <img src="../../assets/images/profiles/{{ phds.img }}">
@@ -98,7 +98,7 @@ description: We are a diverse group and are always looking to recruit strong stu
                             {{ phds.name }}
                         </h6>
                         <span class="small">
-                            {{ phds.title | newline_to_br }}
+                            {{ phds.info | newline_to_br }}
                         </span>
                         <a class="mt-auto profile-link text-right ml-auto" href="{{ phds.link }}">
                             <span class="material-icons">
@@ -121,9 +121,9 @@ description: We are a diverse group and are always looking to recruit strong stu
 
 <div class="container-fluid mb-5 px-4">
     <div class="row limitsize">
-        {% for mscs in site.data.mscs %}
+        {% for mscs in site.data.people.mscs %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <a href="{{ mscs.link }}"><div class="card rounded-0 m-1 profile">
+            <a href="{{ mscs.link }}" alt="View Personal Site"><div class="card rounded-0 m-1 profile">
                 <div class="row px-3">
                     <div>
                         <img src="../../assets/images/profiles/{{ mscs.img }}">
@@ -133,7 +133,7 @@ description: We are a diverse group and are always looking to recruit strong stu
                             {{ mscs.name }}
                         </h6>
                         <span class="small">
-                            {{ mscs.title | newline_to_br }}
+                            {{ mscs.info | newline_to_br }}
                         </span>
                         <a class="mt-auto profile-link text-right ml-auto" href="{{ mscs.link }}">
                             <span class="material-icons">
@@ -156,9 +156,9 @@ description: We are a diverse group and are always looking to recruit strong stu
 
 <div class="container-fluid mb-5 px-4">
     <div class="row limitsize">
-        {% for visitors in site.data.visitors %}
+        {% for visitors in site.data.people.visitors %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <a href="{{ visitors.link }}"><div class="card rounded-0 m-1 profile">
+            <a href="{{ visitors.link }}" alt="View Personal Site"><div class="card rounded-0 m-1 profile">
                 <div class="row px-3">
                     <div>
                         <img src="../../assets/images/profiles/{{ visitors.img }}">
@@ -168,7 +168,7 @@ description: We are a diverse group and are always looking to recruit strong stu
                             {{ visitors.name }}
                         </h6>
                         <span class="small">
-                            {{ visitors.title | newline_to_br }}
+                            {{ visitors.info | newline_to_br }}
                         </span>
                         <a class="mt-auto profile-link text-right ml-auto" href="{{ visitors.link }}">
                             <span class="material-icons">
@@ -190,34 +190,20 @@ description: We are a diverse group and are always looking to recruit strong stu
     <div class="container mt-4">
         <h4>Faculty Alumni</h4>
     </div>
-    <div class="container-fluid mb-5 px-4">
-    <div class="row limitsize">
-        {% for alumni-faculty in site.data.alumni-faculty %}
-        <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
-            <a href="{{ alumni-faculty.link }}"><div class="card rounded-0 m-1 profile light-bg">
-                <div class="row px-3">
-                    <div>
-                            <img src="../../assets/images/profiles/{{ alumni-faculty.img }}">
-                    </div>
-                    <div class="col p-3 d-flex align-items-start flex-column">
-                        <h6>
-                            {{ alumni-faculty.name }}
-                        </h6>
-                        <span class="small">
-                            {{ alumni-faculty.title | newline_to_br }}
-                        </span>
-                        <a class="mt-auto profile-link text-right ml-auto" href="{{ alumni-faculty.link }}">
-                            <span class="material-icons" style="color: #ffffff">
-                            arrow_forward
-                            </span>
-                        </a>
-                    </div>
-                </div>
-            </div></a>
+    <div class="container mt-4 mb-5">
+        <div class="row">
+            {% for alumni-faculty in site.data.alumni.faculty %}
+            <div class="col-lg-4 col-6 mb-3">
+                <h6>
+                    {{ alumni-faculty.name }}
+                </h6>
+                <span class="alumni-subheading">
+                    ({{ alumni-faculty.info | newline_to_br }})
+                </span>
+            </div>
+            {% endfor %}
         </div>
-        {% endfor %}
     </div>
-</div>
     <!-- /.faculty alumni -->
     <!-- .postdoc alumni -->
     <div class="container mt-4">
@@ -225,7 +211,7 @@ description: We are a diverse group and are always looking to recruit strong stu
     </div>
     <div class="container mt-4 mb-5">
         <div class="row">
-            {% for alumni-postdocs in site.data.alumni-postdocs %}
+            {% for alumni-postdocs in site.data.alumni.postdocs %}
             <div class="col-lg-4 col-6 mb-3">
                 <h6>
                     {{ alumni-postdocs.name }}
@@ -244,7 +230,7 @@ description: We are a diverse group and are always looking to recruit strong stu
     </div>
     <div class="container mt-4 mb-5">
         <div class="row">
-            {% for alumni-phds in site.data.alumni-phds %}
+            {% for alumni-phds in site.data.alumni.phds %}
             <div class="col-lg-4 col-6 mb-3">
                 <h6>
                     {{ alumni-phds.name }}
@@ -264,7 +250,7 @@ description: We are a diverse group and are always looking to recruit strong stu
     </div>
     <div class="container mt-4 mb-5">
         <div class="row">
-            {% for alumni-mscs in site.data.alumni-mscs %}
+            {% for alumni-mscs in site.data.alumni.mscs %}
             <div class="col-lg-4 col-6 mb-3">
                 <h6>
                     {{ alumni-mscs.name }}
@@ -284,7 +270,7 @@ description: We are a diverse group and are always looking to recruit strong stu
     </div>
     <div class="container mt-4">
         <div class="row">
-            {% for alumni-visitors in site.data.alumni-visitors %}
+            {% for alumni-visitors in site.data.alumni.visitors %}
             <div class="col-lg-4 col-6 mb-3">
                 <h6>
                     {{ alumni-visitors.name }}

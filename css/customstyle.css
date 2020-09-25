@@ -141,21 +141,9 @@ h1 {
   .bg-gray {
     background-color: #efefef;
   }
-  .light-bg {
-    background-color: #efefef !important;
-    border-color: #ffffff !important;
-  }
-  .light-bg:hover {
-    background-color: rgba(255,255,255,0.5) !important;
-    border-color: #ffffff !important;
-  }
-  .mat-icon-alt {
-    color: #ffffff !important;
-    text-shadow: 0 0 5px rgba(0,0,0,0.25);
-  }
   .alumni-subheading {
     display: block;
-    font-size: .75rem;
+    font-size: 90%;
     line-height: 1rem;
     font-weight: 300;
   }
@@ -222,12 +210,16 @@ h1 {
   .firstpanel {
     display: block !important;
   }
-  .thingy {
+  .expandlink {
     color: #05c1fc;
   }
-  .thingy:hover {
+  .expandlink:hover {
     color: #1F65FC;
     cursor: pointer;
+  }
+  .firstpanelheading:hover {
+    color: #05c1fc;
+    cursor: default;
   }
 
   /* Research Page Styling */
