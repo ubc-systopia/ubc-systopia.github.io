@@ -217,6 +217,9 @@ h1 {
     color: #1F65FC !important;
     cursor: pointer !important;
   }
+  .firstpanelheading {
+    color: #05c1fc;
+  }
   .firstpanelheading:hover {
     cursor: default;
   }
