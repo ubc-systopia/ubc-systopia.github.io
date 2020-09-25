@@ -211,14 +211,13 @@ h1 {
     display: block !important;
   }
   .expandlink {
-    color: #05c1fc;
+    color: #05c1fc !important;
   }
   .expandlink:hover {
-    color: #1F65FC;
-    cursor: pointer;
+    color: #1F65FC !important;
+    cursor: pointer !important;
   }
   .firstpanelheading:hover {
-    color: #05c1fc;
     cursor: default;
   }
 

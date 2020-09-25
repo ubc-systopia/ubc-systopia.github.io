@@ -29,6 +29,7 @@ description:
         $('.panel').prev().addClass('accordion');
         $('.accordion').addClass('container');
         $('.accordion').addClass('expandlink');
+        $('.accordion').first().removeClass('expandlink');
         $('.accordion').last().attr("style", "display: none !important;");
         $('.wikitable').addClass('table table-striped small mb-4');
         var acc = document.getElementsByClassName("accordion");
