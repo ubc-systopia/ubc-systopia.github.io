@@ -59,6 +59,11 @@ postdocs:
     link: https://retoachermann.ch/
     img: reto.jpg
 
+  - name: Arpan Gujarati
+    info: "Real-time systems\nScheduling\nFault Tolerance"
+    link: https://people.mpi-sws.org/~arpanbg/
+    img: arpan.jpg
+
 # PHDS
 phds:
   - name: Patrick Colp
@@ -97,11 +102,6 @@ mscs:
     info: "Optimization\nArchitecture\nNetworking"
     link: #
     img: syed.jpg
-
-  - name: Michael Kim
-    info: "Storage"
-    link: #
-    img: michael.jpg
 
   - name: Puneet Mehrotra
     info: "Operating systems\nDistributed systems"

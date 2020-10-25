@@ -12,6 +12,7 @@ gem "jekyll", "~> 3.9.0"
 
 # Avoid kramdown bug
 gem "kramdown", ">= 2.3.0"
+gem "kramdown-parser-gfm"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
