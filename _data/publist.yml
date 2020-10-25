@@ -5,9 +5,9 @@
 
 - date: 2020
   publications:
-    title: "Generalized and Scalable Optimal Sparse Decision Trees."
-    info: Jimmy Lin, Chudi Zhong, Diane Hu, Cynthia Rudin, Margo Seltzer. ICML 2020.
-    link: https://www.seltzer.com/margo/icml2020-gosdt.pdf
+    - title: "Generalized and Scalable Optimal Sparse Decision Trees."
+      info: Jimmy Lin, Chudi Zhong, Diane Hu, Cynthia Rudin, Margo Seltzer. ICML 2020.
+      link: https://www.seltzer.com/margo/icml2020-gosdt.pdf
 
 - date: 2019
   publications:
