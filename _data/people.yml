@@ -50,7 +50,8 @@ faculty:
   - name: Thomas Pasquier
     info: "Systems\nSecurity"
     link: https://tfjmp.org/
-    image: thomas.jpg
+    img: thomas.jpg
+
 # POSTDOCS
 postdocs:
   - name: Reto Achermann
