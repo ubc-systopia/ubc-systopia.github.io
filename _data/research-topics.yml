@@ -3,7 +3,14 @@
 # "url" is used to 
 
 - topic: Optimization
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dictum ante at nisi hendrerit mattis. Donec ornare, mi nec efficitur placerat, justo tortor lobortis mauris, ut posuere mi purus ut enim. Proin sit amet varius neque, in vulputate purus. Sed pretium diam turpis, eu ullamcorper ex lacinia a. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  description: In collaboration with Cynthia Rudin at Duke University,
+  we develop optimal interpretable machine learning models.
+  We use custom data structure design and computational caching strategies to
+  find provably optimal solutions to real world instances of NP-hard problems.
+  To date, we have developed algorithms for optimal rule lists and
+  decision trees over categorical feature spaces. 
+  Our algorithms are efficient and produce a certificate of optimality by
+  leveraging algorithmic bounds to efficiently prune the search space.
   tag: optimization
 - topic: Storage
   description: Pellentesque suscipit lacinia erat, quis blandit diam tristique vitae. Quisque rhoncus ipsum a dolor molestie, quis gravida sapien fermentum. Cras ex massa, malesuada sed purus a, imperdiet pharetra turpis. Morbi elit ante, molestie quis tincidunt eu, eleifend in orci. Nunc vel libero velit. Proin feugiat augue ac nulla iaculis luctus. Vestibulum vitae metus lorem.
