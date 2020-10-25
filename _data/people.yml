@@ -87,11 +87,6 @@ phds:
 
 #MSCS
 mscs:
-  - name: Vaastav Anand
-    info: "Distributed systems\nSoftware engineering"
-    link: http://vaastavanand.com/
-    img: vaastav.jpg
-
   - name: Adam Geller
     info: "Compilers\nType Theory\nSecurity"
     link: https://www.cs.ubc.ca/~atgeller/
