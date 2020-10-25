@@ -3,7 +3,7 @@
 # When entering publication info, please maintain the following format:
 # [Authors, separated by comma]. [Publisher] [Year of publication].
 
-- data: 2020
+- date: 2020
   publications:
     title: "Generalized and Scalable Optimal Sparse Decision Trees."
     info: Jimmy Lin, Chudi Zhong, Diane Hu, Cynthia Rudin, Margo Seltzer. ICML 2020.

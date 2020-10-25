@@ -11,11 +11,12 @@ bundle install
 
 Run with `bundle exec jekyll serve --config _config.yml`
 See page at http://localhost:4000
-Changes are updated dynamically as they are edited
+Changes are dynamically reflected as you write files; just reload pages.
 
 # Deployment
 
-Committing to the `master` branch and pushing it to GitHub automatically "deploys to production" after a few minutes; I don't think there's a staging environment but it should match the local one since it's just a static site ...
+Committing to the `master` branch and pushing it to GitHub automatically
+"deploys to production" after a few minutes.
 
 # Managing the site
 
