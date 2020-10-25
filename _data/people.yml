@@ -42,12 +42,21 @@ faculty:
     link: http://www.cs.ubc.ca/~wagner/
     img: alan.jpg
 
+  - name: Aastha Mehta
+    info: "Systems security\nData Privacy\nOperating and Distributed Systems"
+    link: https://www.cs.ubc.ca/people/aastha-mehta
+    img: aastha.jpg
+
+  - name: Thomas Pasquire
+    info: "Systems\nSecurity"
+    link: https://tfjmp.org/
+    image: thomas.jpg
 # POSTDOCS
 postdocs:
-  - name: Jean-Sébastien Légaré
-    info: "Data privacy\nWeb security\nVirtualisation"
-    link: http://www.cs.ubc.ca/~jslegare/
-    img: jean.jpg
+  - name: Reto Achermann
+    info: "Operating Systems"
+    link: https://retoachermann.ch/
+    img: reto.jpg
 
 # PHDS
 phds:

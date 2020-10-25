@@ -14,6 +14,9 @@ faculty:
 
 # MSC ALUMNI
 mscs:
+  - name: Vaastav Anand
+    info: 2020, MPI-SWS Saarbrucken
+
   - name: Anand Jayarajan
     info: 2019, Phd @ Univ. of Toronto
 
@@ -222,6 +225,9 @@ phds:
 
 # POSTDOC ALUMNI
 postdocs:
+  - name: Jean-Sébastien Légaré
+    info: 2020, Amazon
+
   - name: Ali Razeen
     info: 2019, Amazon
 
