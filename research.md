@@ -7,9 +7,7 @@ layout: page
 headerimg: Snacks.jpeg
 tagline: Currently Investigating
 heading: Research
-description: We conduct research on a variety of topics,
-including operating systems, distributed systems, security,
-data provenance, program analysis, and much more!
+description: We conduct research on a variety of topics, including operating systems, distributed systems, security, data provenance, program analysis, and much more!
 ---
 
 <div class="container-fluid p-0">
