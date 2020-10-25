@@ -3,6 +3,12 @@
 # When entering publication info, please maintain the following format:
 # [Authors, separated by comma]. [Publisher] [Year of publication].
 
+- data: 2020
+  publications:
+    title: "Generalized and Scalable Optimal Sparse Decision Trees."
+    info: Jimmy Lin, Chudi Zhong, Diane Hu, Cynthia Rudin, Margo Seltzer. ICML 2020.
+    link: https://www.seltzer.com/margo/icml2020-gosdt.pdf
+
 - date: 2019
   publications:
     - title: "Brokered Agreements in Multi-Party Machine Learning."
