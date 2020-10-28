@@ -12,10 +12,35 @@ faculty:
     link: https://www.cs.ubc.ca/people/bill-aiello
     img: bill.jpg
 
+  - name: Margo Seltzer
+    info: "Data quality\nSystems\nStorage"
+    link: https://www.seltzer.com/margo/
+    img: margo.jpg
+
   - name: Ivan Beschastnikh
     info: "Distributed systems\nNetworks\nSoftware engineering"
     link: http://www.cs.ubc.ca/~bestchai/
     img: ivan.jpg
+
+  - name: Alexandra Fedorova
+    info: "Operating systems\nStorage systems\nMemory systems"
+    link: https://www.ece.ubc.ca/~sasha/
+    img: sasha.jpg
+
+  - name: Aastha Mehta
+    info: "Systems security\nData Privacy\nOperating and Distributed Systems"
+    link: https://www.cs.ubc.ca/people/aastha-mehta
+    img: aastha.jpg
+
+  - name: Mathias Lécuyer
+    info: "Joining 2021"
+    link: http://mathias.lecuyer.me/
+    img: mathias.jpg
+
+  - name: Thomas Pasquier
+    info: "Systems\nSecurity"
+    link: https://tfjmp.org/
+    img: thomas.jpg
 
   - name: Mike Feeley
     info: "Distributed systems\nOperating systems"
@@ -27,30 +52,10 @@ faculty:
     link: http://www.cs.ubc.ca/~norm/
     img: norm.jpg
 
-  - name: Mathias Lécuyer
-    info: "Joining 2021"
-    link: http://mathias.lecuyer.me/
-    img: mathias.jpg
-
-  - name: Margo Seltzer
-    info: "Data quality\nSystems\nStorage"
-    link: https://www.seltzer.com/margo/
-    img: margo.jpg
-
   - name: Alan Wagner
     info: "High performance systems"
     link: http://www.cs.ubc.ca/~wagner/
     img: alan.jpg
-
-  - name: Aastha Mehta
-    info: "Systems security\nData Privacy\nOperating and Distributed Systems"
-    link: https://www.cs.ubc.ca/people/aastha-mehta
-    img: aastha.jpg
-
-  - name: Thomas Pasquier
-    info: "Systems\nSecurity"
-    link: https://tfjmp.org/
-    img: thomas.jpg
 
 # POSTDOCS
 postdocs:
