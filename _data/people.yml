@@ -138,6 +138,11 @@ mscs:
     link: https://www.cs.ubc.ca/labs/nss/html/people.html
     img: mattheus.jpg
 
+  - name: Alex Trostanovsky
+    info: "Graph Algorithms\nGraph Storage"
+    link: https://www.linkedin.com/in/atrostan/
+    img: alext.jpg
+
   - name: Bingyao "Jerry" Wang
     info: "Operating Systems\nSecurity"
     link: #
