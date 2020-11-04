@@ -139,7 +139,7 @@ mscs:
     img: mattheus.jpg
 
   - name: Alex Trostanovsky
-    info: "Graph Algorithms\nGraph Storage"
+    info: "Graph Processing\nGraph Storage"
     link: https://www.linkedin.com/in/atrostan/
     img: alext.jpg
 

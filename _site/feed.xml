@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-03T16:11:24-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Corels Osdt</title><link href="http://localhost:4000/corels_osdt" rel="alternate" type="text/html" title="Corels Osdt" /><published>2020-08-24T12:02:24-07:00</published><updated>2020-08-24T12:02:24-07:00</updated><id>http://localhost:4000/corels-osdt</id><content type="html" xml:base="http://localhost:4000/corels_osdt">&lt;!-- Project Overview section --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-03T16:54:10-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Graphs</title><link href="http://localhost:4000/graphs" rel="alternate" type="text/html" title="Graphs" /><published>2020-11-03T15:33:24-08:00</published><updated>2020-11-03T15:33:24-08:00</updated><id>http://localhost:4000/graphs</id><content type="html" xml:base="http://localhost:4000/graphs">&lt;!-- Project Overview section --&gt;
+&lt;div class=&quot;container-fluid bg-gray my-5 py-5&quot;&gt;
+    &lt;div class=&quot;container pt-4&quot;&gt;
+        &lt;h5&gt;Smooth Kronecker Generator&lt;/h5&gt;
+        &lt;p&gt;As there are a dearth of truly large, publicly available data sets, synthetic graph generators are critical for evaluating the scalability of graph processing systems. We introduced the Smooth Kronecker generator, which produces Kronecker graphs whose fundamental graph characteristics, such as degree distribution, better reflect real world data.&lt;/p&gt;
+        &lt;h6&gt;Papers&lt;/h6&gt;
+            &lt;ol&gt;
+                &lt;li&gt;Grades paper [&lt;a href=&quot;https://www.seltzer.com/assets/publications/gradesnda2020-kronecker.pdf&quot;&gt;Link&lt;/a&gt;]&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;h6&gt;Code&lt;/h6&gt;
+            &lt;ol&gt;
+                &lt;li&gt;Smooth Kronecker repository [&lt;a href=&quot;https://github.com/dmargo/smooth_kron_gen&quot;&gt;Link&lt;/a&gt;]&lt;/li&gt;
+            &lt;/ol&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h6&gt;On-Going Work&lt;/h6&gt;
+        &lt;ol&gt;
+            &lt;li&gt;Developing high-performance storage structures to facilitate both point queries and large-scale analytics.&lt;/li&gt;
+            &lt;li&gt;Building frameworks that allow such systems to adapt to variations in hardware platform, workload, and input data.&lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;/div&gt;</content><author><name></name></author><category term="storage" /><summary type="html">Smooth Kronecker Generator As there are a dearth of truly large, publicly available data sets, synthetic graph generators are critical for evaluating the scalability of graph processing systems. We introduced the Smooth Kronecker generator, which produces Kronecker graphs whose fundamental graph characteristics, such as degree distribution, better reflect real world data. Papers Grades paper [Link] Code Smooth Kronecker repository [Link]</summary></entry><entry><title type="html">Corels Osdt</title><link href="http://localhost:4000/corels_osdt" rel="alternate" type="text/html" title="Corels Osdt" /><published>2020-08-24T12:02:24-07:00</published><updated>2020-08-24T12:02:24-07:00</updated><id>http://localhost:4000/corels-osdt</id><content type="html" xml:base="http://localhost:4000/corels_osdt">&lt;!-- Project Overview section --&gt;
 &lt;div class=&quot;container-fluid bg-gray my-5 py-5&quot;&gt;
     &lt;div class=&quot;container pt-4&quot;&gt;
         &lt;h5&gt;CORELS&lt;/h5&gt;
