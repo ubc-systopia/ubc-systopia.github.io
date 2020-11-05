@@ -101,6 +101,12 @@ phds:
     link: https://www.cs.ubc.ca/~puneet89/
     img: puneet.jpg
 
+  - name: Paul H. B.
+    info: "Human-computer Interaction\nAffective Computing\nDesign"
+    link: https://paulbucci.ca/
+    img: paul.jpg
+
+
 #MSCS
 mscs:
   - name: Christopher Chen
