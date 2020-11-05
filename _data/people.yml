@@ -103,6 +103,11 @@ phds:
 
 #MSCS
 mscs:
+  - name: Christopher Chen
+    info: "Program synthesis\nFormal verification"
+    link: https://github.com/chchen
+    img: chris.jpg
+
   - name: Adam Geller
     info: "Compilers\nType Theory\nSecurity"
     link: https://www.cs.ubc.ca/~atgeller/
