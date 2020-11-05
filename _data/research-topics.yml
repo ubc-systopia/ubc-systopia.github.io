@@ -2,8 +2,8 @@
 # If you plan on including quotation marks, colons, or other special punctuation in your description/title, please enclose the text in quotation marks.
 # "url" is used to 
 
-- topic: Optimization
-  description: In collaboration with Cynthia Rudin at Duke University, we develop optimal interpretable machine learning models.  We use custom data structure design and computational caching strategies to find provably optimal solutions to real world instances of NP-hard problems.  To date, we have developed algorithms for optimal rule lists and decision trees over categorical feature spaces.  Our algorithms are efficient and produce a certificate of optimality by leveraging algorithmic bounds to efficiently prune the search space.
+- topic: Interpretable Machine Learning
+  description: We use computational caching as well as novel data structures and algorithms to produce provably optimal solutions to real world NP-hard problems. Our focus is on interpretable, certifiably optimal models. 
   tag: optimization
 - topic: Storage
   description: Pellentesque suscipit lacinia erat, quis blandit diam tristique vitae. Quisque rhoncus ipsum a dolor molestie, quis gravida sapien fermentum. Cras ex massa, malesuada sed purus a, imperdiet pharetra turpis. Morbi elit ante, molestie quis tincidunt eu, eleifend in orci. Nunc vel libero velit. Proin feugiat augue ac nulla iaculis luctus. Vestibulum vitae metus lorem.
