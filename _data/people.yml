@@ -164,6 +164,11 @@ mscs:
     link: #
     img: joseph.jpg
 
+  - name: Shayan Hosseini
+    info: "Distributed Systems\nSoftware Engineering"
+    link: http://shayanh.ir/
+    img: shayanh.jpg
+
 #VISITING STUDENTS
 visitors:
   - name: Akshitha Sriraman
