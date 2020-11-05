@@ -166,6 +166,11 @@ mscs:
 
 #VISITING STUDENTS
 visitors:
+  - name: Akshitha Sriraman
+    info: "Computer architecture\nSoftware systems\nHyperscale compute"
+    link: #
+    img: akshitha.jpg
+
   - name: Fangyu "Gary" Gai
     info: "Blockchain"
     link: #
