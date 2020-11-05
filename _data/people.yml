@@ -96,6 +96,11 @@ phds:
     link: https://www.linkedin.com/in/csurbhi/
     img: surbhi.jpg
 
+  - name: Puneet Mehrotra
+    info: "Operating systems\nDistributed systems"
+    link: https://www.cs.ubc.ca/~puneet89/
+    img: puneet.jpg
+
 #MSCS
 mscs:
   - name: Adam Geller
@@ -107,11 +112,6 @@ mscs:
     info: "Optimization\nArchitecture\nNetworking"
     link: #
     img: syed.jpg
-
-  - name: Puneet Mehrotra
-    info: "Operating systems\nDistributed systems"
-    link: https://www.cs.ubc.ca/~puneet89/
-    img: puneet.jpg
 
   - name: Jose Pazos
     info: "Cryptography\nSystems security"
@@ -159,11 +159,6 @@ visitors:
     info: "Blockchain"
     link: #
     img: gary.jpg
-
-  - name: Jimmy Lin
-    info: "Optimization"
-    link: #
-    img: jimmy.jpg
 
   - name: Stephen Ye
     info: "Software reliability"
