@@ -184,6 +184,41 @@ description: We are a diverse group and are always looking to recruit strong stu
 </div>
 <!-- /.mscs -->
 
+<!-- .research staff -->
+<div class="container mt-4">
+    <h4>Research Staff</h4>
+</div>
+
+<div class="container-fluid mb-5 px-4">
+    <div class="row limitsize">
+        {% for researchers in site.data.people.researchers %}
+        <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
+            <a href="{{ researchers.link }}" alt="View Personal Site"><div class="card rounded-0 m-1 profile">
+                <div class="row px-3">
+                    <div>
+                        <img src="../../assets/images/profiles/{{ researchers.img }}">
+                    </div>
+                    <div class="col p-3 d-flex align-items-start flex-column">
+                        <h6>
+                            {{ researchers.name }}
+                        </h6>
+                        <span class="small">
+                            {{ researchers.info | newline_to_br }}
+                        </span>
+                        <a class="mt-auto profile-link text-right ml-auto" href="{{ researchers.link }}">
+                            <span class="material-icons">
+                            arrow_forward
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div></a>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<!-- /.mscs -->
+
 <!-- .alumni sections -->
 <div class="container-fluid bg-gray py-5 px-0">
     <!-- .faculty alumni -->

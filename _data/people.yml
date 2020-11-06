@@ -195,3 +195,11 @@ visitors:
     info: "Software reliability"
     link: #
     img: stephen.jpg
+
+#RESEARCH STAFF
+researchers:
+  - name: Phoenix Synkova
+    info: "Fine-grain file system design\nSystem synthesis"
+    link: #
+    img: phoenix.jpg
+
