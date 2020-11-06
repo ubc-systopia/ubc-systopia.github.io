@@ -108,6 +108,11 @@ mscs:
     link: https://github.com/chchen
     img: chris.jpg
 
+  - name: Ali Behrouz
+    info: "Machine Learning\nOptimization"
+    link: #
+    img: ali.jpg
+
   - name: Adam Geller
     info: "Compilers\nType Theory\nSecurity"
     link: https://www.cs.ubc.ca/~atgeller/
@@ -162,7 +167,7 @@ mscs:
 visitors:
   - name: Akshitha Sriraman
     info: "Computer architecture\nSoftware systems\nHyperscale compute"
-    link: #
+    link: https://akshithasriraman.eecs.umich.edu/
     img: akshitha.jpg
 
   - name: Fangyu "Gary" Gai
