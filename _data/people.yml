@@ -105,6 +105,11 @@ phds:
     info: "Human-computer Interaction\nAffective Computing\nDesign"
     link: https://paulbucci.ca/
     img: paul.jpg
+  
+  - name: A. Finn Hackett
+    info: "Programming Language Design\nApplied Declarative Programming"
+    link: http://fhackett.github.io/
+    img: finn.jpg
 
 
 #MSCS
