@@ -13,7 +13,7 @@ layout: default
     <div class="container mb-4">
         <div class="row">
           <div class="col-lg-1 d-lg-flex d-none"> </div>
-          <div class="col-xl-3 col-lg-4 col-md-5 p-0 pb-lg-0 pb-md-5 d-md-flex d-none"><img class="img-fluid" src="../assets/images/Vectorized_Logo_(EDITED).png" alt=""></div>
+          <div class="col-xl-3 col-lg-4 col-md-5 p-0 pb-lg-0 pb-md-5 d-md-flex d-none" style="align-items: flex-start; /* SAFARI LOGO DISPLAY BUG FIX */"><img class="img-fluid" src="../assets/images/Vectorized_Logo_(EDITED).png" alt=""></div>
           <div class="col-xl-1 d-xl-flex d-none"> </div>
           <div class="col-lg-6 col-md-7 my-auto pl-md-5 py-5">
             <h2 class="text-right">Welcome to Systopia</h2>

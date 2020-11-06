@@ -101,6 +101,17 @@ phds:
     link: https://www.cs.ubc.ca/~puneet89/
     img: puneet.jpg
 
+  - name: Paul H. B.
+    info: "Human-computer Interaction\nAffective Computing\nDesign"
+    link: https://paulbucci.ca/
+    img: paul.jpg
+  
+  - name: A. Finn Hackett
+    info: "Programming Language Design\nApplied Declarative Programming"
+    link: http://fhackett.github.io/
+    img: finn.jpg
+
+
 #MSCS
 mscs:
   - name: Christopher Chen
@@ -162,6 +173,11 @@ mscs:
     info: "Provenance"
     link: #
     img: joseph.jpg
+
+  - name: Shayan Hosseini
+    info: "Distributed Systems\nSoftware Engineering"
+    link: http://shayanh.ir/
+    img: shayanh.jpg
 
 #VISITING STUDENTS
 visitors:
