@@ -178,6 +178,11 @@ mscs:
     info: "Distributed Systems\nSoftware Engineering"
     link: http://shayanh.ir/
     img: shayanh.jpg
+  
+  - name: Faqia Iqbal
+    info: "Usable Security and Privacy"
+    link: #
+    img: faqia.jpg
 
 #VISITING STUDENTS
 visitors:
