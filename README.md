@@ -114,9 +114,9 @@ Files such as background images are in `assets`, and they need a line like this:
 `_site` is the generated site, which you can typically ignore.
 
 `_data` contains data files to generate things such as publications, news, etc.
-- `_data/people.yml' has a list of all the current members
-- `_data/alumni.yml' has a list of all former members
-- `_data/news.yml' this is where you put news items
+- `_data/people.yml` has a list of all the current members
+- `_data/alumni.yml` has a list of all former members
+- `_data/news.yml` this is where you put news items
 
 ## `publications.md`
 This reads data from `_data/publist.yml`
