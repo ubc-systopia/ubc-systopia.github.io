@@ -36,7 +36,7 @@ description: "Rule lists are a set of easily interpretable solutions to classifi
     <h6>Papers</h6>
         <ol>
             <li>Learning Certifiably Optimal Rule Lists in the Journal of Machine Learning Research (JMLR) [<a href="https://www.seltzer.com/assets/publications/Learning-Certifiably-Optimal-Rule-Lists.pdf">Link</a>]</li>
-            <li>Learning Certifiably Optimal Rule Lists for Categorical Data in the proceedings of the  Conference on Knowledge Discovery and Data Mining (KDD) [<a href="https://www.kdd.org/kdd2017/papers/view/learning-certifiably-optimal-rule-lists-for-categorical-data">Link</a>]</li>
+            <li>Learning Certifiably Optimal Rule Lists for Categorical Data in the proceedings of the Conference on Knowledge Discovery and Data Mining (KDD) [<a href="https://www.kdd.org/kdd2017/papers/view/learning-certifiably-optimal-rule-lists-for-categorical-data">Link</a>]</li>
         </ol>
     <h6>Code</h6>
         <ol>
