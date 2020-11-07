@@ -35,17 +35,17 @@ description: "Rule lists are a set of easily interpretable solutions to classifi
         </ol>
     <h6>Papers</h6>
         <ol>
-            <li>CORELS JMLR paper [<a href="https://www.seltzer.com/assets/publications/Learning-Certifiably-Optimal-Rule-Lists.pdf">Link</a>]</li>
-            <li>CORELS KDD paper [<a href="https://www.kdd.org/kdd2017/papers/view/learning-certifiably-optimal-rule-lists-for-categorical-data">Link</a>]</li>
+            <li>Learning Certifiably Optimal Rule Lists in the Journal of Machine Learning Research (JMLR) [<a href="https://www.seltzer.com/assets/publications/Learning-Certifiably-Optimal-Rule-Lists.pdf">Link</a>]</li>
+            <li>Learning Certifiably Optimal Rule Lists for Categorical Data in the proceedings of the  Conference on Knowledge Discovery and Data Mining (KDD) [<a href="https://www.kdd.org/kdd2017/papers/view/learning-certifiably-optimal-rule-lists-for-categorical-data">Link</a>]</li>
         </ol>
     <h6>Code</h6>
         <ol>
-            <li>PyCORELS [<a href="https://pycorels.readthedocs.io/en/latest/CorelsClassifier.html">Link</a>]</li>
+            <li>PyCORELS: A Python implementation of the CORELS algorithm [<a href="https://pycorels.readthedocs.io/en/latest/CorelsClassifier.html">Link</a>]</li>
             <li>Public C++ CORELS [<a href="https://github.com/corels/corels">Link</a>]</li>
         </ol>
     <h6>Other Resources</h6>
         <ol>
-            <li>BA Thesis on CORELS Implementation [<a href="https://corels.eecs.harvard.edu/corels/Larus-Stone_thesis.pdf">Link</a>]</li>
+            <li>Undergraduate Thesis on a parallel CORELS Implementation [<a href="https://corels.eecs.harvard.edu/corels/Larus-Stone_thesis.pdf">Link</a>]</li>
         </ol>
 </div>
 <!-- /Project Details and Additional Info -->
