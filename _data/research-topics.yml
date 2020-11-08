@@ -15,7 +15,7 @@
   description: We investigate techniques and applications that make data more valuable, from capturing data provenance (a formal history of how data came to be in its present form) to deriving provenance to developing applications that use data provenance. We build tools to facilitate scientific reproducibility and we investigate ways to build systems that are more accountable to the people who develop and use them.
   tag: provenance
 - topic: Security
-  description: Pellentesque suscipit lacinia erat, quis blandit diam tristique vitae. Quisque rhoncus ipsum a dolor molestie, quis gravida sapien fermentum. Cras ex massa, malesuada sed purus a, imperdiet pharetra turpis. Morbi elit ante, molestie quis tincidunt eu, eleifend in orci. Nunc vel libero velit. Proin feugiat augue ac nulla iaculis luctus. Vestibulum vitae metus lorem.
+  description: We research, develop, evaluate, and deploy tools and systems designed to ensure that system/network security missions can be accomplished successfully despite cyber attacks. We also develop advanced algorithms and techniques for processing big datasets from a range of sources. such as IoT devices and network traffic.
   tag: security
 - topic: Networked and Distributed Systems
   description: We investigate new design principles in datacenter system design and operation. Our work  covers broad areas such as Network Function chain allocation and acceleration, disaggregated datacenters, and using programmable devices to acclerate data analytics workloads.

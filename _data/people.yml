@@ -186,10 +186,16 @@ mscs:
 
 #VISITING STUDENTS
 visitors:
+  
   - name: Akshitha Sriraman
     info: "Computer architecture\nSoftware systems\nHyperscale compute"
     link: https://akshithasriraman.eecs.umich.edu/
     img: akshitha.jpg
+
+  - name: Maryam Raiyat Aliabadi
+    info: "Cyber-Physical Sytem Security\nProgram Analysis\nFault Tolerance"
+    link: https://www.ece.ubc.ca/~raiyat/
+    img: Maryam.jpeg
 
   - name: Fangyu "Gary" Gai
     info: "Blockchain"
