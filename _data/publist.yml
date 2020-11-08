@@ -25,7 +25,7 @@
       info: Anand, V., Mehrotra, P., Margo, D., Seltzer, M.
       link: https://www.seltzer.com/assets/publications/gradesnda2020-kronecker.pdf
 
-    - title: "Rclean: A Tool for Writing Cleaner, More Transparent Code"
+    - title: Rclean: A Tool for Writing Cleaner, More Transparent Code
       info: Lau, M., Pasquier T., Seltzer, M.
       link: https://www.seltzer.com/assets/publications/rclean-2020.pdf
 
@@ -33,7 +33,7 @@
       info: Gaynor, M., Schneider, D., Seltzer, M., Crannage, E., Barron, M., Waterman, J., Oberle, A.
       link: https://www.seltzer.com/assets/publications/LearningHealth2020.pdf
 
-    - title: "Unicorn: Runtime Provennace-Based Detector for Advanced Persistent Threats"
+    - title: Unicorn: Runtime Provennace-Based Detector for Advanced Persistent Threats
       info: Han, X., Pasquier, T., Bates, A., Mickens, J., Seltzer, M.
       link: https://www.seltzer.com/assets/publications/ndss2020-unicorn.pdf
 
@@ -47,7 +47,7 @@
       info: Ayat Fekry, Lucian Carata, Thomas Pasquier, Andrew Rice, Andy Hopper. ICDCS 2019.
       link: https://tfjmp.org/files/publications/2019-icdcs.pdf
 
-    - title: "Brokered Agreements in Multi-Party Machine Learning."
+    - title: Brokered Agreements in Multi-Party Machine Learning.
       info: Clement Fung, Ivan Beschastnikh. APSys 2019.
       link: https://dl.acm.org/doi/10.1145/3343737.3343744
 
