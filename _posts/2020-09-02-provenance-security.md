@@ -19,10 +19,10 @@ description: "We explore the use of system provenance for security."
     <div class="container pt-4">
         <h5>Provenance-based Security</h5>
         <P>We explore all aspects of provenance from its capture to its
-        analysis. In particular, we focus on applications relating to security
-        such as intrusion detection and forensic. We combine in depth
+        analysis. For applications in particular, we focus on the use of provenance in security
+        such as intrusion detection and forensic analysis. We combine in-depth
         operating systems knowledge, graph analysis techniques and machine
-        learning techniques to detect and explain computer threats.</P>
+        learning to detect and explain cyber threats.</P>
     </div>
 </div>
 <!-- /Project Overview section -->
