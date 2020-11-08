@@ -7,7 +7,8 @@
 
 layout: post
 date: 2020-06-23 12:02:24 -0700
-categories: 
+tags:
+categories:
 headerimg:
 permalink: post_template
 topic: Topic Name

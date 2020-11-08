@@ -33,66 +33,70 @@
       info: Hu, J., Joung, J., Jacobs, M., Gajos, K., Seltzer, M.
       link: https://www.seltzer.com/assets/publications/icse2020-provbuild.pdf
 
+    - title: "Unexpected Performance of Intel® Optane™ DC Persistent Memory"
+      info: Tony Mason, Thaleia Dimitra-Doudali, Margo Seltzer, Ada Gavrilovska
+      link: https://ieeexplore.ieee.org/document/9072482
+
 - date: 2019
   publications:
     - title: "Brokered Agreements in Multi-Party Machine Learning."
       info: Clement Fung, Ivan Beschastnikh. APSys 2019.
       link: https://dl.acm.org/doi/10.1145/3343737.3343744
-    
+
     - title: Optimal Sparse Decision Trees.
       info: Xiyang Hu, Cynthia Rudin, Margo I. Seltzer. ArXiv 2019.
       link: https://arxiv.org/abs/1904.12847
-      
+
     - title: Bandwidth-Efficient Transaction Relay for Bitcoin.
       info: Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Sasha Fedorova, Ivan Beschastnikh. ArXiv 2019.
       link: http://arxiv.org/abs/1905.10518
-      
+
     - title: Aquarium Technical Report Preprint.
       info: Ming Kawaguchi, Jingmei Hu, Eric Lu, David A. Holland, Stephen Chong, Margo Seltzer. ArXiv 2019.
       link: http://arxiv.org/abs/1908.00093
-      
+
     - title: ProvMark - A Provenance Expressiveness Benchmarking System.
       info: Sheung Chi Chan, James Cheney, Pramod Bhatotia, Thomas F. J.-M. Pasquier, Ashish Gehani, Hassaan Irshad, Lucian Carata, Margo Seltzer. ArXiv 2019.
       link: http://arxiv.org/abs/1909.11187
-      
+
     - title: Erlay - Efficient Transaction Relay for Bitcoin.
       info: Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra Fedorova, Ivan Beschastnikh. CCS 2019.
       link: https://doi.org/10.1145/3319535.3354237
-      
+
     - title: Vulnerability & Blame - Making Sense of Unauthorized Access to Smartphones.
       info: Diogo Marques, Tiago João Guerreiro, Luís Carriço, Ivan Beschastnikh, Konstantin Beznosov. CHI 2019.
       link: https://doi.org/10.1145/3290605.3300819
-      
-    - title: Jumpgate - In-Network Processing as a Service for Data Analytics. 
+
+    - title: Jumpgate - In-Network Processing as a Service for Data Analytics.
       info: Craig Mustard, Fabian Ruffy, Anny Gakhokidze, Ivan Beschastnikh, Alexandra Fedorova. HotCloud 2019.
       link: https://www.usenix.org/conference/hotcloud19/presentation/mustard
-      
+
     - title: Improving microservice-based applications with runtime placement adaptation.
       info: Adalberto R. Sampaio, Julia Rubin, Ivan Beschastnikh, Nelson S. Rosa. J. Internet Services and Applications 2019.
       link: https://doi.org/10.1186/s13174-019-0104-0
-      
+
     - title: Permissions Plugins as Android Apps.
       info: Nisarg Raval, Ali Razeen, Ashwin Machanavajjhala, Landon P. Cox, Andrew Warfield. MobiSys 2019.
       link: https://doi.org/10.1145/3307334.3326095
-      
-    - title: Learning to listen for design. 
+
+    - title: Learning to listen for design.
       info: Elisa L. A. Baniassad, Ivan Beschastnikh, Reid Holmes, Gregor Kiczales, Meghan Allen. Onward 2019.
       link: https://doi.org/10.1145/3359591.3359738
-      
+
     - title: Trials and Tribulations in Synthesizing Operating Systems.
       info: Jingmei Hu, Eric Lu, David A. Holland, Ming Kawaguchi, Stephen Chong, Margo I. Seltzer. PLOS@SOSP 2019.
       link: https://doi.org/10.1145/3365137.3365401
-      
+
     - title: From Here to Provtopia.
       info: Thomas F. J.-M. Pasquier, David M. Eyers, Margo Seltzer. Poly/DMAH@VLDB 2019.
       link: https://doi.org/10.1007/978-3-030-33752-0_4
-      
+
     - title: Mining Specifications from Documentation using a Crowd.
       info: Peng Sun, Chris Brown, Ivan Beschastnikh, Kathryn T. Stolee. SANER 2019.
       link: https://doi.org/10.1109/SANER.2019.8668025
 
-- date: 2018 
-  publications:   
+- date: 2018
+  publications:
     - title: Runtime Analysis of Whole-System Provenance.
       info: Thomas F. J.-M. Pasquier, Xueyuan Han, Thomas Moyer, Adam Bates, Olivier Hermant, David M. Eyers, Jean Bacon, Margo Seltzer. ACM Conference on Computer and Communications Security 2018.
       link: https://doi.org/10.1145/3243734.3243776

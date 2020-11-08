@@ -23,6 +23,16 @@ drive better decision making for file systems designed to optimize performance f
 persistent memory.</P>
     </div>
 </div>
+<!-- Project Overview section -->
+<div class="container-fluid bg-gray my-5 py-5">
+    <div class="container pt-4">
+        <h5>DaxFS</h5>
+	<P>The SNIA programming paradigm for persistent memory includes the concept of "direct access", in which the memory is mapped into
+        the application address space, bypassing kernel file system data caching.  Prior file systems work (e.g, ext4, xfs, NOVA, SplitFS)
+        has focused on implementing efficient file systems, rather than the efficiency of the DAX memory provided to applications.  This
+        project explores how to construct a DAX-optimized, multi-tenant, persistent memory handling file system.</P>
+    </div>
+</div>
 <!-- /Project Overview section -->
 <!-- Project Details and Additional Info -->
 <div class="container">
