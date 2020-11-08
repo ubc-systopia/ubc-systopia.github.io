@@ -129,10 +129,6 @@
       info: Clement Fung, Chris J. M. Yoon, Ivan Beschastnikh. ArXiv 2018.
       link: http://arxiv.org/abs/1808.04866
 
-    - title: Runtime Analysis of Whole-System Provenance.
-      info: Thomas Pasquier, Xueyuan Han, Thomas Moyer, Adam Bates, Olivier Hermant, David M. Eyers, Jean Bacon, Margo Seltzer. CCS 2018.
-      link: http://arxiv.org/abs/1808.06049
-
     - title: Automatic Parallelization of Sequential Programs.
       info: Peter Kraft, Amos Waterland, Daniel Y. Fu, Anitha Gollamudi, Shai Szulanski, Margo Seltzer. ArXiv 2018.
       link: http://arxiv.org/abs/1809.07684
