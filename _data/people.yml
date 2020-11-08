@@ -154,10 +154,10 @@ mscs:
     link: #
     img: lana.jpg
 
-  - name: Mattheus Stolet
-    info: "Distributed Systems\nMachine Learning"
-    link: https://www.cs.ubc.ca/labs/nss/html/people.html
-    img: mattheus.jpg
+  - name: Matheus Stolet
+    info: "Distributed Systems\nPrivacy\nMachine Learning"
+    link: https://stolet.github.io/
+    img: matheus.jpg
 
   - name: Alex Trostanovsky
     info: "Graph Processing\nGraph Storage"
