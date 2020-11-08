@@ -18,7 +18,7 @@
       link: https://www.seltzer.com/assets/publications/icml2020-gosdt.pdf
 
     - title: Push-button Orchestration of Host Provenance Data Collection
-      info: Han, X., Mickens, J., Gehani, A., Seltzer, M., Pasquier, T.
+      info: Han, X., Mickens, J., Gehani, A., Seltzer, M., Pasquier, T. PRECS 2020.
       link: https://www.seltzer.com/assets/publications/precs2020-xanthus.pdf
 
     - title: Solving the Combing Problems in Kronecker Graphs
@@ -34,7 +34,7 @@
       link: https://www.seltzer.com/assets/publications/LearningHealth2020.pdf
 
     - title: Unicorn: Runtime Provennace-Based Detector for Advanced Persistent Threats
-      info: Han, X., Pasquier, T., Bates, A., Mickens, J., Seltzer, M.
+      info: Han, X., Pasquier, T., Bates, A., Mickens, J., Seltzer, M. NDSS 2020.
       link: https://www.seltzer.com/assets/publications/ndss2020-unicorn.pdf
 
     - title: Improving Data Scientist Efficiency with Provenance
@@ -64,7 +64,7 @@
       link: http://arxiv.org/abs/1908.00093
 
     - title: ProvMark - A Provenance Expressiveness Benchmarking System.
-      info: Sheung Chi Chan, James Cheney, Pramod Bhatotia, Thomas F. J.-M. Pasquier, Ashish Gehani, Hassaan Irshad, Lucian Carata, Margo Seltzer. ArXiv 2019.
+      info: Sheung Chi Chan, James Cheney, Pramod Bhatotia, Thomas Pasquier, Ashish Gehani, Hassaan Irshad, Lucian Carata, Margo Seltzer. ArXiv 2019.
       link: http://arxiv.org/abs/1909.11187
 
     - title: Erlay - Efficient Transaction Relay for Bitcoin.
@@ -96,7 +96,7 @@
       link: https://doi.org/10.1145/3365137.3365401
 
     - title: From Here to Provtopia.
-      info: Thomas F. J.-M. Pasquier, David M. Eyers, Margo Seltzer. Poly/DMAH@VLDB 2019.
+      info: Thomas Pasquier, David M. Eyers, Margo Seltzer. Poly/DMAH@VLDB 2019.
       link: https://doi.org/10.1007/978-3-030-33752-0_4
 
     - title: Mining Specifications from Documentation using a Crowd.
@@ -106,7 +106,7 @@
 - date: 2018
   publications:
     - title: Runtime Analysis of Whole-System Provenance.
-      info: Thomas F. J.-M. Pasquier, Xueyuan Han, Thomas Moyer, Adam Bates, Olivier Hermant, David M. Eyers, Jean Bacon, Margo Seltzer. ACM Conference on Computer and Communications Security 2018.
+      info: Thomas Pasquier, Xueyuan Han, Thomas Moyer, Adam Bates, Olivier Hermant, David M. Eyers, Jean Bacon, Margo Seltzer. ACM Conference on Computer and Communications Security 2018.
       link: https://doi.org/10.1145/3243734.3243776
 
     - title: VNF chain allocation and management at data center scale.
@@ -114,7 +114,7 @@
       link: https://doi.org/10.1145/3230718.3230724
 
     - title: Sharing and Preserving Computational Analyses for Posterity with encapsulator.
-      info: Thomas F. J.-M. Pasquier, Matthew K. Lau, Xueyuan Han, Elizabeth Fong, Barbara Staudt Lerner, Emery R. Boose, Merce Crosas, Aaron M. Ellison, Margo Seltzer. ArXiv 2018.
+      info: Thomas Pasquier, Matthew K. Lau, Xueyuan Han, Elizabeth Fong, Barbara Staudt Lerner, Emery R. Boose, Merce Crosas, Aaron M. Ellison, Margo Seltzer. ArXiv 2018.
       link: http://arxiv.org/abs/1803.05808
 
     - title: Persistent Memory Transactions.
@@ -122,7 +122,7 @@
       link: http://arxiv.org/abs/1804.00701
 
     - title: Provenance-based Intrusion Detection - Opportunities and Challenges.
-      info: Xueyuan Han, Thomas F. J.-M. Pasquier, Margo Seltzer. ArXiv 2018.
+      info: Xueyuan Han, Thomas Pasquier, Margo Seltzer. ArXiv 2018.
       link: http://arxiv.org/abs/1806.00934
 
     - title: Mitigating Sybils in Federated Learning Poisoning.
@@ -130,7 +130,7 @@
       link: http://arxiv.org/abs/1808.04866
 
     - title: Runtime Analysis of Whole-System Provenance.
-      info: Thomas F. J.-M. Pasquier, Xueyuan Han, Thomas Moyer, Adam Bates, Olivier Hermant, David M. Eyers, Jean Bacon, Margo Seltzer. ArXiv 2018.
+      info: Thomas Pasquier, Xueyuan Han, Thomas Moyer, Adam Bates, Olivier Hermant, David M. Eyers, Jean Bacon, Margo Seltzer. CCS 2018.
       link: http://arxiv.org/abs/1808.06049
 
     - title: Automatic Parallelization of Sequential Programs.
@@ -150,7 +150,7 @@
       link: http://arxiv.org/abs/1812.09975
 
     - title: Sharing and Preserving Computational Analyses for Posterity with encapsulator.
-      info: Thomas F. J.-M. Pasquier, Matthew K. Lau, Xueyuan Han, Elizabeth Fong, Barbara Staudt Lerner, Emery R. Boose, Merce Crosas, Aaron M. Ellison, Margo Seltzer. Computing in Science and Engineering 2018.
+      info: Thomas Pasquier, Matthew K. Lau, Xueyuan Han, Elizabeth Fong, Barbara Staudt Lerner, Emery R. Boose, Merce Crosas, Aaron M. Ellison, Margo Seltzer. Computing in Science and Engineering 2018.
       link: https://doi.org/10.1109/MCSE.2018.042781334
 
     - title: Towards Accountable Systems (Dagstuhl Seminar 18181).
@@ -174,11 +174,11 @@
       link: https://doi.org/10.1109/TPDS.2018.2846242
 
     - title: Data provenance to audit compliance with privacy policy in the Internet of Things.
-      info: Thomas F. J.-M. Pasquier, Jatinder Singh, Julia E. Powles, David M. Eyers, Margo Seltzer, Jean Bacon. Personal and Ubiquitous Computing 2018.
+      info: Thomas Pasquier, Jatinder Singh, Julia E. Powles, David M. Eyers, Margo Seltzer, Jean Bacon. Personal and Ubiquitous Computing 2018.
       link: https://doi.org/10.1007/s00779-017-1067-4
 
     - title: Provenance-based Intrusion Detection - Opportunities and Challenges.
-      info: Xueyuan Han, Thomas F. J.-M. Pasquier, Margo Seltzer. TaPP 2018.
+      info: Xueyuan Han, Thomas Pasquier, Margo Seltzer. TaPP 2018.
       link: https://www.usenix.org/conference/tapp2018/presentation/han
 
     - title: Closing the Performance Gap Between Volatile and Persistent Key-Value Stores Using Cross-Referencing Logs.
@@ -195,12 +195,8 @@
       info: Elaine Angelino, Nicholas Larus-Stone, Daniel Alabi, Margo Seltzer, Cynthia Rudin. ArXiv 2017.
       link: http://arxiv.org/abs/1704.01701
 
-    - title: Practical Whole-System Provenance Capture.
-      info: Thomas F. J.-M. Pasquier, Xueyuan Han, Mark Goldstein, Thomas Moyer, David M. Eyers, Margo Seltzer, Jean Bacon. ArXiv 2017.
-      link: http://arxiv.org/abs/1711.05296
-
     - title: FRAPpuccino - Fault-detection through Runtime Analysis of Provenance.
-      info: Xueyuan Han, Thomas F. J.-M. Pasquier, Tanvi Ranjan, Mark Goldstein, Margo Seltzer. ArXiv 2017.
+      info: Xueyuan Han, Thomas Pasquier, Tanvi Ranjan, Mark Goldstein, Margo Seltzer. ArXiv 2017.
       link: http://arxiv.org/abs/1711.11487
 
     - title: Characterizing Social Insider Attacks on Facebook.
@@ -212,7 +208,7 @@
       link: https://www.usenix.org/conference/fast17/technical-sessions/presentation/wires
 
     - title: FRAPpuccino - Fault-detection through Runtime Analysis of Provenance.
-      info: Xueyuan Han, Thomas F. J.-M. Pasquier, Tanvi Ranjan, Mark Goldstein, Margo Seltzer. HotCloud 2017.
+      info: Xueyuan Han, Thomas Pasquier, Tanvi Ranjan, Mark Goldstein, Margo Seltzer. HotCloud 2017.
       link: https://www.usenix.org/conference/hotcloud17/program/presentation/han
 
     - title: Persistent Memcached - Bringing Legacy Code to Byte-Addressable Persistent Memory.
@@ -264,7 +260,7 @@
       link: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/nanavati
 
     - title: Practical whole-system provenance capture.
-      info: Thomas F. J.-M. Pasquier, Xueyuan Han, Mark Goldstein, Thomas Moyer, David M. Eyers, Margo Seltzer, Jean Bacon. SoCC 2017.
+      info: Thomas Pasquier, Xueyuan Han, Mark Goldstein, Thomas Moyer, David M. Eyers, Margo Seltzer, Jean Bacon. SoCC 2017.
       link: https://doi.org/10.1145/3127479.3129249
 
     - title: Sketches of space - ownership accounting for shared storage.
