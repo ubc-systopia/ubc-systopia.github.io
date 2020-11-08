@@ -113,10 +113,6 @@
       info: Nodir Kodirov, Sam Bayless, Fabian Ruffy, Ivan Beschastnikh, Holger H. Hoos, Alan J. Hu. ANCS 2018.
       link: https://doi.org/10.1145/3230718.3230724
 
-    - title: Sharing and Preserving Computational Analyses for Posterity with encapsulator.
-      info: Thomas Pasquier, Matthew K. Lau, Xueyuan Han, Elizabeth Fong, Barbara Staudt Lerner, Emery R. Boose, Merce Crosas, Aaron M. Ellison, Margo Seltzer. ArXiv 2018.
-      link: http://arxiv.org/abs/1803.05808
-
     - title: Persistent Memory Transactions.
       info: Virendra J. Marathe, Achin Mishra, Amee Trivedi, Yihe Huang, Faisal Zaghloul, Sanidhya Kashyap, Margo Seltzer, Tim Harris, Steve Byan, Bill Bridge, Dave Dice. ArXiv 2018.
       link: http://arxiv.org/abs/1804.00701
