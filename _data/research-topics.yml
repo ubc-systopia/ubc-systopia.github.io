@@ -9,7 +9,7 @@
   description: Pellentesque suscipit lacinia erat, quis blandit diam tristique vitae. Quisque rhoncus ipsum a dolor molestie, quis gravida sapien fermentum. Cras ex massa, malesuada sed purus a, imperdiet pharetra turpis. Morbi elit ante, molestie quis tincidunt eu, eleifend in orci. Nunc vel libero velit. Proin feugiat augue ac nulla iaculis luctus. Vestibulum vitae metus lorem.
   tag: storage
 - topic: "Velosity: Synthesizing System Software"
-  description: Aliquam ultricies sem id tellus tincidunt ullamcorper. Mauris aliquam ante sed dolor dignissim hendrerit. Praesent at porta odio. Nam ante leo, sagittis quis massa id, elementum dignissim nibh. Aenean ac purus augue. Sed sagittis diam eget metus dignissim facilisis. Nulla ac felis vitae justo vehicula euismod.
+  description: We investigate novel techniques for specifying systems components and tractably synthesizing provably correct implementations.
   tag: velosity
 - topic: Provenance
   description: We investigate techniques and applications that make data more valuable, from capturing data provenance (a formal history of how data came to be in its present form) to deriving provenance to developing applications that use data provenance. We build tools to facilitate scientific reproducibility and we investigate ways to build systems that are more accountable to the people who develop and use them.
