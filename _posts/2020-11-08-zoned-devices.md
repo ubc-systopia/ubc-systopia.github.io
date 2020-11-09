@@ -10,7 +10,7 @@ date: 2020-11-08 12:02:24 -0700
 tags: storage
 categories:
 headerimg:
-permalink: post_template
+permalink: zoned_devices
 topic: Zoned Storage
 heading: "Zoned Storage"
 description: "Zoned storage devices are divided into units called zones; writes to a zone must be sequential. In this project we study methods to improve I/O performance on these devices."  
