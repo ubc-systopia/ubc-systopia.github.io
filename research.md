@@ -20,15 +20,21 @@ description: We conduct research on a variety of topics, including operating sys
     <div class="container">
         <h3>{{ item.topic }}</h3>
         <P>{{ item.description }}</P>
-        <div class="collapse-list-heading {% unless forloop.index == 1 %} collapsed {% endunless %}" 
+        <div class="collapse-list-heading collapsed" 
             data-toggle="collapse" 
             data-target="#{{ target-id }}" 
             aria-controls="{{ target-id }}" 
             aria-expanded="{% if forloop.index == 1 %} true {% else %} false {% endif %}">
-            <h6 class="mb-5">
-            <span class="material-icons">arrow_downward</span> 
-            <span class="accordion-toggle" alt="Click to view more">View {{ item.topic }} Projects</span>
-            </h6>
+            <table class="mb-5">
+                <tr>
+                    <td>
+                        <h6><span class="accordion-toggle" alt="Click to view more">View {{ item.topic }} Projects</span></h6>
+                    </td>
+                    <td>
+                        <span class="material-icons float-right">arrow_downward</span>
+                    </td>
+                </tr>
+            </table>
         </div>
     </div>
     <div class="bg-gray mb-5 collapse-list-target collapse" 
