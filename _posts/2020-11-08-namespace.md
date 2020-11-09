@@ -18,7 +18,7 @@ description: "The hierarchical filesystem namespace originated in the 1950s and 
 <div class="container-fluid bg-gray my-5 py-5">
     <div class="container pt-4">
         <h5>GraphFS</h5>
-        <P>Traditional file systems use a per-silo minimally connected graph, despite the explosive growth in both the size and variety of our storage locations. This work explores potential alternatives by identifying the limitations and the alternatives that have already been explored to find potential new ways to address limitations and enhance our understanding of file system data organization.</P>
+        <P>Traditional file systems use an hierarchically structured name space tied to the specific storage, despite the explosive growth in both the size and variety of our storage locations. This makes it difficult to know where to look for things and how this disparate content is related. We strive to explore potential alternatives by identifying the limitations of existing systems, as well as shortcomings in proposed alternatives.  Our hope is that this will lead to potential new ways to address those limitations and enhance our understanding of file system data organization.</P>
     </div>
 </div>
 <div class="container">
