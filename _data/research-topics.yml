@@ -23,3 +23,6 @@
 - topic: "Synthesizing System Software"
   description: We investigate novel techniques for specifying systems components and tractably synthesizing provably correct implementations.
   tag: velosity
+- topic: "Software Engineering for Systems"
+  description: Complex software systems are difficult to design, implement, tune, debug, and understand. We are working on techniques to address these challenges.
+  tag: software_engineering
