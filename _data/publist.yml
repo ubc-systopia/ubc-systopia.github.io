@@ -107,6 +107,10 @@
       info: Peng Sun, Chris Brown, Ivan Beschastnikh, Kathryn T. Stolee. SANER 2019.
       link: https://doi.org/10.1109/SANER.2019.8668025
 
+    - title: "Personal Data and the Internet of Things: It is time to care about digital provenance"
+      info: Thomas Pasquier, David Eyers, Jean Bacon. Communications of the ACM 2019.
+      link: T Pasquier, D Eyers, J Bacon
+
 - date: 2018
   publications:
     - title: Runtime Analysis of Whole-System Provenance.
