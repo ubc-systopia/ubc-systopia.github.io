@@ -20,3 +20,6 @@
 - topic: Networked and Distributed Systems
   description: We investigate new design principles in datacenter system design and operation. Our work  covers broad areas such as Network Function chain allocation and acceleration, disaggregated datacenters, and using programmable devices to acclerate data analytics workloads.
   tag: programmable_networks
+- topic: Self-optimizing Systems
+  description: We investigate the use of Machine Learning techniques to design systems able to self-optimize.
+  tag: self_optimize
