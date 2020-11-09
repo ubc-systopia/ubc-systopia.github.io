@@ -3,6 +3,12 @@
 # When entering publication info, please maintain the following format:
 # [Authors, separated by comma]. [Publisher] [Year of publication].
 
+- date: 2021
+  publications:
+    - title: "SIGL: Securing Software Installations Through Deep Graph Learning"
+      info: X Han, X Yu, T Pasquier, D Li, J Rhee, J Mickens, M Seltzer, C Haifeng. USENIX Security 2021.
+      link: https://tfjmp.org/files/publications/2021-USENIXsec.pdf
+
 - date: 2020
   publications:
     - title: To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics
