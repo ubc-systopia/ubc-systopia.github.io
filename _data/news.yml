@@ -10,23 +10,17 @@
 # If there is a separate link for the video, put it in "video-link"
 
 talks:
-  - title: "Iroko: A Data Center Emulator for Reinforcement Learning"
-    speaker: Fabian Ruffy
-    event: 2018 ML for Systems Workshop at NIPS
-    link: http://mlforsystems.org/schedule.html
-    video-link:
+  - title: "UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats"
+    speaker: Xueyuan (Michael) Han
+    event: 2020 NDSS
+    link: https://tfjmp.org/files/publications/2020-ndss.pdf
+    video-link: https://www.youtube.com/watch?v=B9ACkb320s0&ab_channel=NDSSSymposium
 
-  - title: "Linux Network Programming with P4"
-    speaker: Fabian Ruffy
-    event: 2018 Linux Plumbers Conference
-    link: https://linuxplumbersconf.org/event/2/contributions/97/
-    video-link: https://www.youtube.com/watch?v=r_P5pKNFNHY
-
-  - title: "Efficient Transaction Relay for Bitcoin"
-    speaker: Gleb Naumenko
-    event: 2018 Scaling Bitcoin (WIP Section)
-    link: https://tokyo2018.scalingbitcoin.org/
-    video-link: https://www.youtube.com/watch?v=2MxO-oa_1LM&feature=youtu.be&t=11m50s
+  - title: "Xanthus: Push-button Orchestration of Host Provenance Data Collection"
+    speaker: Xueyuan (Michael) Han
+    event: 2020 ACM International Workshop on Practical Reproducible Evaluation of Systems
+    link: https://tfjmp.org/files/publications/2020-precs.pdf
+    video-link: https://youtu.be/50PpVxcy5WM?t=4017
 
 # INTERNSHIPS
 # If applicable, add a link to the internship organization under "org-link"
