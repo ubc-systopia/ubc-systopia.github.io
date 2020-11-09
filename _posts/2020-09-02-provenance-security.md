@@ -43,8 +43,8 @@ description: "We explore the use of system provenance for security."
         </ol>
     <h6>People</h6>
         <ol>
-          	<li>Thomas Pasquier</li>
-          	<li>Michael Han</li>
+          	<li><a href="https://tfjmp.org/">Thomas Pasquier</a></li>
+          	<li><a href="https://scholar.harvard.edu/han/home">Xueyuan (Michael) Han</a></li>
         </ol>
 </div>
 <!-- /Project Details and Additional Info -->
