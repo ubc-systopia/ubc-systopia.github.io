@@ -27,10 +27,12 @@ description: We conduct research on a variety of topics, including operating sys
             aria-expanded="{% if forloop.index == 1 %} true {% else %} false {% endif %}">
             <table class="mb-5">
                 <tr>
-                <td><h6>
-                <span class="accordion-toggle" alt="Click to view more">View {{ item.topic }} Projects</span>
-                </h6></td>
-                <td><span class="material-icons float-right">arrow_downward</span> </td>
+                    <td>
+                        <h6><span class="accordion-toggle" alt="Click to view more">View {{ item.topic }} Projects</span></h6>
+                    </td>
+                    <td>
+                        <span class="material-icons float-right">arrow_downward</span>
+                    </td>
                 </tr>
             </table>
         </div>
