@@ -31,7 +31,7 @@ description: We conduct research on a variety of topics, including operating sys
             </h6>
         </div>
     </div>
-    <div class="bg-gray mb-5 collapse-list-target collapse {% if forloop.index == 1 %} show {% endif %}" 
+    <div class="bg-gray mb-5 collapse-list-target collapse" 
          id="{{ target-id }}" 
          aria-labelledby="{{ target-id }}" 
          data-parent="#complex-wrapper-id">

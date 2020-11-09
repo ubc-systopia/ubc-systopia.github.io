@@ -6,7 +6,7 @@
   description: We use computational caching as well as novel data structures and algorithms to produce provably optimal solutions to real world NP-hard problems. Our focus is on interpretable, certifiably optimal models. 
   tag: optimization
 - topic: Storage
-  description: Pellentesque suscipit lacinia erat, quis blandit diam tristique vitae. Quisque rhoncus ipsum a dolor molestie, quis gravida sapien fermentum. Cras ex massa, malesuada sed purus a, imperdiet pharetra turpis. Morbi elit ante, molestie quis tincidunt eu, eleifend in orci. Nunc vel libero velit. Proin feugiat augue ac nulla iaculis luctus. Vestibulum vitae metus lorem.
+  description: We investigate emerging storage technology such as non-volatile RAM and ultra-dense hard disk drives to match technology characteristics with file system capabilities.  We also explore new approaches to namespace management, data organization, and data analytics.
   tag: storage
 - topic: "Velosity: Synthesizing System Software"
   description: We investigate novel techniques for specifying systems components and tractably synthesizing provably correct implementations.

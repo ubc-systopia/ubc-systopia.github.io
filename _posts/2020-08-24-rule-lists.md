@@ -49,3 +49,12 @@ description: "Rule lists are a set of easily interpretable solutions to classifi
         </ol>
 </div>
 <!-- /Project Details and Additional Info -->
+<div class="container">
+    <h6>People</h6>
+        <ul>
+	<li>Hayden McTavish</li>
+	<li>Alexander Zheng</li>
+	<li>Ali Behrouz</li>
+	<li>Jacques Chen</li>
+        </ul>
+</div>

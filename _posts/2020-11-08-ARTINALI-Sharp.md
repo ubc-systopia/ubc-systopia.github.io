@@ -32,3 +32,9 @@ description: "We offer intelligent techniques for building scalable intrusion de
         </ol>
 </div>
 <!-- /Project Details and Additional Info -->
+<div class="container">
+    <h6>People</h6>
+        <ul>
+	<li>Maryam Raiyat</li>
+        </ul>
+</div>

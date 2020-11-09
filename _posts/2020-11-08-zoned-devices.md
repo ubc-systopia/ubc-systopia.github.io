@@ -13,19 +13,33 @@ headerimg:
 permalink: zoned_devices
 topic: Zoned Storage
 heading: "Zoned Storage"
-description: "Zoned storage devices are divided into units called zones; writes to a zone must be sequential. In this project we study methods to improve I/O performance on these devices."  
+description: "Zoned storage devices, such as flash drives and shingled magnetic disks, are divided into units called zones, in which all writes must be sequential. We develop techniques to improve I/O performance on these devices."  
 ---
 <!-- Project Overview section -->
 <div class="container-fluid bg-gray my-5 py-5">
     <div class="container pt-4">
         <h5> Translation Layer for Zoned Devices </h5>
-        <P> Shingled Magnetic Recording (SMR) drives offer higher data density at the cost of disallowing random writes. SMR drives are divided into zones; writes to a zone must be sequential.  In this project we investigate the right architecture and the location of the software (a.k.a translation layer) that manages this sequential only writes requirement.  </P>
+        <P> Shingled Magnetic Recording (SMR) drives offer higher data density at the cost of disallowing random writes. This higher density comes at a prices: all writes within large zones must be sequential. We are developing file system and storage stack architectures that best support this sequential only writes requirement.  </P>
     </div>
 </div>
 <!-- /Project Overview section -->
-<!-- Project Details and Additional Info -->
 <div class="container">
     <h6> Improving tail latency </h6>
-      <P> Shingled Magnetic Recording (SMR) drives offer higher data density at the cost of disallowing random writes. SMR drives are divided into zones; writes to a zone must be sequential. This sequential writes only restriction aligns neatly with log-structured filesystem (LFS); LFS always writes sequentially avoiding read-modify-updates. However, as it writes the updates to a new sequential location, the older copy of the data becomes invalid; eventually all these invalid blocks need to be collected to free up space for more sequential writing. While the filesystem creates this free space, the application I/O gets stalled. In this project, we investigate the methods that can reduce this latency spike.  </P>
+      <P> Shingled Magnetic Recording (SMR) drives offer higher
+      data density at the cost of disallowing random writes. This
+      sequential writes only restriction aligns well with log-structured
+      filesystem (LFS); LFS always writes sequentially avoiding
+      read-modify-updates. However, this no-overwrite structure
+      generates invalid (dirty) data, which ultimately
+      needs to be garbage-collected (typically called cleaning in the context of LFS).
+      Historically, cleaning disrupts application IO leading to high tail latencies.
+      We investigate the methods that can reduce this latency spike.
+      </P>
 </div>
 <!-- /Project Details and Additional Info -->
+<div class="container">
+    <h6>Additional Information</h6>
+        <p>
+	People: Surbhi Palande
+        </p>
+</div>
