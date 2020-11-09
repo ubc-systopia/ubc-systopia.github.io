@@ -48,7 +48,7 @@ digital lives.
 <!-- Project Details and Additional Info -->
 <div class="container">
     <h6>Additional Information</h6>
-        <p>People: Paul Bucci</p>
+        <p>People: Paul Bucci, Faqia Iqbal</p>
       	<p><a href="https://www.cs.ubc.ca/~bestchai/papers/chi2019-unauth-smartphone-access.pdf">Vulnerability & Blame: Making Sense of Unauthorized Access to Smartphones</a> (CHI’19)</p>
         <p><a href="https://www.cs.ubc.ca/~bestchai/papers/social-insider-chi17.pdf">Characterizing Social Insider Attacks on Facebook</a> (CHI’17)</p>
 </div>
