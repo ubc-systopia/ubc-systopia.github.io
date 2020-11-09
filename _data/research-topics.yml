@@ -26,3 +26,6 @@
 - topic: "Software Engineering for Systems"
   description: Complex software systems are difficult to design, implement, tune, debug, and understand. We are working on techniques to address these challenges.
   tag: software_engineering
+- topic: "Privacy"
+  description: "Systems that handle users' data must consider the privacy of that data. We build systems that provide privacy guarantees and also study individual privacy expectations using mixed methods approaches."
+  tag: privacy
