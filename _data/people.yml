@@ -92,13 +92,13 @@ phds:
     img: tony.jpg
 
   - name: Surbhi Palande
-    info: "Systems"
+    info: "Systems\nStorage"
     link: https://www.linkedin.com/in/csurbhi/
     img: surbhi.jpg
 
   - name: Puneet Mehrotra
-    info: "Operating systems\nDistributed systems"
-    link: https://www.cs.ubc.ca/~puneet89/
+    info: "Operating systems\nDistributed systems\nGraph processing"
+    link: https://artorhem.github.io
     img: puneet.jpg
 
   - name: Paul H. B.
