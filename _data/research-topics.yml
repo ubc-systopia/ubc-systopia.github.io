@@ -1,14 +1,14 @@
 # NOTES
 # If you plan on including quotation marks, colons, or other special punctuation in your description/title, please enclose the text in quotation marks.
-# "url" is used to 
+# "url" is used to
 
 - topic: Interpretable Machine Learning
-  description: We use computational caching as well as novel data structures and algorithms to produce provably optimal solutions to real world NP-hard problems. Our focus is on interpretable, certifiably optimal models. 
+  description: We use computational caching as well as novel data structures and algorithms to produce provably optimal solutions to real world NP-hard problems. Our focus is on interpretable, certifiably optimal models.
   tag: optimization
 - topic: Storage
   description: We investigate emerging storage technology such as non-volatile RAM and ultra-dense hard disk drives to match technology characteristics with file system capabilities.  We also explore new approaches to namespace management, data organization, and data analytics.
   tag: storage
-- topic: "Velosity: Synthesizing System Software"
+- topic: "Synthesizing System Software"
   description: We investigate novel techniques for specifying systems components and tractably synthesizing provably correct implementations.
   tag: velosity
 - topic: Provenance
