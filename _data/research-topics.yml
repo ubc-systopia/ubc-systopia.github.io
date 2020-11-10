@@ -9,7 +9,7 @@
   description: We investigate new design principles in datacenter system design and operation. Our work  covers broad areas such as Network Function chain allocation and acceleration, disaggregated datacenters, and using programmable devices to acclerate data analytics workloads.
   tag: programmable_networks
 - topic: "Privacy"
-  description: "Systems that handle users' data must consider the privacy of that data. We build systems that provide privacy guarantees and also study individual privacy expectations using mixed methods approaches."
+  description: "Systems that handle users' data must consider the privacy of that data. We build systems that provide privacy guarantees in the face of various types of threats and also study individual privacy expectations using mixed methods approaches."
   tag: privacy
 - topic: Provenance
   description: We investigate techniques and applications that make data more valuable, from capturing data provenance (a formal history of how data came to be in its present form) to deriving provenance to developing applications that use data provenance. We build tools to facilitate scientific reproducibility and we investigate ways to build systems that are more accountable to the people who develop and use them.
