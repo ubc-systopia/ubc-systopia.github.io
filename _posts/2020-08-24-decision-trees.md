@@ -44,4 +44,13 @@ description: "We create optimal decision trees for classification tasks. We opti
             <li>Master's Dissertation on Optimal Sparse Decision Trees [<a href="">TBD</a>]</li>
         </ol>
 </div>
+<div class="container">
+    <h6>People</h6>
+        <ul>
+	<li>Hayden McTavish</li>
+	<li>Alexander Zheng</li>
+	<li>Ali Behrouz</li>
+	<li>Jacques Chen</li>
+        </ul>
+</div>
 <!-- /Project Details and Additional Info -->

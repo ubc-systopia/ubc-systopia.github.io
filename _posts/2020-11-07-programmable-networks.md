@@ -30,3 +30,11 @@ description: "We use dataplane programmable switches to improve goodput in Netwo
         </ol>
 </div>
 <!-- /Project Details and Additional Info -->
+<div class="container">
+    <h6>People</h6>
+        <ul>
+	<li>Swati Goswami</li>
+	<li>Nodir Kodirov</li>
+	<li>Craig Mustard</li>
+        </ul>
+</div>

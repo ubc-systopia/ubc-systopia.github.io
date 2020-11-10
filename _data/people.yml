@@ -29,7 +29,7 @@ faculty:
 
   - name: Aastha Mehta
     info: "Systems security\nData Privacy\nOperating and Distributed Systems"
-    link: https://www.cs.ubc.ca/people/aastha-mehta
+    link: https://aasthakm.github.io
     img: aastha.jpg
 
   - name: Mathias Lécuyer
@@ -68,6 +68,11 @@ postdocs:
     info: "Real-time systems\nScheduling\nFault Tolerance"
     link: https://people.mpi-sws.org/~arpanbg/
     img: arpan.jpg
+    
+  - name: Mohamad-Jaafar NEHME
+    info: "Security\nFault Tolerance\nBlockchains"
+    link: https://www.linkedin.com/in/mohamad-jaafar-nehme-9569a6144/
+    img: jaafar.jpg
 
 # PHDS
 phds:
@@ -92,13 +97,13 @@ phds:
     img: tony.jpg
 
   - name: Surbhi Palande
-    info: "Systems"
+    info: "Systems\nStorage"
     link: https://www.linkedin.com/in/csurbhi/
     img: surbhi.jpg
 
   - name: Puneet Mehrotra
-    info: "Operating systems\nDistributed systems"
-    link: https://www.cs.ubc.ca/~puneet89/
+    info: "Operating systems\nDistributed systems\nGraph processing"
+    link: https://artorhem.github.io
     img: puneet.jpg
 
   - name: Paul H. B.
@@ -124,30 +129,15 @@ mscs:
     link: #
     img: ali.jpg
 
-  - name: Adam Geller
-    info: "Compilers\nType Theory\nSecurity"
-    link: https://www.cs.ubc.ca/~atgeller/
-    img: adam.jpg
-
   - name: Syed Mubashir Iqbal
     info: "Optimization\nArchitecture\nNetworking"
     link: #
     img: syed.jpg
 
-  - name: Jose Pazos
-    info: "Cryptography\nSystems security"
-    link: https://www.linkedin.com/in/jose-carlos-pazos-084ba0165/
-    img: jose.jpg
-
   - name: Robert Reiss
     info: "Cryptography\nNetworks\nSecurity"
     link: #
     img: newdefault.jpg
-
-  - name: Muhammad Shayan
-    info: "Machine learning\nDistributed protocols"
-    link: https://m-shayanshafi.github.io/
-    img: shayan.jpg
 
   - name: Lana Sodol
     info: "Parallel, Emergent, and Biologically-inspired computing"
@@ -184,6 +174,11 @@ mscs:
     link: #
     img: faqia.jpg
 
+  - name: Mayank Tiwary
+    info: "Self-Tuning Servers"
+    link: https://scholar.google.co.in/citations?user=xtMDCsQAAAAJ&hl=en
+    img: mayank.jpg
+
 #VISITING STUDENTS
 visitors:
   
@@ -193,7 +188,11 @@ visitors:
     img: akshitha.jpg
 
   - name: Maryam Raiyat Aliabadi
+<<<<<<< HEAD
     info: "Cyber-Physical Systems\nSecurity and Fault tolerance\nProgram Analysis"
+=======
+    info: "CPS Security\nProgram Analysis\nFault Tolerance"
+>>>>>>> 7ef85b4a5afb24985e089ff6df6f4485b14c7f97
     link: https://www.ece.ubc.ca/~raiyat/
     img: Maryam.jpeg
 
@@ -201,11 +200,6 @@ visitors:
     info: "Blockchain"
     link: #
     img: gary.jpg
-
-  - name: Stephen Ye
-    info: "Software reliability"
-    link: #
-    img: stephen.jpg
 
 #RESEARCH STAFF
 researchers:

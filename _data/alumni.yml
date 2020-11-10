@@ -14,11 +14,20 @@ faculty:
 
 # MSC ALUMNI
 mscs:
+  - name: Adam Geller
+    info: 2020, PhD @ UBC
+
+  - name: Muhammad Shayan
+    info: 2020
+
+  - name: Jose Pazos
+    info: 2020, Wolfram
+
   - name: Vaastav Anand
-    info: 2020, MPI-SWS Saarbrucken
+    info: 2020, PhD @ MPI-SWS Saarbrucken
 
   - name: Anand Jayarajan
-    info: 2019, Phd @ Univ. of Toronto
+    info: 2019, PhD @ Univ. of Toronto
 
   - name: Renato Costa
     info: 2019
@@ -27,16 +36,16 @@ mscs:
     info: 2019
 
   - name: Jodi Spacek
-    info: 2019
+    info: 2019, Shopify
 
   - name: Fabian Ruffy
-    info: 2019, Phd @ NYU
+    info: 2019, PhD @ NYU
 
   - name: Gleb Naumenko
     info: 2019, Chaincode Labs
 
   - name: Clement Fung
-    info: 2018, Oasis Labs
+    info: 2018, PhD @ CMU
 
   - name: Stewart Grant
     info: 2018, PhD @ UC San Diego

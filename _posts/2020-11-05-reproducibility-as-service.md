@@ -33,3 +33,10 @@ description: "We develop systems that retroactively facilitate computational rep
     </ul>
 </div>
 <!-- /Project Details and Additional Info -->
+<div class="container">
+    <h6>People</h6>
+        <ul>
+	<li>Joseph Wonsil</li>
+	<li>Prakhar Agrawal</li>
+        </ul>
+</div>

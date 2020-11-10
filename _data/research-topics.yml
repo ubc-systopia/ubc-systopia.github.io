@@ -1,22 +1,31 @@
 # NOTES
 # If you plan on including quotation marks, colons, or other special punctuation in your description/title, please enclose the text in quotation marks.
-# "url" is used to 
+# "url" is used to
 
 - topic: Interpretable Machine Learning
-  description: We use computational caching as well as novel data structures and algorithms to produce provably optimal solutions to real world NP-hard problems. Our focus is on interpretable, certifiably optimal models. 
+  description: We use computational caching as well as novel data structures and algorithms to produce provably optimal solutions to real world NP-hard problems. Our focus is on interpretable, certifiably optimal models.
   tag: optimization
-- topic: Storage
-  description: Pellentesque suscipit lacinia erat, quis blandit diam tristique vitae. Quisque rhoncus ipsum a dolor molestie, quis gravida sapien fermentum. Cras ex massa, malesuada sed purus a, imperdiet pharetra turpis. Morbi elit ante, molestie quis tincidunt eu, eleifend in orci. Nunc vel libero velit. Proin feugiat augue ac nulla iaculis luctus. Vestibulum vitae metus lorem.
-  tag: storage
-- topic: "Velosity: Synthesizing System Software"
-  description: We investigate novel techniques for specifying systems components and tractably synthesizing provably correct implementations.
-  tag: velosity
+- topic: Networked and Distributed Systems
+  description: We investigate new design principles in datacenter system design and operation. Our work  covers broad areas such as Network Function chain allocation and acceleration, disaggregated datacenters, and using programmable devices to acclerate data analytics workloads.
+  tag: programmable_networks
+- topic: "Privacy"
+  description: "Systems that handle users' data must consider the privacy of that data. We build systems that provide privacy guarantees and also study individual privacy expectations using mixed methods approaches."
+  tag: privacy
 - topic: Provenance
   description: We investigate techniques and applications that make data more valuable, from capturing data provenance (a formal history of how data came to be in its present form) to deriving provenance to developing applications that use data provenance. We build tools to facilitate scientific reproducibility and we investigate ways to build systems that are more accountable to the people who develop and use them.
   tag: provenance
 - topic: Security
   description: We research, develop, evaluate, and deploy tools and systems designed to ensure that system/network security missions can be accomplished successfully despite cyber attacks. We also develop advanced algorithms and techniques for processing big datasets from a range of sources. such as IoT devices and network traffic.
   tag: security
-- topic: Networked and Distributed Systems
-  description: We investigate new design principles in datacenter system design and operation. Our work  covers broad areas such as Network Function chain allocation and acceleration, disaggregated datacenters, and using programmable devices to acclerate data analytics workloads.
-  tag: programmable_networks
+- topic: Self-optimizing Systems
+  description: We investigate the use of Machine Learning techniques to design systems able to self-optimize.
+  tag: self_optimize
+- topic: "Software Engineering for Systems"
+  description: Complex software systems are difficult to design, implement, tune, debug, and understand. We are working on techniques to address these challenges.
+  tag: software_engineering
+- topic: Storage
+  description: We investigate emerging storage technology such as non-volatile RAM and ultra-dense hard disk drives to match technology characteristics with file system capabilities.  We also explore new approaches to namespace management, data organization, and data analytics.
+  tag: storage
+- topic: "Synthesizing System Software"
+  description: We investigate novel techniques for specifying systems components and tractably synthesizing provably correct implementations.
+  tag: velosity
