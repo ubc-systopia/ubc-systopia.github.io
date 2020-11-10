@@ -68,6 +68,11 @@ postdocs:
     info: "Real-time systems\nScheduling\nFault Tolerance"
     link: https://people.mpi-sws.org/~arpanbg/
     img: arpan.jpg
+    
+  - name: Mohamad-Jaafar NEHME
+    info: "Security\nFault Tolerance\nBlockchains"
+    link: https://www.linkedin.com/in/mohamad-jaafar-nehme-9569a6144/
+    img: jaafar.jpg
 
 # PHDS
 phds:
