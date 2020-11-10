@@ -22,6 +22,22 @@ talks:
     link: https://tfjmp.org/files/publications/2020-precs.pdf
     video-link: https://youtu.be/50PpVxcy5WM?t=4017
 
+awards:
+  - name: ACM SIGMOD Systems Award
+    awardee: Margo Seltzer
+    date: 2020
+    link: https://sigmod.org/sigmod-awards/sigmod-systems-award/
+
+  - name: USENIX Lifetime Achievement Award
+    awardee: Margo Seltzer
+    date: 2019
+    link: https://www.usenix.org/about/awards/flame
+
+  - name: Canada 150 Research Chair
+    awardee: Margo Seltzer
+    date: 2018
+    link: https://www.canada150.chairs-chaires.gc.ca/chairholders-titulaires/index-eng.aspx
+
 # INTERNSHIPS
 # If applicable, add a link to the internship organization under "org-link"
 
