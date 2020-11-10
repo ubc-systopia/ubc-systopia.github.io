@@ -15,7 +15,7 @@
   description: We investigate techniques and applications that make data more valuable, from capturing data provenance (a formal history of how data came to be in its present form) to deriving provenance to developing applications that use data provenance. We build tools to facilitate scientific reproducibility and we investigate ways to build systems that are more accountable to the people who develop and use them.
   tag: provenance
 - topic: Security
-  description: We research, develop, evaluate, and deploy tools and systems designed to ensure that system/network security missions can be accomplished successfully despite cyber attacks. We also develop advanced algorithms and techniques for processing big datasets from a range of sources. such as IoT devices and network traffic.
+  description: We research, develop, evaluate, and deploy tools and systems designed to ensure that system/network security missions can be accomplished successfully despite cyber attacks. We also develop advanced algorithms and techniques for processing big datasets from a range of sources, such as IoT devices and network traffic.
   tag: security
 - topic: Self-optimizing Systems
   description: We investigate the use of Machine Learning techniques to design systems able to self-optimize.
