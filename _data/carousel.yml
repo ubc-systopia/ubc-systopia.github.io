@@ -2,9 +2,16 @@
 # To add a new image to the carousel, upload the image to the "slides" folder and add the path below.
 
 images: 
-  - image: /assets/images/slides/slide1-lab.jpg
+  - image: /assets/images/slides/CS2.jpg
+  - image: /assets/images/slides/Langley.jpeg
+  - image: /assets/images/slides/Langley2.jpeg
   - image: /assets/images/slides/slide2-soccer.jpg
-  - image: /assets/images/slides/UBC-Rose-Garden-1.jpeg
-  - image: /assets/images/slides/UBC-Rose-Garden-2.jpeg
+  - image: /assets/images/slides/slide1-lab.jpg
+  - image: /assets/images/slides/Visiting1.jpeg
+  - image: /assets/images/slides/Visiting3.jpeg
+  - image: /assets/images/slides/VisitingLunch.jpeg
   - image: /assets/images/slides/UBC-Rose-Garden-3.jpeg
-  - image: /assets/images/slides/UBC-Rose-Garden-4.jpeg
+  - image: /assets/images/slides/CSNight1.jpeg
+  - image: /assets/images/slides/GatheringNight.jpeg
+
+ 

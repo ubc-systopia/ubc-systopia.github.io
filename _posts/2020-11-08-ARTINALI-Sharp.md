@@ -27,8 +27,8 @@ description: "We offer intelligent techniques for building scalable intrusion de
     <h6>Additional Information</h6>
         <P>Here is a numbered list of additional project components:</P>
         <ol>
-            <li>The <a href="http://blogs.ubc.ca/karthik/files/2017/07/ARTINALI-FSE17.pdf"> ARTINALI Intrustion Detection System</a></li>
-            <li>Additional Collaborators: <a href="https://github.com/MaryamRA/ARTINALI-SHARP">ARTINALI# source code</a></li>
+            <li> <a href="http://blogs.ubc.ca/karthik/files/2017/07/ARTINALI-FSE17.pdf"> ARTINALI Intrustion Detection System</a></li>
+            <li>  <a href="https://github.com/MaryamRA/ARTINALI-SHARP">ARTINALI# source code</a></li>
         </ol>
 </div>
 <!-- /Project Details and Additional Info -->
