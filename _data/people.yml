@@ -188,11 +188,7 @@ visitors:
     img: akshitha.jpg
 
   - name: Maryam Raiyat Aliabadi
-<<<<<<< HEAD
-    info: "Cyber-Physical Systems\nSecurity and Fault tolerance\nProgram Analysis"
-=======
     info: "CPS Security\nProgram Analysis\nFault Tolerance"
->>>>>>> 7ef85b4a5afb24985e089ff6df6f4485b14c7f97
     link: https://www.ece.ubc.ca/~raiyat/
     img: Maryam.jpeg
 
