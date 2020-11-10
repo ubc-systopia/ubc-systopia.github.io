@@ -25,21 +25,13 @@ description: "We offer intelligent techniques for building scalable intrusion de
 <!-- Project Details and Additional Info -->
 <div class="container">
     <h6>Additional Information</h6>
-        <P>Here is a numbered list of additional project components:</P>
-        <ol>
-<<<<<<< HEAD
-            <li> <a href="http://blogs.ubc.ca/karthik/files/2017/07/ARTINALI-FSE17.pdf"> ARTINALI Intrustion Detection System</a></li>
-            <li>  <a href="https://github.com/MaryamRA/ARTINALI-SHARP">ARTINALI# source code</a></li>
-=======
-            <li>The <a href="http://blogs.ubc.ca/karthik/files/2017/07/ARTINALI-FSE17.pdf"> ARTINALI Intrusion Detection System</a></li>
-            <li>Additional Collaborators: <a href="https://github.com/MaryamRA/ARTINALI-SHARP">ARTINALI# source code</a></li>
->>>>>>> 7ef85b4a5afb24985e089ff6df6f4485b14c7f97
-        </ol>
+        
+     
+            <li> People:  <a href="http://www.ece.ubc.ca/~raiyat"> Maryam R.Aliabadi</a></li>
+            <li> ARTINALI Paper: <a href="http://blogs.ubc.ca/karthik/files/2017/07/ARTINALI-FSE17.pdf"> Dynamic Invariant Detection for Cyber-PhysicalSystem Security </a>, FSE 2017</li>
+            <li> <a href="https://github.com/MaryamRA/ARTINALI-SHARP">ARTINALI# source code</a></li>
+
+       
 </div>
 <!-- /Project Details and Additional Info -->
-<div class="container">
-    <h6>People</h6>
-        <ul>
-	<li>Maryam Raiyat</li>
-        </ul>
-</div>
+
