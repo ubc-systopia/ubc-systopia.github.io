@@ -28,15 +28,31 @@ awards:
     date: 2020
     link: https://sigmod.org/sigmod-awards/sigmod-systems-award/
 
-  - name: USENIX Lifetime Achievement Award
-    awardee: Margo Seltzer
-    date: 2019
-    link: https://www.usenix.org/about/awards/flame
+papers-posters:
+  - title: "SIGL: Securing Software Installations Through Deep Graph Learning"
+    authors: X Han, X Yu, T Pasquier, D Li, J Rhee, J Mickens, M Seltzer, C Haifeng
+    publisher: USENIX Security 2020
+    link: https://tfjmp.org/files/publications/2021-USENIXsec.pdf
 
-  - name: Canada 150 Research Chair
-    awardee: Margo Seltzer
-    date: 2018
-    link: https://www.canada150.chairs-chaires.gc.ca/chairholders-titulaires/index-eng.aspx
+  - title: Parking Packet Payload with P4
+    authors: Swati Goswami, Nodir Kodirov, Craig Mustard, Ivan Beschastnikh, Margo Seltze
+    publisher: CoNEXT 2021
+    link: https://arxiv.org/pdf/2006.05182.pdf
+
+  - title: To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics
+    authors: Ayat Fekry, Lucian Carata, Thomas Pasquier, Andrew Rice, Andy Hopper
+    publisher: KDD 2020
+    link: https://tfjmp.org/files/publications/2020-kdd.pdf
+
+  - title: Scalable constraint-based virtual data center allocation
+    authors: Sam Bayless, Nodir Kodirov, Syed M. Iqbal, Ivan Beschastnikh, Holger H. Hoos, Alan J. Hu
+    publisher: Artificial Intelligence Journal (AIJ) 2020
+    link: https://www.cs.ubc.ca/~bestchai/papers/aij19-netsolver.pdf
+
+  - title: Unexpected Performance of Intel® Optane™ DC Persistent Memory
+    authors: Tony Mason, Thaleia Dimitra Doudali, Margo Seltzer, Ada Gavrilovska
+    publisher: IEEE Computer Architecture Letters 2020
+    link: https://ieeexplore.ieee.org/document/9072482
 
 # INTERNSHIPS
 # If applicable, add a link to the internship organization under "org-link"
