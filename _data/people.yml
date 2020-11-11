@@ -74,6 +74,11 @@ postdocs:
     link: https://www.linkedin.com/in/mohamad-jaafar-nehme-9569a6144/
     img: jaafar.jpg
 
+  - name: Adalberto Sampaio Junior
+    info: "Autonomous Computing\nRuntime Adaptation\nSelf-Tuning servers"
+    link: https://www.linkedin.com/in/adalrsjr/
+    img: adalberto.jpg
+
 # PHDS
 phds:
   - name: Patrick Colp
