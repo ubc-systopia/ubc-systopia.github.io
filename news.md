@@ -8,8 +8,22 @@ layout: page
 headerimg:
 tagline: Updates and Accomplishments
 heading: News
-description: Read more about our recent activities.
+description: Read more about our recent activities--including papers, posters, talks, and internships.
 ---
+<!-- .recent_papers_posters -->
+<div class="container">
+    <div class="row mb-5">
+        <div class="col">
+            <h4 class="mb-4">Recent Papers Highlights</h4>
+            <ul>
+            {% for publication in site.data.news.papers-posters %}
+              <li><b><a href="{{ publication.link}}" alt="Publication Link">{{ publication.title }}.</a></b> {{ publication.authors }}. {{ publication.publisher }}.</li>
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- /.recent_papers_posters -->
 <!-- .recent_talks -->
 <div class="container">
     <div class="row mb-5">
@@ -18,7 +32,7 @@ description: Read more about our recent activities.
             <ul>
             {% for talk in site.data.news.talks %}
                 <li>
-                    <B>{{ talk.speaker }}</B>: {{ talk.title }}, <a href="{{ talk.link}}" alt="Talk Link">{{ talk.event }}.</a>
+                    {{ talk.speaker }}: <b>{{ talk.title }}</b>, <a href="{{ talk.link}}" alt="Talk Link">{{ talk.event }}.</a>
                         {% if talk.video-link %}
                     <a href="{{ talk.video-link }}">[Video]</a>
                         {% endif %}
