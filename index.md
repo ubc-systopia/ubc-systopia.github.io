@@ -17,7 +17,7 @@ layout: default
           <div class="col-xl-1 d-xl-flex d-none"> </div>
           <div class="col-lg-6 col-md-7 my-auto pl-md-5 py-5">
             <h2 class="text-right">Welcome to Systopia</h2>
-            <h1 class="mt-4 mb-3 text-right">Researching Networks, Systems, and Security</h1>
+            <h1 class="mt-4 mb-3 text-right">Researching  Systems, construed Broadly</h1>
             <hr class="heading-divider">
             <p class="subheading text-lg-left text-justify">The Systopia lab is part of the Department of Computer Science, at the University of British Columbia.</p>
           </div>
