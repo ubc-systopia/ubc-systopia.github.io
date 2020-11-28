@@ -7,17 +7,17 @@
   publications:
     - title: "SIGL: Securing Software Installations Through Deep Graph Learning"
       info: X Han, X Yu, T Pasquier, D Li, J Rhee, J Mickens, M Seltzer, C Haifeng. USENIX Security 2021.
-      link: https://tfjmp.org/files/publications/2021-USENIXsec.pdf
+      link: https://tfjmp.org/publications/2021-usenixsec.pdf
 
 - date: 2020
   publications:
     - title: To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics
       info: Ayat Fekry, Lucian Carata, Thomas Pasquier, Andrew Rice, Andy Hopper. KDD 2020.
-      link: https://tfjmp.org/files/publications/2020-kdd.pdf
+      link: https://tfjmp.org/publications/2020-kdd.pdf
 
     - title: Accelerating the Configuration Tuning of Big Data Analytics with Similarity-aware Multitask Bayesian Optimization
       info: Ayat Fekry, Lucian Carata, Thomas Pasquier, Andrew Rice. BigData 2020.
-      link: https://tfjmp.org/files/publications/2020-bigdata.pdf
+      link: https://tfjmp.org/publications/2020-bigdata.pdf
 
     - title: Generalized and Scalable Optimal Sparse Decision Trees
       info: Jimmy Lin, Chudi Zhong, Diane Hu, Cynthia Rudin, Margo Seltzer. ICML 2020.
@@ -55,7 +55,7 @@
   publications:
     - title: Towards Seamless Configuration Tuning of Big Data Analytics
       info: Ayat Fekry, Lucian Carata, Thomas Pasquier, Andrew Rice, Andy Hopper. ICDCS 2019.
-      link: https://tfjmp.org/files/publications/2019-icdcs.pdf
+      link: https://tfjmp.org/publications/2019-icdcs.pdf
 
     - title: Brokered Agreements in Multi-Party Machine Learning.
       info: Clement Fung, Ivan Beschastnikh. APSys 2019.

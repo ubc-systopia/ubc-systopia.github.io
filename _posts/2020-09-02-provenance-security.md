@@ -31,10 +31,10 @@ description: "We explore the use of system provenance for security."
 <div class="container">
     <h6>Papers</h6>
         <ol>
-            <li>SIGL: Securing Software Installations Through Deep Graph Learning from USENIX Security 2021 <a href="https://tfjmp.org/files/publications/2021-USENIXsec.pdf">(link)</a></li>
-            <li>UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats from NDSS 2020 <a href="https://tfjmp.org/files/publications/2020-ndss.pdf">(link)</a></li>
-            <li>Runtime Analysis of Whole-System Provenance from ACM CCS 2018 <a href="https://tfjmp.org/files/publications/2018-ccs.pdf">(link)</a></li>
-            <li>Practical Whole-System Provenance Capture from ACM SoCC 2017 <a href="https://tfjmp.org/files/publications/2017-socc.pdf">(link)</a></li>
+            <li>SIGL: Securing Software Installations Through Deep Graph Learning from USENIX Security 2021 <a href="https://tfjmp.org/publications/2021-usenixsec.pdf">(link)</a></li>
+            <li>UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats from NDSS 2020 <a href="https://tfjmp.org/publications/2020-ndss.pdf">(link)</a></li>
+            <li>Runtime Analysis of Whole-System Provenance from ACM CCS 2018 <a href="https://tfjmp.org/publications/2018-ccs.pdf">(link)</a></li>
+            <li>Practical Whole-System Provenance Capture from ACM SoCC 2017 <a href="https://tfjmp.org/publications/2017-socc.pdf">(link)</a></li>
         </ol>
     <h6>Code</h6>
         <ol>

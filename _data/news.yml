@@ -13,13 +13,13 @@ talks:
   - title: "UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats"
     speaker: Xueyuan (Michael) Han
     event: 2020 NDSS
-    link: https://tfjmp.org/files/publications/2020-ndss.pdf
+    link: https://tfjmp.org/publications/2020-ndss.pdf
     video-link: https://www.youtube.com/watch?v=B9ACkb320s0&ab_channel=NDSSSymposium
 
   - title: "Xanthus: Push-button Orchestration of Host Provenance Data Collection"
     speaker: Xueyuan (Michael) Han
     event: 2020 ACM International Workshop on Practical Reproducible Evaluation of Systems
-    link: https://tfjmp.org/files/publications/2020-precs.pdf
+    link: https://tfjmp.org/publications/2020-precs.pdf
     video-link: https://youtu.be/50PpVxcy5WM?t=4017
 
 awards:
@@ -32,7 +32,7 @@ papers-posters:
   - title: "SIGL: Securing Software Installations Through Deep Graph Learning"
     authors: X Han, X Yu, T Pasquier, D Li, J Rhee, J Mickens, M Seltzer, C Haifeng
     publisher: USENIX Security 2020
-    link: https://tfjmp.org/files/publications/2021-USENIXsec.pdf
+    link: https://tfjmp.org/publications/2021-usenixsec.pdf
 
   - title: Parking Packet Payload with P4
     authors: Swati Goswami, Nodir Kodirov, Craig Mustard, Ivan Beschastnikh, Margo Seltze
@@ -42,7 +42,7 @@ papers-posters:
   - title: To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics
     authors: Ayat Fekry, Lucian Carata, Thomas Pasquier, Andrew Rice, Andy Hopper
     publisher: KDD 2020
-    link: https://tfjmp.org/files/publications/2020-kdd.pdf
+    link: https://tfjmp.org/publications/2020-kdd.pdf
 
   - title: Scalable constraint-based virtual data center allocation
     authors: Sam Bayless, Nodir Kodirov, Syed M. Iqbal, Ivan Beschastnikh, Holger H. Hoos, Alan J. Hu
