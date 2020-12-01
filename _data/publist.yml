@@ -11,6 +11,10 @@
 
 - date: 2020
   publications:
+    - title: Parking Packet Payload with P4
+      info: Swati Goswami, Nodir Kodirov, Craig Mustard, Ivan Beschastnikh, Margo Seltzer. CoNEXT 2020.
+      link: https://dl.acm.org/doi/abs/10.1145/3386367.3431295
+
     - title: To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics
       info: Ayat Fekry, Lucian Carata, Thomas Pasquier, Andrew Rice, Andy Hopper. KDD 2020.
       link: https://tfjmp.org/publications/2020-kdd.pdf

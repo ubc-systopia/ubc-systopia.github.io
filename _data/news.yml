@@ -35,9 +35,9 @@ papers-posters:
     link: https://tfjmp.org/publications/2021-usenixsec.pdf
 
   - title: Parking Packet Payload with P4
-    authors: Swati Goswami, Nodir Kodirov, Craig Mustard, Ivan Beschastnikh, Margo Seltze
-    publisher: CoNEXT 2021
-    link: https://arxiv.org/pdf/2006.05182.pdf
+    authors: Swati Goswami, Nodir Kodirov, Craig Mustard, Ivan Beschastnikh, Margo Seltzer
+    publisher: CoNEXT 2020
+    link: https://dl.acm.org/doi/abs/10.1145/3386367.3431295
 
   - title: To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics
     authors: Ayat Fekry, Lucian Carata, Thomas Pasquier, Andrew Rice, Andy Hopper
