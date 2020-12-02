@@ -55,6 +55,10 @@
       info: Tony Mason, Thaleia Dimitra-Doudali, Margo Seltzer, Ada Gavrilovska
       link: https://ieeexplore.ieee.org/document/9072482
 
+    - title: Scalable Constraint-based Virtual Data Center Allocation.
+      info: Sam Bayless, Nodir Kodirov, Syed M. Iqbal, Ivan Beschastnikh, Holger H. Hoos, Alan J. Hu. AIJ 2020.
+      link: https://doi.org/10.1016/j.artint.2019.103196
+
 - date: 2019
   publications:
     - title: Towards Seamless Configuration Tuning of Big Data Analytics
