@@ -121,6 +121,10 @@ phds:
     link: http://fhackett.github.io/
     img: finn.jpg
 
+  - name: Mohammad Dashti
+    info: "Operating Systems\nHeterogeneous Systems\nMemory Systems"
+    link: http://ece.ubc.ca/~mdashti
+    img: mohammad_dashti.jpg
 
 #MSCS
 mscs:
