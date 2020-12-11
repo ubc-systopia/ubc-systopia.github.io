@@ -175,6 +175,9 @@ mscs:
 
 # PHD ALUMNI
 phds:
+  - name: Craig Mustard
+    info: 2020, Oracle
+
   - name: Mihir Nanavati
     info: 2018, Microsoft Research
 
