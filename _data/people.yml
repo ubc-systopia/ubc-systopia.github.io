@@ -197,6 +197,11 @@ mscs:
     info: "Distributed ML\nSecurity and Privacy"
     link: https://www.linkedin.com/in/shiqi-he-06807b15b/
     img: shiqi.jpg
+
+  - name: Joel Nider
+    info: "Operating Systems\nStorage Systems\nMemory Systems"
+    link: https://www.ece.ubc.ca/~joel
+    img: joel_nider.jpg
     
 #VISITING STUDENTS
 visitors:
