@@ -4,6 +4,7 @@ Needed: relatively recent version of Ruby/RubyGems
 
 ```
 gem install bundler jekyll
+cd path/to/ubc-systopia.github.io
 bundle install
 ```
 
