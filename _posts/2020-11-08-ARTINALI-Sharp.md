@@ -11,7 +11,7 @@ tags: security
 headerimg:
 permalink: post_template
 topic: Cyber-Physical System, Security, Machine Learning
-heading: "ARTINALI#"
+heading: "CPS Security"
 description: "We offer intelligent techniques for building scalable intrusion detection system for recourse-constraned Cyber-Physical Systems (CPSes)."
 ---
 <!-- Project Overview section -->
