@@ -126,6 +126,11 @@ phds:
     link: http://ece.ubc.ca/~mdashti
     img: mohammad_dashti.jpg
 
+  - name: Sid Agrawal
+    info: "Systems"
+    link: https://sid-agrawal.github.io
+    img: siagraw.jpeg
+
 #MSCS
 mscs:
   - name: Christopher Chen
