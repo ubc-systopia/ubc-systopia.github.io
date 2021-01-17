@@ -130,6 +130,11 @@ phds:
     info: "Systems"
     link: https://sid-agrawal.github.io
     img: siagraw.jpeg
+  
+  - name: Hadi Sinaee
+    info: "Distributed Systems\nDatabases"
+    link: https://www.linkedin.com/in/hadisinaee/
+    img: hadi.jpg
 
 #MSCS
 mscs:
