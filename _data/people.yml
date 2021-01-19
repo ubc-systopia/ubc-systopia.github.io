@@ -217,6 +217,11 @@ mscs:
     info: "Operating Systems\nStorage Systems\nMemory Systems"
     link: https://www.ece.ubc.ca/~joel
     img: joel_nider.jpg
+
+  - name: Zainab Saeed Wattoo
+    info: "Systems\nSecurity"
+    link: https://www.linkedin.com/in/zainab-saeed-wattoo/
+    img: Zainab.jpeg
     
 #VISITING STUDENTS
 visitors:
