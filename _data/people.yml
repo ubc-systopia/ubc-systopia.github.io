@@ -136,13 +136,13 @@ phds:
     link: https://www.linkedin.com/in/hadisinaee/
     img: hadi.jpg
 
-#MSCS
-mscs:
   - name: Christopher Chen
     info: "Program synthesis\nFormal verification"
     link: https://github.com/chchen
-    img: chris.jpg
+    img: cchen.jpg
 
+#MSCS
+mscs:
   - name: Milad Rezaei Hajidehi
     info: "Data-Intensive Applications \n Graph Processing \n Data Management"
     link: https://www.linkedin.com/in/milad-rezaei-hajidehi-63013773/
