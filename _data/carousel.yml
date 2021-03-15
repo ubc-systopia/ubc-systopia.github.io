@@ -3,17 +3,20 @@
 
 images: 
   
-  - image: /assets/images/slides/CS2.jpg
+  - image: /assets/images/slides/RoseGarden.jpeg
+  - image: /assets/images/slides/visday0.jpeg
+  - image: /assets/images/slides/visday1.jpeg
+  - image: /assets/images/slides/visday3.jpeg
+  - image: /assets/images/slides/visday4.jpeg
+  - image: /assets/images/slides/visday5.jpeg
+  - image: /assets/images/slides/standupMar8.jpeg
   - image: /assets/images/slides/Langley.jpeg
   - image: /assets/images/slides/Langley2.jpeg
   - image: /assets/images/slides/slide2-soccer.jpg
-  - image: /assets/images/slides/guest1.jpeg
-  - image: /assets/images/slides/guest2.png
-  - image: /assets/images/slides/Standup.png
   - image: /assets/images/slides/Visiting3.jpeg
   - image: /assets/images/slides/VisitingLunch.jpeg
   - image: /assets/images/slides/CSNight1.jpeg
   - image: /assets/images/slides/GatheringNight.jpeg
-  - image: /assets/images/slides/UBC-Rose-Garden-3.jpeg
+ 
   
  
