@@ -29,6 +29,13 @@ awards:
     link: https://sigmod.org/sigmod-awards/sigmod-systems-award/
 
 papers-posters:
+ 
+ 
+  - title: "ARTINALI#: An Efficient Intrusion Detection Technique for Resource-Constrained Cyber-Physical Systems"
+    authors: Maryam Raiyat Aliabadi, Margo Seltzer, Mojtaba Vahidi Asl, Ramak Ghavamizadeh
+    publisher: IJCIP 2021
+    link: https://www.sciencedirect.com/science/article/abs/pii/S1874548221000226
+
   - title: "SIGL: Securing Software Installations Through Deep Graph Learning"
     authors: X Han, X Yu, T Pasquier, D Li, J Rhee, J Mickens, M Seltzer, C Haifeng
     publisher: USENIX Security 2020
