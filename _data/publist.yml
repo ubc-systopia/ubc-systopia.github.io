@@ -5,6 +5,11 @@
 
 - date: 2021
   publications:
+    - title: "ARTINALI#: An Efficient Intrusion Detection Technique for Resource-Constrained Cyber-Physical Systems"
+      info: Maryam Raiyat Aliabadi, Margo Seltzer, Mojtaba Vahidi Asl, Ramak Ghavamizadeh. International Journal of Critical Infrastructure Protection, 2021.
+      link: https://www.sciencedirect.com/science/article/abs/pii/S1874548221000226
+
+
     - title: "SIGL: Securing Software Installations Through Deep Graph Learning"
       info: X Han, X Yu, T Pasquier, D Li, J Rhee, J Mickens, M Seltzer, C Haifeng. USENIX Security 2021.
       link: https://tfjmp.org/publications/2021-usenixsec.pdf

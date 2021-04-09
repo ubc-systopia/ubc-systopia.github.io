@@ -28,8 +28,12 @@ description: "We offer intelligent techniques for building scalable intrusion de
         
      
             <li> People:  <a href="http://www.ece.ubc.ca/~raiyat"> Maryam R.Aliabadi</a></li>
-            <li> ARTINALI Paper: <a href="http://blogs.ubc.ca/karthik/files/2017/07/ARTINALI-FSE17.pdf"> Dynamic Invariant Detection for Cyber-PhysicalSystem Security </a>, FSE 2017</li>
-            <li> <a href="https://github.com/MaryamRA/ARTINALI-SHARP">ARTINALI# source code</a></li>
+            <li> ARTINALI Paper: <a href="https://dl.acm.org/doi/pdf/10.1145/3106237.3106282?casa_token=E89AhWyme0AAAAAA:XPw1GnJoTt_qrxkj4P8p8Z59AV7V9QOP4fG3-wvxPc-L4Cn4sRkUIFTO1g0v6o921ThjVV98Ac-S"> Dynamic Invariant Detection for Cyber-Physical System Security </a>, FSE 2017</li>
+
+ <li> ARTINALI# Paper: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1874548221000226"> An Efficient Intrusion Detection Technique for Resource-Constrained Cyber-Physical Systems </a>, IJCIP 2021</li>
+
+ <li> ARTINALI++ Paper:   Multi-dimensional Specification Mining for Complex Cyber-Physical System Security, Under submission in JSS</li>
+            
 
        
 </div>
