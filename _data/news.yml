@@ -23,10 +23,10 @@ talks:
     video-link: https://youtu.be/50PpVxcy5WM?t=4017
 
 awards:
-  - name: 2021 SIGBED Paul Caspi Memorial Dissertation Award 
-    awardee: Arpan Gujarati
-    date: 2021
-    link: https://sigbed.org/2020/12/22/paul-caspi-dissertation-award-21/
+#  - name: 2021 SIGBED Paul Caspi Memorial Dissertation Award 
+#    awardee: Arpan Gujarati
+#    date: 2021
+#    link: https://sigbed.org/2020/12/22/paul-caspi-dissertation-award-21/
 
   - name: Canada Graduate Scholarship -- Master's Program
     awardee: Alex Trostanovsky
