@@ -141,6 +141,11 @@ phds:
     link: https://github.com/chchen
     img: cchen.jpg
 
+  - name: Bingyao "Jerry" Wang
+    info: "Operating Systems\nSecurity"
+    link: #
+    img: jerry.jpg
+
 #MSCS
 mscs:
   - name: Milad Rezaei Hajidehi
@@ -182,11 +187,6 @@ mscs:
     info: "Graph Processing\nGraph Storage"
     link: https://atrostan.github.io/
     img: alext.jpg
-
-  - name: Bingyao "Jerry" Wang
-    info: "Operating Systems\nSecurity"
-    link: #
-    img: jerry.jpg
 
   - name: Joseph Wonsil
     info: "Provenance"

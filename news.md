@@ -10,6 +10,22 @@ tagline: Updates and Accomplishments
 heading: News
 description: Read more about our recent activities--including papers, posters, talks, and internships.
 ---
+<!-- .awards -->
+<div class="container">
+    <div class="row mb-5">
+        <div class="col">
+            <h4 class="mb-4">Awards and Accolades</h4>
+            <ul>
+            {% for award in site.data.news.awards %}
+                <li>
+                    <B>{{ award.awardee }}</B>: <a href="{{ award.link}}" target="_blank" alt="Award Link"> {{ award.name }}</a> ({{ award.date }})
+                </li>
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- /.awards -->
 <!-- .recent_papers_posters -->
 <div class="container">
     <div class="row mb-5">
@@ -43,22 +59,6 @@ description: Read more about our recent activities--including papers, posters, t
     </div>
 </div>
 <!-- /.recent_talks -->
-<!-- .awards -->
-<div class="container">
-    <div class="row mb-5">
-        <div class="col">
-            <h4 class="mb-4">Awards and Accolades</h4>
-            <ul>
-            {% for award in site.data.news.awards %}
-                <li>
-                    <B>{{ award.awardee }}</B>, {{ award.name }}, <a href="{{ award.link}}" target="_blank" alt="Award Link">link.</a> {{ award.date }}
-                </li>
-            {% endfor %}
-            </ul>
-        </div>
-    </div>
-</div>
-<!-- /.awards -->
 <!-- .internships -->
 <div class="container">
     <div class="row mb-5">
