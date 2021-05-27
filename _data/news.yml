@@ -37,6 +37,11 @@ awards:
     awardee: Alex Trostanovsky
     date: 2021
 
+  - name: ACM Software System Award
+    awardee: Margo Seltzer
+    date: 2020
+    link: https://www.cs.ubc.ca/news/2021/05/acm-software-systems-award-given-margo-seltzer
+
   - name: ACM SIGMOD Systems Award
     awardee: Margo Seltzer
     date: 2020
