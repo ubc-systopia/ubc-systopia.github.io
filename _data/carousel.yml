@@ -4,19 +4,20 @@
 images: 
   
   - image: /assets/images/slides/RoseGarden.jpeg
+  - image: /assets/images/slides/Rose0.jpeg
+  - image: /assets/images/slides/Rose1.jpeg
+  - image: /assets/images/slides/Rose2.jpeg
+  - image: /assets/images/slides/Rose3.jpeg
+  - image: /assets/images/slides/Rose4.jpeg
+  - image: /assets/images/slides/Sasha.jpeg
   - image: /assets/images/slides/AX6.png
   - image: /assets/images/slides/AX2.png
   - image: /assets/images/slides/AX1.png
   - image: /assets/images/slides/AX5.png
-  - image: /assets/images/slides/visday1.jpeg
   - image: /assets/images/slides/standupMar8.jpeg
   - image: /assets/images/slides/Langley.jpeg
-  - image: /assets/images/slides/Langley2.jpeg
-  - image: /assets/images/slides/slide2-soccer.jpg
-  - image: /assets/images/slides/Visiting3.jpeg
-  - image: /assets/images/slides/VisitingLunch.jpeg
   - image: /assets/images/slides/CSNight1.jpeg
-  - image: /assets/images/slides/GatheringNight.jpeg
+
  
   
  
