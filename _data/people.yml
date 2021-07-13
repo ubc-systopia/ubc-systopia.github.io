@@ -68,6 +68,11 @@ postdocs:
     info: "Real-time systems\nScheduling\nFault Tolerance"
     link: http://arpangujarati.github.io/
     img: arpan.jpg
+
+  - name: Maryam R. Aliabadi
+    info: "CPS Security\nProgram Analysis\nFault Tolerance"
+    link: https://www.ece.ubc.ca/~raiyat/
+    img: Maryam.jpeg
     
   - name: Mohamad-Jaafar NEHME
     info: "Security\nFault Tolerance\nBlockchains"
@@ -79,11 +84,7 @@ postdocs:
     link: https://www.linkedin.com/in/adalrsjr/
     img: adalberto.jpg
 
-  - name: Maryam R. Aliabadi
-    info: "CPS Security\nProgram Analysis\nFault Tolerance"
-    link: https://www.ece.ubc.ca/~raiyat/
-    img: Maryam.jpeg
-
+ 
 # PHDS
 phds:
   - name: Patrick Colp
