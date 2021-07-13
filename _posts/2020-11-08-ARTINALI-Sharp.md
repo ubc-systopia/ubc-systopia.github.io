@@ -12,7 +12,7 @@ headerimg:
 permalink: post_template
 topic: Cyber-Physical System, Security, Machine Learning
 heading: "CPS Security"
-description: "We offer intelligent techniques for building scalable intrusion detection system for recourse-constraned Cyber-Physical Systems (CPSes)."
+description: "We offer intelligent techniques for building scalable intrusion detection system for recourse-constrained Cyber-Physical Systems (CPSes)."
 ---
 <!-- Project Overview section -->
 <div class="container-fluid bg-gray my-5 py-5">
@@ -32,7 +32,7 @@ description: "We offer intelligent techniques for building scalable intrusion de
 
  <li> ARTINALI# Paper: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1874548221000226"> An Efficient Intrusion Detection Technique for Resource-Constrained Cyber-Physical Systems </a>, IJCIP 2021</li>
 
- <li> ARTINALI++ Paper:   Multi-dimensional Specification Mining for Complex Cyber-Physical System Security, Under submission in JSS</li>
+ <li> ARTINALI++ Paper: <a href="https://www.sciencedirect.com/science/article/pii/S0164121221001138">  Multi-dimensional Specification Mining for Complex Cyber-Physical System Security  </a>, JSS 2021 </li>
             
 
        
