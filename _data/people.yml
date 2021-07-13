@@ -79,6 +79,11 @@ postdocs:
     link: https://www.linkedin.com/in/adalrsjr/
     img: adalberto.jpg
 
+  - name: Maryam Raiyat Aliabadi
+    info: "CPS Security\nProgram Analysis\nFault Tolerance"
+    link: https://www.ece.ubc.ca/~raiyat/
+    img: Maryam.jpeg
+
 # PHDS
 phds:
   - name: Patrick Colp
@@ -230,11 +235,6 @@ visitors:
     info: "Computer architecture\nSoftware systems\nHyperscale compute"
     link: https://akshithasriraman.eecs.umich.edu/
     img: akshitha.jpg
-
-  - name: Maryam Raiyat Aliabadi
-    info: "CPS Security\nProgram Analysis\nFault Tolerance"
-    link: https://www.ece.ubc.ca/~raiyat/
-    img: Maryam.jpeg
 
   - name: Fangyu "Gary" Gai
     info: "Blockchain"
