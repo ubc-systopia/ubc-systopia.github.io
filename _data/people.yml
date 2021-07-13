@@ -151,6 +151,11 @@ phds:
     link: #
     img: jerry.jpg
 
+  - name: Joseph Wonsil
+    info: "Provenance"
+    link: #
+    img: joseph.jpg
+
 #MSCS
 mscs:
   - name: Milad Rezaei Hajidehi
@@ -192,11 +197,6 @@ mscs:
     info: "Graph Processing\nGraph Storage"
     link: https://atrostan.github.io/
     img: alext.jpg
-
-  - name: Joseph Wonsil
-    info: "Provenance"
-    link: #
-    img: joseph.jpg
 
   - name: Shayan Hosseini
     info: "Distributed Systems\nSoftware Engineering"
