@@ -5,6 +5,11 @@
 
 - date: 2021
   publications:
+
+    - title: "ARTINALI++: Multi-dimensional Specification Mining for Complex Cyber-Physical System Security"
+      info: Maryam Raiyat Aliabadi, Mojtaba Vahidi Asl, Ramak Ghavamizadeh. Journal of Systems and Software (JSS) 2021.
+      link: https://www.sciencedirect.com/science/article/pii/S0164121221001138
+ 
     - title: "mmapx: Uniform Memory Protection in a Heterogeneous World"
       info: Reto Achermann, David Cock, Roni Haecki, Nora Hossle, Lukas Humbel, Timothy Roscoe and Daniel Schwyn. HotOS 2021.
       link: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s08-achermann.pdf
@@ -14,7 +19,7 @@
       link: https://dl.acm.org/doi/10.1145/3445814.3446709
 
     - title: "ARTINALI#: An Efficient Intrusion Detection Technique for Resource-Constrained Cyber-Physical Systems"
-      info: Maryam Raiyat Aliabadi, Margo Seltzer, Mojtaba Vahidi Asl, Ramak Ghavamizadeh. International Journal of Critical Infrastructure Protection, 2021.
+      info: Maryam Raiyat Aliabadi, Margo Seltzer, Mojtaba Vahidi Asl, Ramak Ghavamizadeh. International Journal of Critical Infrastructure Protection (IJCIP), 2021.
       link: https://www.sciencedirect.com/science/article/abs/pii/S1874548221000226
 
 
