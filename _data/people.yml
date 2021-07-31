@@ -169,11 +169,6 @@ mscs:
     link: #
     img: ali.jpg
 
-  - name: Syed Mubashir Iqbal
-    info: "Optimization\nArchitecture\nNetworking"
-    link: #
-    img: syed.jpg
-
   - name: Robert Reiss
     info: "Cryptography\nNetworks\nSecurity"
     link: #
