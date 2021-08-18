@@ -133,8 +133,8 @@ phds:
     img: mohammad_dashti.jpg
 
   - name: Sid Agrawal
-    info: "Systems"
-    link: https://sid-agrawal.github.io
+    info: "Operating Systems"
+    link: https://sid-agrawal.ca
     img: siagraw.jpeg
   
   - name: Hadi Sinaee
