@@ -73,7 +73,7 @@ postdocs:
     info: "CPS Security\nProgram Analysis\nFault Tolerance"
     link: https://www.aliabadi.ca/
     img: Maryam.jpeg
-    
+
   - name: Mohamad-Jaafar NEHME
     info: "Security\nFault Tolerance\nBlockchains"
     link: https://www.linkedin.com/in/mohamad-jaafar-nehme-9569a6144/
@@ -84,7 +84,7 @@ postdocs:
     link: https://www.linkedin.com/in/adalrsjr/
     img: adalberto.jpg
 
- 
+
 # PHDS
 phds:
   - name: Patrick Colp
@@ -121,7 +121,7 @@ phds:
     info: "Human-computer Interaction\nAffective Computing\nDesign"
     link: https://paulbucci.ca/
     img: paul.jpg
-  
+
   - name: A. Finn Hackett
     info: "Programming Language Design\nApplied Declarative Programming"
     link: http://fhackett.github.io/
@@ -136,7 +136,7 @@ phds:
     info: "Operating Systems"
     link: https://sid-agrawal.ca
     img: siagraw.jpeg
-  
+
   - name: Hadi Sinaee
     info: "Distributed Systems\nDatabases"
     link: https://www.linkedin.com/in/hadisinaee/
@@ -156,6 +156,11 @@ phds:
     info: "Provenance"
     link: #
     img: joseph.jpg
+
+  - name: Soo Yee Lim
+    info: "Systems\nSecurity"
+    link: #
+    img: sooyee.jpg
 
 #MSCS
 mscs:
@@ -198,7 +203,7 @@ mscs:
     info: "Distributed Systems\nSoftware Engineering"
     link: http://shayanh.ir/
     img: shayanh.jpg
-  
+
   - name: Faqia Iqbal
     info: "Usable Security and Privacy"
     link: #
@@ -223,15 +228,15 @@ mscs:
     info: "Systems\nSecurity"
     link: https://www.linkedin.com/in/zainab-saeed-wattoo/
     img: Zainab.jpeg
-    
+
   - name: Jinyuan Liang
     info: "Security\nProvenance"
     link: #
     img: Jinyuan.jpg
-    
+
 #VISITING STUDENTS
 visitors:
-  
+
   - name: Akshitha Sriraman
     info: "Computer architecture\nSoftware systems\nHyperscale compute"
     link: https://akshithasriraman.eecs.umich.edu/
@@ -248,4 +253,3 @@ researchers:
     info: "Fine-grain file system design\nSystem synthesis"
     link: #
     img: phoenix.jpg
-
