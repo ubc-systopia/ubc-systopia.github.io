@@ -133,8 +133,8 @@ phds:
     img: mohammad_dashti.jpg
 
   - name: Sid Agrawal
-    info: "Systems"
-    link: https://sid-agrawal.github.io
+    info: "Operating Systems"
+    link: https://sid-agrawal.ca
     img: siagraw.jpeg
   
   - name: Hadi Sinaee
@@ -168,11 +168,6 @@ mscs:
     info: "Machine Learning\nOptimization"
     link: #
     img: ali.jpg
-
-  - name: Syed Mubashir Iqbal
-    info: "Optimization\nArchitecture\nNetworking"
-    link: #
-    img: syed.jpg
 
   - name: Robert Reiss
     info: "Cryptography\nNetworks\nSecurity"
@@ -228,6 +223,11 @@ mscs:
     info: "Systems\nSecurity"
     link: https://www.linkedin.com/in/zainab-saeed-wattoo/
     img: Zainab.jpeg
+    
+  - name: Jinyuan Liang
+    info: "Security\nProvenance"
+    link: #
+    img: Jinyuan.jpg
     
 #VISITING STUDENTS
 visitors:
