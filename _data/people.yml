@@ -234,6 +234,11 @@ mscs:
     link: #
     img: Jinyuan.jpg
 
+  - name: Sadaf Sadeghian
+    info: "Distributed Systems\nMachine Learning"
+    link: https://www.linkedin.com/in/sadaf-sadeghian-53b8b4174/
+    img: sadaf.jpg
+
 #VISITING STUDENTS
 visitors:
 
