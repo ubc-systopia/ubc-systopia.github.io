@@ -68,7 +68,7 @@ layout: default
 </section>
 
 <section class="pb-5"><div class="container text-center">
-    <p class="small">Systopia lab is supported by a number of government and industrial sources, including Cisco Systems, the Communications Security Establishment Canada, Intel Research, the National Sciences and Engineering Research Council of Canada (NSERC), Network Appliance, Office of the Privacy Commissioner of Canada, and the National Science Foundation (NSF).</p>
+    <p class="small">Systopia lab is supported by a number of government and industrial sources, including Oracle, Cisco Systems, Huawei, the Communications Security Establishment Canada, Intel Research, the National Sciences and Engineering Research Council of Canada (NSERC), Network Appliance, Office of the Privacy Commissioner of Canada, and the National Science Foundation (NSF).</p>
   </div>
 </section>
 <!-- /.footer -->
