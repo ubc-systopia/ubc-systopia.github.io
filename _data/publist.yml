@@ -6,6 +6,10 @@
 - date: 2021
   publications:
 
+    - title: "Secure Namespaced Kernel Audit for Containers"
+      info: Soo Yee Lim, Bogdan Stelea, Xueyuan Han, Thomas Pasquier. SoCC 2021.
+      link: https://tfjmp.org/publications/2021-socc.pdf
+
     - title: "ARTINALI++: Multi-dimensional Specification Mining for Complex Cyber-Physical System Security"
       info: Maryam Raiyat Aliabadi, Mojtaba Vahidi Asl, Ramak Ghavamizadeh. Journal of Systems and Software (JSS) 2021.
       link: https://www.sciencedirect.com/science/article/pii/S0164121221001138
