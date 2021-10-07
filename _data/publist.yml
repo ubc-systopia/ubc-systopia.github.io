@@ -10,6 +10,10 @@
       info: Soo Yee Lim, Bogdan Stelea, Xueyuan Han, Thomas Pasquier. SoCC 2021.
       link: https://tfjmp.org/publications/2021-socc.pdf
 
+    - title: "Sayer: Using Implicit Feedback to Optimize System Policies."
+      info: Mathias Lécuyer, Sang Hoon Kim, Mihir Nanavati, Junchen Jiang, Siddhartha Sen, Amit Sharma, Aleksandrs Slivkins. SoCC 2021.
+      link: http://mathias.lecuyer.me/assets/assets/socc2021sayer.pdf
+
     - title: "ARTINALI++: Multi-dimensional Specification Mining for Complex Cyber-Physical System Security"
       info: Maryam Raiyat Aliabadi, Mojtaba Vahidi Asl, Ramak Ghavamizadeh. Journal of Systems and Software (JSS) 2021.
       link: https://www.sciencedirect.com/science/article/pii/S0164121221001138
@@ -26,10 +30,13 @@
       info: Maryam Raiyat Aliabadi, Margo Seltzer, Mojtaba Vahidi Asl, Ramak Ghavamizadeh. International Journal of Critical Infrastructure Protection (IJCIP), 2021.
       link: https://www.sciencedirect.com/science/article/abs/pii/S1874548221000226
 
-
     - title: "SIGL: Securing Software Installations Through Deep Graph Learning"
       info: X Han, X Yu, T Pasquier, D Li, J Rhee, J Mickens, M Seltzer, C Haifeng. USENIX Security 2021.
       link: https://tfjmp.org/publications/2021-usenixsec.pdf
+
+    - title: "Privacy Budget Scheduling."
+      info: Tao Luo, Mingen Pan, Pierre Tholoniat, Asaf Cidon, Roxana Geambasu, Mathias Lécuyer. OSDI 2021.
+      link: http://mathias.lecuyer.me/assets/assets/osdi21privatekube.pdf
 
 - date: 2020
   publications:
@@ -146,6 +153,14 @@
     - title: "Personal Data and the Internet of Things: It is time to care about digital provenance"
       info: Thomas Pasquier, David Eyers, Jean Bacon. Communications of the ACM 2019.
       link: https://tfjmp.org/publications/2019-acm-com.pdf
+
+    - title: Certified Robustness to Adversarial Examples with Differential Privacy.
+      info: Mathias Lécuyer, Vaggelis Atlidakis, Roxana Geambasu, Daniel Hsu, Suman Jana. S&P 2019.
+      link: https://arxiv.org/abs/1802.03471
+
+    - title: Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform.
+      info: Mathias Lécuyer, Riley Spahn, Kiran Vodrahalli, Roxana Geambasu, Daniel Hsu. SOSP 2019.
+      link: https://arxiv.org/abs/1909.01502
 
 - date: 2018
   publications:
