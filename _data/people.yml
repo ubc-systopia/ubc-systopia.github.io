@@ -87,11 +87,6 @@ postdocs:
 
 # PHDS
 phds:
-  - name: Patrick Colp
-    info: "Computer security\nVirtualisation\nOperating systems"
-    link: http://people.cs.ubc.ca/~pjcolp/
-    img: newdefault.jpg
-
   - name: Swati Goswami
     info: "Systems"
     link: https://www.linkedin.com/in/swatigirigoswami/
