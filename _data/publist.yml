@@ -14,6 +14,10 @@
       info: Mathias Lécuyer, Sang Hoon Kim, Mihir Nanavati, Junchen Jiang, Siddhartha Sen, Amit Sharma, Aleksandrs Slivkins. SoCC 2021.
       link: http://mathias.lecuyer.me/assets/assets/socc2021sayer.pdf
 
+    - title: "Assuage: Assembly Synthesis Using A Guided Exploration"
+      info: Jingmei Hu, Priyan Vaithilingam, Stephen Chong, Margo Seltzer, Elena Glassman. UIST 2021.
+      link: https://www.seltzer.com/assets/publications/assuage_uist_2021.pdf
+
     - title: "ARTINALI++: Multi-dimensional Specification Mining for Complex Cyber-Physical System Security"
       info: Maryam Raiyat Aliabadi, Mojtaba Vahidi Asl, Ramak Ghavamizadeh. Journal of Systems and Software (JSS) 2021.
       link: https://www.sciencedirect.com/science/article/pii/S0164121221001138
