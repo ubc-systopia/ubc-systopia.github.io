@@ -184,6 +184,11 @@ mscs:
     info: "Distributed Systems\nPrivacy\nMachine Learning"
     link: https://stolet.github.io/
     img: matheus.jpg
+    
+  - name: Narun Raman
+    info: "Provenance\nMachine Learning"
+    link: narunraman.com
+    img: narun.jpg
 
   - name: Seyed Ali Tabatabaee
     info: "Algorithms\nBlockchains"
