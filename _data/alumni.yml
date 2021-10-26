@@ -23,6 +23,12 @@ mscs:
   - name: Syed Mubashir Iqbal
     info: 2021
 
+  - name: Joseph Wonsil
+    info: 2021, PhD @ UBC
+
+  - name: Bingyao (Jerry) Wang
+    info: 2021, PhD @ UBC
+
   - name: Adam Geller
     info: 2020, PhD @ UBC
 
@@ -184,6 +190,12 @@ mscs:
 
 # PHD ALUMNI
 phds:
+  - name: Nodir Kodirov
+    info: 2021, Huawei
+
+  - name: Patrick Colp
+    info: 2021, Oracle
+
   - name: Craig Mustard
     info: 2020, Oracle Labs
 

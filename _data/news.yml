@@ -89,18 +89,15 @@ papers-posters:
 # If applicable, add a link to the internship organization under "org-link"
 
 internships:
-  - date: Summer 2019
+  - date: Summer 2021
     internship:
-      - intern: Vaastav Anand
-        organization: Max Planck Institute for Software Systems
-        org-link: https://www.mpi-sws.org/
+      - intern: Swati Goswami
+        organization: Microsoft Research, Systems Research Group
+        org-link: https://www.microsoft.com/en-us/research/group/systems-research-group-redmond/
 
-  - date: Summer 2018
+  - date: Summer 2021
     internship:
-      - intern: Fabian Ruffy
-        organization: VMware Research
-        org-link: https://research.vmware.com/
+      - intern: Joseph Wonsil
+        organization: Oracle Labs
+        org-link: https://labs.oracle.com/pls/apex/labs/r/labs/intro?session=2206028989300
 
-      - intern: Gleb Naumenko
-        organization: Blockstream
-        org-link: https://blockstream.com/

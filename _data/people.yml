@@ -33,7 +33,7 @@ faculty:
     img: aastha.jpg
 
   - name: Mathias Lécuyer
-    info: "Joining 2021"
+    info: "Security & Privacy\nSystems\nMachine Learning"
     link: http://mathias.lecuyer.me/
     img: mathias.jpg
 
@@ -87,20 +87,10 @@ postdocs:
 
 # PHDS
 phds:
-  - name: Patrick Colp
-    info: "Computer security\nVirtualisation\nOperating systems"
-    link: http://people.cs.ubc.ca/~pjcolp/
-    img: newdefault.jpg
-
   - name: Swati Goswami
     info: "Systems"
     link: https://www.linkedin.com/in/swatigirigoswami/
     img: swati.jpg
-
-  - name: Nodir Kodirov
-    info: "Datacenter networking\nNetwork functions\nDatacenter scheduling"
-    link: https://www.cs.ubc.ca/~knodir/
-    img: nodir.jpg
 
   - name: Tony Mason
     info: "File systems"
@@ -190,6 +180,24 @@ mscs:
     link: #
     img: lana.jpg
 
+<<<<<<< HEAD
+=======
+  - name: Matheus Stolet
+    info: "Distributed Systems\nPrivacy\nMachine Learning"
+    link: https://stolet.github.io/
+    img: matheus.jpg
+    
+  - name: Narun Raman
+    info: "Provenance\nMachine Learning"
+    link: https://www.narunraman.com
+    img: narun.jpg
+
+  - name: Seyed Ali Tabatabaee
+    info: "Algorithms\nBlockchains"
+    link: https://alitabatabaee.net/
+    img: alitaba.jpg
+
+>>>>>>> origin
   - name: Alex Trostanovsky
     info: "Graph Processing\nGraph Storage"
     link: https://atrostan.github.io/
