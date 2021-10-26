@@ -93,7 +93,7 @@ internships:
     internship:
       - intern: Swati Goswami
         organzation: Microsoft Research, Systems Research Group
-	org-link: https://www.microsoft.com/en-us/research/group/systems-research-group-redmond/
+        org-link: https://www.microsoft.com/en-us/research/group/systems-research-group-redmond/
 
   - date: Summer 2021
     internship:
