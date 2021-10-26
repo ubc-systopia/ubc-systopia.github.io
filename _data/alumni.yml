@@ -14,11 +14,11 @@ faculty:
 
 # MSC ALUMNI
 mscs:
-  - name: Matheus Stolet
-    info: 2021, PhD @ MPI-SWS
-    
   - name: Seyed Ali Tabatabaee
     info: 2021, PhD @ UBC
+    
+  - name: Matheus Stolet
+    info: 2021, PhD @ MPI-SWS
 
   - name: Syed Mubashir Iqbal
     info: 2021
