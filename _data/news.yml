@@ -92,27 +92,12 @@ internships:
   - date: Summer 2021
     internship:
       - intern: Swati Goswami
-        organzation: Microsoft Research, Systems Research Group
+        organization: Microsoft Research, Systems Research Group
         org-link: https://www.microsoft.com/en-us/research/group/systems-research-group-redmond/
 
   - date: Summer 2021
     internship:
       - intern: Joseph Wonsil
-        organzation: Oracle Labs
+        organization: Oracle Labs
         org-link: https://labs.oracle.com/pls/apex/labs/r/labs/intro?session=2206028989300
 
-  - date: Summer 2019
-    internship:
-      - intern: Vaastav Anand
-        organization: Max Planck Institute for Software Systems
-        org-link: https://www.mpi-sws.org/
-
-  - date: Summer 2018
-    internship:
-      - intern: Fabian Ruffy
-        organization: VMware Research
-        org-link: https://research.vmware.com/
-
-      - intern: Gleb Naumenko
-        organization: Blockstream
-        org-link: https://blockstream.com/
