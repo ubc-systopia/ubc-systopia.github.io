@@ -185,6 +185,14 @@ mscs:
     link: https://www.narunraman.com
     img: narun.jpg
 
+<<<<<<< HEAD
+=======
+  - name: Seyed Ali Tabatabaee
+    info: "Algorithms\nBlockchains"
+    link: https://alitabatabaee.net/
+    img: alitaba.jpg
+
+>>>>>>> 6eabcf5f1334d0dbcd98c8de58b0cb076b155da6
   - name: Alex Trostanovsky
     info: "Graph Processing\nGraph Storage"
     link: https://atrostan.github.io/
