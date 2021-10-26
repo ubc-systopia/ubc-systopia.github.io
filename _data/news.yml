@@ -99,7 +99,7 @@ internships:
     internship:
       - intern: Joseph Wonsil
         organzation: Oracle Labs
-	org-link: https://labs.oracle.com/pls/apex/labs/r/labs/intro?session=2206028989300
+        org-link: https://labs.oracle.com/pls/apex/labs/r/labs/intro?session=2206028989300
 
   - date: Summer 2019
     internship:
