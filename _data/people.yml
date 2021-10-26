@@ -92,11 +92,6 @@ phds:
     link: https://www.linkedin.com/in/swatigirigoswami/
     img: swati.jpg
 
-  - name: Nodir Kodirov
-    info: "Datacenter networking\nNetwork functions\nDatacenter scheduling"
-    link: https://www.cs.ubc.ca/~knodir/
-    img: nodir.jpg
-
   - name: Tony Mason
     info: "File systems"
     link: https://www.linkedin.com/in/tonymason2/
