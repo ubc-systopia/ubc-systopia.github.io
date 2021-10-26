@@ -180,13 +180,6 @@ mscs:
     link: #
     img: lana.jpg
 
-<<<<<<< HEAD
-=======
-  - name: Matheus Stolet
-    info: "Distributed Systems\nPrivacy\nMachine Learning"
-    link: https://stolet.github.io/
-    img: matheus.jpg
-    
   - name: Narun Raman
     info: "Provenance\nMachine Learning"
     link: https://www.narunraman.com
@@ -197,7 +190,6 @@ mscs:
     link: https://alitabatabaee.net/
     img: alitaba.jpg
 
->>>>>>> origin
   - name: Alex Trostanovsky
     info: "Graph Processing\nGraph Storage"
     link: https://atrostan.github.io/
