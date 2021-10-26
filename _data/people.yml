@@ -190,16 +190,6 @@ mscs:
     link: #
     img: lana.jpg
 
-  - name: Matheus Stolet
-    info: "Distributed Systems\nPrivacy\nMachine Learning"
-    link: https://stolet.github.io/
-    img: matheus.jpg
-
-  - name: Seyed Ali Tabatabaee
-    info: "Blockchains\nAlgorithms"
-    link: https://www.linkedin.com/in/seyed-ali-tabatabaee-2a5abb1a0/
-    img: alitaba.jpg
-
   - name: Alex Trostanovsky
     info: "Graph Processing\nGraph Storage"
     link: https://atrostan.github.io/
@@ -243,7 +233,13 @@ mscs:
   - name: Nichole Boufford
     info: "Systems\nSecurity"
     link: https://www.linkedin.com/in/nichole-boufford/
-    img: nichole.jpg  
+    img: nichole.jpg
+    
+  - name: Mishaal Kazmi
+    info: "Distributed Systems\nMachine Learning\nSecurity and Privacy"
+    link: https://www.linkedin.com/in/mishaalkazmi555/
+    img: Mishaal_Kazmi.jpg
+
 
 #VISITING STUDENTS
 visitors:
