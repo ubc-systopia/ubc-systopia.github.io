@@ -241,6 +241,13 @@ mscs:
     img: Amir.jpg
 
 
+#UNDERGRADUATES
+undergrads:
+  - name: John Doe
+    info: "Systems"
+    link: #
+    img: newdefault.jpg
+
 #VISITING STUDENTS
 visitors:
 
