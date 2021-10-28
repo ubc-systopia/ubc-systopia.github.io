@@ -127,11 +127,6 @@ phds:
     link: https://sid-agrawal.ca
     img: siagraw.jpeg
 
-  - name: Hadi Sinaee
-    info: "Distributed Systems\nDatabases"
-    link: https://www.linkedin.com/in/hadisinaee/
-    img: hadi.jpg
-
   - name: Christopher Chen
     info: "Program synthesis\nFormal verification"
     link: https://github.com/chchen
@@ -240,6 +235,10 @@ mscs:
     link: https://www.linkedin.com/in/amir-sabzi/
     img: Amir.jpg
 
+  - name: Hadi Sinaee
+    info: "Distributed Systems\nDatabases"
+    link: https://hadisinaee.github.io/
+    img: hadi.jpg
 
 #VISITING STUDENTS
 visitors:
