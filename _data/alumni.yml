@@ -258,6 +258,9 @@ phds:
 
 # POSTDOC ALUMNI
 postdocs:
+  - name: Adalberto Sampaio Junior
+    info: 2021, Huawei Research
+
   - name: Jean-Sébastien Légaré
     info: 2020, Amazon
 
@@ -269,6 +272,9 @@ postdocs:
 
 # VISITING ALUMNI
 visitors: 
+  - name: Akshitha Sriraman
+    info: 2021, CMU
+
   - name: Jimmy Lin
     info: 2020, University of Toronto
 

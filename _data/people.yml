@@ -79,12 +79,6 @@ postdocs:
     link: https://www.linkedin.com/in/mohamad-jaafar-nehme-9569a6144/
     img: jaafar.jpg
 
-  - name: Adalberto Sampaio Junior
-    info: "Autonomous Computing\nRuntime Adaptation\nSelf-Tuning servers"
-    link: https://www.linkedin.com/in/adalrsjr/
-    img: adalberto.jpg
-
-
 # PHDS
 phds:
   - name: Swati Goswami
@@ -165,11 +159,6 @@ mscs:
     link: #
     img: ali.jpg
 
-  - name: Robert Reiss
-    info: "Cryptography\nNetworks\nSecurity"
-    link: #
-    img: newdefault.jpg
-
   - name: Lana Sodol
     info: "Parallel, Emergent, and Biologically-inspired computing"
     link: #
@@ -242,12 +231,6 @@ mscs:
 
 #VISITING STUDENTS
 visitors:
-
-  - name: Akshitha Sriraman
-    info: "Computer architecture\nSoftware systems\nHyperscale compute"
-    link: https://akshithasriraman.eecs.umich.edu/
-    img: akshitha.jpg
-
   - name: Fangyu "Gary" Gai
     info: "Blockchain"
     link: #
