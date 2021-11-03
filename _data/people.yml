@@ -234,6 +234,11 @@ mscs:
     link: https://hlyli.github.io
     img: newdefault.jpg
 
+  - name: Shadab Shaikh
+    info: "Security\nMachine Learning\nSystems"
+    link: https://shadabs.com/
+    img: shadabs.jpg
+
 #VISITING STUDENTS
 visitors:
   - name: Fangyu "Gary" Gai
