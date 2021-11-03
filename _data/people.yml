@@ -228,6 +228,11 @@ mscs:
     info: "Distributed Systems\nDatabases"
     link: https://hadisinaee.github.io/
     img: hadi.jpg
+  
+  - name: Haley Li
+    info: "Systems\nMachine Learning\nReinforcement Learning"
+    link: https://hlyli.github.io
+    img: newdefault.jpg
 
 #VISITING STUDENTS
 visitors:
