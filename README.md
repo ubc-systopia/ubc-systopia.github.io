@@ -29,10 +29,10 @@ How embarrassing would it be to have a broken web site?
 # How to ...
 
 ## Add yourself as a new student
-1. Add a picture to `assets/images/profiles` (convention is firstname.jpg, but at some point we'll have a name conflict; do something sensible).
+1. Add a **square sized** picture to `assets/images/profiles` (convention is firstname.jpg, but at some point we'll have a name conflict; do something sensible).
 2. Edit the file `_data/people.yml`. Find the right category and follow the formatting (described below) to add yourself.
 3. Check that everything looks good on your local installation (it should update automatically when you add/edit things; just reload pages).
-4. `git add` your image, `git commit` everything, and `git push`.
+4. `git add` your changes, `git commit` everything, and `git push`.
 
 ## When you graduate
 1. Add yourself to `_data/alumni.yml`

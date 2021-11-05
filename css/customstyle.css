@@ -125,8 +125,10 @@ h1 {
   }
   .profile img {
     height: 9.6rem;
+    width: 9.6rem;
     display: block;
     margin-left: -0.05rem;
+    object-fit: cover;
   }
   .card {
     border: .2rem solid #efefef !important;
