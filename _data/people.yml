@@ -154,6 +154,11 @@ phds:
 
 #MSCS
 mscs:
+  - name: Niloofar Zarif
+    info: "Systems for Machine Learning\nRecommender Systems\nProcessing in Memory"
+    link: #
+    img: nilooz.jpeg
+
   - name: Milad Rezaei Hajidehi
     info: "Data-Intensive Applications \n Graph Processing \n Data Management"
     link: https://www.linkedin.com/in/milad-rezaei-hajidehi-63013773/
