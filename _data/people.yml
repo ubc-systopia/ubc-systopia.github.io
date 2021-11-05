@@ -145,6 +145,11 @@ phds:
     info: "Operating Systems\nStorage Systems\nMemory Systems"
     link: https://www.ece.ubc.ca/~joel
     img: joel_nider.jpg
+    
+  - name: Qiaoyue Tang
+    info: "Privacy\nMachine Learning"
+    link: https://www.linkedin.com/in/qiaoyue-tang-b21740141/
+    img: qiaoyue.jpg
 
 
 #MSCS
