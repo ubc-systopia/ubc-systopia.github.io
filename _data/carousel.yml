@@ -3,16 +3,13 @@
 
 images: 
   
-  - image: /assets/images/slides/RoseGarden.jpeg
+  - image: /assets/images/slides/burnaby.JPG
   - image: /assets/images/slides/Rose0.jpeg
   - image: /assets/images/slides/Rose1.jpeg
-  - image: /assets/images/slides/Rose2.jpeg
   - image: /assets/images/slides/Rose3.jpeg
-  - image: /assets/images/slides/Rose4.jpeg
   - image: /assets/images/slides/Sasha.jpeg
   - image: /assets/images/slides/AX6.png
   - image: /assets/images/slides/AX2.png
-  - image: /assets/images/slides/AX1.png
   - image: /assets/images/slides/AX5.png
   - image: /assets/images/slides/standupMar8.jpeg
   - image: /assets/images/slides/Langley.jpeg
