@@ -249,6 +249,13 @@ mscs:
     link: https://shadabs.com/
     img: shadabs.jpg
 
+#UNDERGRADUATES
+undergrads:
+  - name: Ilias Karimalis
+    info: "System Synthesis\nMachine Learning"
+    link: https://www.linkedin.com/in/ilias-karimalis-b034b3172/
+    img: ilias.jpeg
+
 #VISITING STUDENTS
 visitors:
   - name: Fangyu "Gary" Gai
