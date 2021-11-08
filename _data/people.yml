@@ -151,6 +151,10 @@ phds:
     link: https://www.linkedin.com/in/qiaoyue-tang-b21740141/
     img: qiaoyue.jpg
 
+  - name: Shaurya Patel
+    info: "Operating Systems\nMemory Systems"
+    link: https://shauryapatel1995.github.io/
+    img: shaurya.jpeg
 
 #MSCS
 mscs:
