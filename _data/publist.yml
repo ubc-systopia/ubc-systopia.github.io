@@ -5,6 +5,10 @@
 
 - date: 2021
   publications:
+  
+    - title: "Understanding the Resilience of Neural Network Ensembles against Faulty Training Data"
+      info: Abraham Chan, Niranjhana Narayanan, Arpan Gujarati, Karthik Pattabiraman, Sathish Gopalakrishnan. QRS 2021.
+      link: https://arpangujarati.github.io/pdfs/qrs2021_paper.pdf
 
     - title: "Secure Namespaced Kernel Audit for Containers"
       info: Soo Yee Lim, Bogdan Stelea, Xueyuan Han, Thomas Pasquier. SoCC 2021.
