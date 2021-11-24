@@ -1,6 +1,8 @@
 # Setup with Docker 
 Needed: Docker
 
+Tested on: Ubuntu 20.04, Windows 10 w/ Docker Desktop 4.2.0 using WSL 2
+
 Use these instruction if you can install Docker and don't want to both trying to setup Ruby/RubyGems and other dependencies. 
 Otherwise, check out the next section.
 
@@ -15,6 +17,8 @@ All necessary dependencies to build and serve the site locally are in this conta
 See page at http://localhost:4000
 There is no need to re-build the container once it is running.
 Changes are dynamically reflected as you write files; just reload pages. 
+
+When you're done, you can close the container by pressing ctrl + c or if you're on Windows removing it in Docker Desktop. You can also delete the image to save space on your device. 
 
 # Setup
 
