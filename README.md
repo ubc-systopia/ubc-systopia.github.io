@@ -1,3 +1,19 @@
+# Setup with Docker 
+Needed: Docker
+Use these instruction if you can install Docker and don't want to both trying to setup Ruby/RubyGems and other dependencies. 
+Otherwise, check out the next section.
+
+```
+cd path/to/ubc-systopia.github.io
+docker build . -t systopia-website
+docker run -p 4000:4000 --mount src="$(pwd)",target=/home/systopia/website,type=bind systopia-website
+```
+
+This command will build and run a new Docker image called `systopia-website`. 
+All necessary dependencies to build and serve the site locally are in this container. 
+See page at http://localhost:4000
+Changes are dynamically reflected as you write files; just reload pages.
+
 # Setup
 
 Needed: relatively recent version of Ruby/RubyGems
