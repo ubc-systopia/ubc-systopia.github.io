@@ -7,7 +7,7 @@
   publications:
   
     - title: "Understanding the Resilience of Neural Network Ensembles against Faulty Training Data"
-      info: Abraham Chan, Niranjhana Narayanan, Arpan Gujarati, Karthik Pattabiraman, Sathish Gopalakrishnan. QRS 2021.
+      info: Abraham Chan, Niranjhana Narayanan, Arpan Gujarati, Karthik Pattabiraman, Sathish Gopalakrishnan. QRS 2021. Best Paper Award.
       link: https://arpangujarati.github.io/pdfs/qrs2021_paper.pdf
 
     - title: "Secure Namespaced Kernel Audit for Containers"
