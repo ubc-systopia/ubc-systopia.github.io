@@ -258,6 +258,11 @@ mscs:
     link: https://shadabs.com/
     img: shadabs.jpg
 
+  - name: Sepehr Jalalian
+    info: "Operating Systems\nDistributed Systems"
+    link: #
+    img: SepehrJ.jpg
+
 #UNDERGRADUATES
 undergrads:
   - name: Ilias Karimalis
