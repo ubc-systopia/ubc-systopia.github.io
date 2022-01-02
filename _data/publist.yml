@@ -3,6 +3,12 @@
 # When entering publication info, please maintain the following format:
 # [Authors, separated by comma]. [Publisher] [Year of publication].
 
+- date: 2022
+  publications:
+    - title: "Fast Sparse Decision Tree Optimization via Reference Ensembles"
+      info: Hayden McTavish, Chudi Zhong, Reto Achermann, Ilias Karimalis, Jacques Chen, Cynthia Rudin, Margo Seltzer. (AAAI-22).
+      link: https://arxiv.org/pdf/2112.00798.pdf
+
 - date: 2021
   publications:
   

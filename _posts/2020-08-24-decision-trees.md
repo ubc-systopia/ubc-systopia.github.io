@@ -24,6 +24,21 @@ description: "We create optimal decision trees for classification tasks. We opti
 	<P>GOSDT builds on OSDT, incorporating two natural extensions: a collection of additional objective functions and a novel dynamic programming with bounds algorithm.</P>
         <P>First, we add support for additional loss functions, such as weighted accuracy and balanced accuracy, as well as more complex objectives that quantify the optimality of decision boundaries, e.g.,  AUC (Area Under the ROC Curve).</P> 
         <P>Second, decision trees, when optimized over additive losses, naturally lend themselves to a dynamic programming approach. Any node in an optimal decision tree is itself the root of a decision tree that is optimal for the data points that pass through that node. Leveraging this fact, we create a dynamic programming approach (with bounds) to enable parallelism and reduce the runtime and memory usage of our decision tree algorithm.</P> 
+    	<h5>GHOUL - Fast Sparse Decision Tree Optimization via Reference
+	Ensembles (Guessing Helps Optimize Upper and Lower Bounds)</h5>
+	<p>
+	While GOSDT makes it possible to find optimal decision trees, its
+	computation time on data sets with many features can be large. GHOUL
+	introduces smart guessing strategies that leverage black box models
+	to reduce the computatoin time by multiple orders of magnitude, while
+	providing bounds on how far the resulting trees can deviate from the
+	black box's accuracy and expressiveness.
+	</p>
+	<p>
+	Our technique enables guesses about how to bin continuous features, the
+	depth of the tree, and lower bounds on the error for the optimal
+	decision tree.
+	</p>
     </div>
 </div>
 <!-- /Project Overview section -->
@@ -31,8 +46,9 @@ description: "We create optimal decision trees for classification tasks. We opti
 <div class="container">
     <h6>Papers</h6>
         <ol>
+	    <li>Generalized Optimal Sparse Decision Trees from the International Conference on Machine Learning (ICML) 2020 [<a href="https://arxiv.org/pdf/2006.08690.pdf">arxiv</a>] </li>
             <li>Optimal Sparse Decision Trees from NeurIPS 2019 [<a href="https://papers.nips.cc/paper/8947-optimal-sparse-decision-trees.pdf">NeurIPS</a>] [<a href="https://arxiv.org/pdf/1904.12847.pdf">arxiv</a>]</li>
-	    <li>Genearlized Optimal Sparse Decision Trees from the International Conference on Machine Learning (ICML) 2020 [<a href="https://arxiv.org/pdf/2006.08690.pdf">arxiv</a>] </li>
+	    <li>Fast Sparse Decision Tree Optimization via Reference Ensembles from AAAI-22 [<a href = "https://arxiv.org/pdf/2112.00798.pdf">arxiv</a>]</li>
         </ol>
     <h6>Code</h6>
         <ol>
@@ -51,6 +67,9 @@ description: "We create optimal decision trees for classification tasks. We opti
 	<li>Alexander Zheng</li>
 	<li>Ali Behrouz</li>
 	<li>Jacques Chen</li>
+	<li>Ilias Karimalis</li>
+	<li>Reto Achermann</li>
+	<li>Margo Seltzer</li>
         </ul>
 </div>
 <!-- /Project Details and Additional Info -->
