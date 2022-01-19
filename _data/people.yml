@@ -74,11 +74,6 @@ postdocs:
     link: https://www.aliabadi.ca/
     img: Maryam.jpeg
 
-  - name: Mohamad-Jaafar NEHME
-    info: "Security\nFault Tolerance\nBlockchains"
-    link: https://www.linkedin.com/in/mohamad-jaafar-nehme-9569a6144/
-    img: jaafar.jpg
-
   - name: Amee Trivedi
     info: "Interpretable ML in Healthcare\nUbiquitous Computing\nData Mining"
     link: https://ameetrivedi.github.io/
