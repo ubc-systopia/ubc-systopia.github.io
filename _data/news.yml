@@ -74,6 +74,10 @@ awards:
 
 papers-posters:
  
+  - title: "Fast Sparse Logistic Regression: New Techniques for Generalized Linear and Additive Models Using Quadratic Cuts and Dynamic Feature Ordering"
+    authors: Jiachang Liu, Chudi Zhong, Cynthia Rudin, Margo Seltzer
+    publisher: AISTATS 2022
+
   - title: "Fast Sparse Decision Tree Optimization via Reference Ensembles"
     authors: Hayden McTavish, Chudi Zhong, Reto Achermann, Ilias Karimalis, Jacques Chen, Cynthia Rudin, Margo Seltzer
     publisher: AAAI 2022
