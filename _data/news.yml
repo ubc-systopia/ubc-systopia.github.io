@@ -85,6 +85,11 @@ papers-posters:
     authors: Hayden McTavish, Chudi Zhong, Reto Achermann, Ilias Karimalis, Jacques Chen, Cynthia Rudin, Margo Seltzer
     publisher: AAAI 2022
     link: https://arxiv.org/pdf/2112.00798.pdf
+
+  - title: "Macchiato: Importing Cache Side Channels to SDNs"
+    authors: Amir Sabzi, Liron Schif, Kashyap Thimmaraju, Andreas Blenk, Stefan Schmid.
+    publisher: ANCS 2021. Best Paper Award
+    link: https://dl.acm.org/doi/pdf/10.1145/3493425.3502758
  
   - title: "Understanding the Resilience of Neural Network Ensembles against Faulty Training Data"
     authors: Abraham Chan, Niranjhana Narayanan, Arpan Gujarati, Karthik Pattabiraman, Sathish Gopalakrishnan
