@@ -48,7 +48,8 @@ description: "We create optimal decision trees for classification tasks. We opti
         <ol>
 	    <li>Generalized Optimal Sparse Decision Trees from the International Conference on Machine Learning (ICML) 2020 [<a href="https://arxiv.org/pdf/2006.08690.pdf">arxiv</a>] </li>
             <li>Optimal Sparse Decision Trees from NeurIPS 2019 [<a href="https://papers.nips.cc/paper/8947-optimal-sparse-decision-trees.pdf">NeurIPS</a>] [<a href="https://arxiv.org/pdf/1904.12847.pdf">arxiv</a>]</li>
-	    <li>Fast Sparse Decision Tree Optimization via Reference Ensembles from AAAI-22 [<a href = "https://arxiv.org/pdf/2112.00798.pdf">arxiv</a>]</li>
+	    <li>Fast Sparse Decision Tree Optimization via Reference Ensembles from AAAI-22 [<a href = "https://arxiv.org/pdf/2112.00798.pdf">arxiv</a>]
+	    [<a href = "https://www.youtube.com/watch?v=kz-N9zPs9vU">video</a>]</li>
         </ol>
     <h6>Code</h6>
         <ol>
