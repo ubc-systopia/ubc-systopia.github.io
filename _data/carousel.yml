@@ -2,7 +2,7 @@
 # To add a new image to the carousel, upload the image to the "slides" folder and add the path below.
 
 images: 
-  
+  - image: /assets/images/slides/orientation-w22.jpeg 
   - image: /assets/images/slides/burnaby.JPG
   - image: /assets/images/slides/Rose0.jpeg
   - image: /assets/images/slides/Rose1.jpeg
@@ -13,8 +13,4 @@ images:
   - image: /assets/images/slides/AX5.png
   - image: /assets/images/slides/standupMar8.jpeg
   - image: /assets/images/slides/Langley.jpeg
-  - image: /assets/images/slides/CSNight1.jpeg
-
- 
-  
- 
+  # - image: /assets/images/slides/CSNight1.jpeg
