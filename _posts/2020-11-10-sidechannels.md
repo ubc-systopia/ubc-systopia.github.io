@@ -55,11 +55,11 @@ description: "This research looks at data disclosures due to side channels in cl
         <p>People: Aastha Mehta</p>
         <p>
           <a href="https://arxiv.org/pdf/1908.11568.pdf">
-          Pacer: Network Side-Channel Mitigation in the Cloud</a> (Under submission)
+          Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud</a> (USENIX Security '22)
         </p>
       	<p>
           <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_ohrimenko.pdf">
-          Oblivious Multi-Party Machine Learning on Trusted Processors</a> (USENIX Security'17)
+          Oblivious Multi-Party Machine Learning on Trusted Processors</a> (USENIX Security '17)
         </p>
 </div>
 <!-- /Project Details and Additional Info -->
