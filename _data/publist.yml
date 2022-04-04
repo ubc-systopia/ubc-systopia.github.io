@@ -5,6 +5,14 @@
 
 - date: 2022
   publications:
+    - title: "Listening to bluetooth beacons for epidemic risk mitgation"
+      info: Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo, Heiner Kremer, Matthew Lentz, Lars Lorch, Aastha Mehta, Bernhard Schölkopf. (Nature Scientific Reports 2022).
+      link: https://www.nature.com/articles/s41598-022-09440-1
+
+    - title: "Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud"
+      info: Aastha Mehta, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg. (USENIX Security 2022)
+      link: https://arxiv.org/pdf/1908.11568.pdf
+
     - title: "Fast Sparse Decision Tree Optimization via Reference Ensembles"
       info: Hayden McTavish, Chudi Zhong, Reto Achermann, Ilias Karimalis, Jacques Chen, Cynthia Rudin, Margo Seltzer. (AAAI-22).
       link: https://arxiv.org/pdf/2112.00798.pdf
