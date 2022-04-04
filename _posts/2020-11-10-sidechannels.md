@@ -34,8 +34,8 @@ description: "This research looks at data disclosures due to side channels in cl
       </p>
       <p>
         Our prior work has investigated fundamental principles in building
-        secure mitigations for memory (USENIX Security'17) and network
-        side-channel attacks in cloud (under submission).
+        secure mitigations for memory (USENIX Security '17) and network
+        side-channel attacks in cloud (USENIX Security '22).
         The key principle is to <it>shape</it> an application's resource usage
         pattern to make it independent of the application's secrets. Using this
         principle we developed mitigations for applications ranging from
@@ -52,7 +52,7 @@ description: "This research looks at data disclosures due to side channels in cl
 <!-- Project Details and Additional Info -->
 <div class="container">
     <h6>Additional Information</h6>
-        <p>People: Aastha Mehta</p>
+        <p>People: Aastha Mehta, Amir Sabzi</p>
         <p>
           <a href="https://arxiv.org/pdf/1908.11568.pdf">
           Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud</a> (USENIX Security '22)
