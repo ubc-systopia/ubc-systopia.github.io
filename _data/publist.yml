@@ -6,23 +6,23 @@
 - date: 2022
   publications:
     - title: "Arming IDS Researchers with a Robotic Arm Dataset"
-      info: Arpan Gujarati, Zainab Saeed Wattoo, Maryam Aliabadi, Sean Clark, Xiaoman Liu, Parisa Shiri, Amee Trivedi, Ruizhe Zhu, Jason Hein, and Margo Seltzer. (DSN 2022).
+      info: Arpan Gujarati, Zainab Saeed Wattoo, Maryam Aliabadi, Sean Clark, Xiaoman Liu, Parisa Shiri, Amee Trivedi, Ruizhe Zhu, Jason Hein, and Margo Seltzer. DSN 2022.
       link: https://arpangujarati.github.io/pdfs/dsn2022_paper_a.pdf
 
     - title: "Listening to bluetooth beacons for epidemic risk mitgation"
-      info: Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo, Heiner Kremer, Matthew Lentz, Lars Lorch, Aastha Mehta, Bernhard Schölkopf. (Nature Scientific Reports 2022).
+      info: Gilles Barthe, Roberta De Viti, Peter Druschel, Deepak Garg, Manuel Gomez-Rodriguez, Pierfrancesco Ingo, Heiner Kremer, Matthew Lentz, Lars Lorch, Aastha Mehta, Bernhard Schölkopf. Nature Scientific Reports 2022.
       link: https://www.nature.com/articles/s41598-022-09440-1
 
     - title: "Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud"
-      info: Aastha Mehta, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg. (USENIX Security 2022)
+      info: Aastha Mehta, Mohamed Alzayat, Roberta De Viti, Björn B. Brandenburg, Peter Druschel, Deepak Garg. USENIX Security 2022.
       link: https://arxiv.org/pdf/1908.11568.pdf
 
     - title: "Fast Sparse Decision Tree Optimization via Reference Ensembles"
-      info: Hayden McTavish, Chudi Zhong, Reto Achermann, Ilias Karimalis, Jacques Chen, Cynthia Rudin, Margo Seltzer. (AAAI-22).
+      info: Hayden McTavish, Chudi Zhong, Reto Achermann, Ilias Karimalis, Jacques Chen, Cynthia Rudin, Margo Seltzer. AAAI-22.
       link: https://arxiv.org/pdf/2112.00798.pdf
 
     - title: "A large-scale study on research code quality and execution"
-      info: Ana Trisovic, Matthew K Lau, Thomas Pasquier, Merce Crosas. (Nature Scientific Data).
+      info: Ana Trisovic, Matthew K Lau, Thomas Pasquier, Merce Crosas. Nature Scientific Data 2022.
       link: https://tfjmp.org/publications/2022-scidata.pdf
 
 - date: 2021
