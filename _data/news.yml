@@ -73,6 +73,10 @@ awards:
     link: https://sigmod.org/sigmod-awards/sigmod-systems-award/
 
 papers-posters:
+  - title: "Arming IDS Researchers with a Robotic Arm Dataset"
+    authors: Arpan Gujarati, Zainab Saeed Wattoo, Maryam Aliabadi, Sean Clark, Xiaoman Liu, Parisa Shiri, Amee Trivedi, Ruizhe Zhu, Jason Hein, Margo Seltzer
+    publisher: DSN 2022
+    
   - title: "FirmCore Decomposition of Multilayer Networks"
     authors: Farnoosh Hashemi, Ali Behrouz, Laks V.S. Lakshmanan
     publisher: WWW 2022
@@ -88,7 +92,7 @@ papers-posters:
     link: https://www.youtube.com/watch?v=x8ljsnJGNoM&list=PLUK-zopeIqLrW_e3SJ37vcCbS4FohDd8Z&index=2
 
   - title: "Macchiato: Importing Cache Side Channels to SDNs"
-    authors: Amir Sabzi, Liron Schif, Kashyap Thimmaraju, Andreas Blenk, Stefan Schmid.
+    authors: Amir Sabzi, Liron Schif, Kashyap Thimmaraju, Andreas Blenk, Stefan Schmid
     publisher: ANCS 2021. Best Paper Award
     link: https://dl.acm.org/doi/pdf/10.1145/3493425.3502758
 
