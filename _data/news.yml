@@ -73,6 +73,11 @@ awards:
     link: https://sigmod.org/sigmod-awards/sigmod-systems-award/
 
 papers-posters:
+  - title: "The Fault in Our Data Stars: Studying Mitigation Techniques against Faulty Training Data in Machine Learning Applications"
+    authors: Abraham Chan, Arpan Gujarati, Karthik Pattabiraman, Sathish Gopalakrishnan
+    publisher: DSN 2022
+    link: https://arpangujarati.github.io/pdfs/dsn2022_paper_b.pdf
+    
   - title: "Arming IDS Researchers with a Robotic Arm Dataset"
     authors: Arpan Gujarati, Zainab Saeed Wattoo, Maryam Aliabadi, Sean Clark, Xiaoman Liu, Parisa Shiri, Amee Trivedi, Ruizhe Zhu, Jason Hein, Margo Seltzer
     publisher: DSN 2022
