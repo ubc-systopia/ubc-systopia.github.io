@@ -5,6 +5,10 @@
 
 - date: 2022
   publications:
+    - title: "The Fault in Our Data Stars: Studying Mitigation Techniques against Faulty Training Data in Machine Learning Applications"
+      info: Abraham Chan, Arpan Gujarati, Karthik Pattabiraman, Sathish Gopalakrishnan. DSN 2022.
+      link: https://arpangujarati.github.io/pdfs/dsn2022_paper_b.pdf
+      
     - title: "Arming IDS Researchers with a Robotic Arm Dataset"
       info: Arpan Gujarati, Zainab Saeed Wattoo, Maryam Aliabadi, Sean Clark, Xiaoman Liu, Parisa Shiri, Amee Trivedi, Ruizhe Zhu, Jason Hein, Margo Seltzer. DSN 2022.
       link: https://arpangujarati.github.io/pdfs/dsn2022_paper_a.pdf
