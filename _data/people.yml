@@ -173,16 +173,6 @@ mscs:
     link: #
     img: ali.jpg
 
-  - name: Lana Sodol
-    info: "Parallel, Emergent, and Biologically-inspired computing"
-    link: #
-    img: lana.jpg
-
-  - name: Narun Raman
-    info: "Provenance\nMachine Learning"
-    link: https://www.narunraman.com
-    img: narun.jpg
-
   - name: Alex Trostanovsky
     info: "Graph Processing\nGraph Storage"
     link: https://atrostan.github.io/
