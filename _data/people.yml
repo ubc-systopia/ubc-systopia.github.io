@@ -262,6 +262,11 @@ visitors:
     link: #
     img: gary.jpg
 
+  - name: Konstantin Pandl
+    info: "Machine Learning\nBlockchain"
+    link: https://konstantinpandl.com/
+    img: konstantin.jpg
+
 #RESEARCH STAFF
 researchers:
   - name: Phoenix Synkova
