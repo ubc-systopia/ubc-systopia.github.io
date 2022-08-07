@@ -10,6 +10,11 @@
 # If there is a separate link for the video, put it in "video-link"
 
 talks:
+  - title: "Imposter Syndrome, Stupid Questions, and Eight (+/-2) Problems I Need your Help With"
+    speaker: Margo Seltzer
+    event: PLDI 2022
+    link: https://pldi22.sigplan.org/
+    video-link: https://www.youtube.com/watch?v=I5pzeABShv4
   - title: "When Databases met UNIX: A Love Affair"
     speaker: Margo Seltzer
     event: John Lions Distinguished Lectures
