@@ -185,6 +185,7 @@ description: We are a diverse group and are always looking to recruit strong stu
 <!-- /.undergrads -->
 
 <!-- .visiting students -->
+{% if site.data.people.visitors %}
 <div class="container mt-4">
     <h4>Visiting Students</h4>
 </div>
@@ -217,6 +218,7 @@ description: We are a diverse group and are always looking to recruit strong stu
         {% endfor %}
     </div>
 </div>
+{% endif %}
 <!-- /.visiting students -->
 
 <!-- .research staff -->

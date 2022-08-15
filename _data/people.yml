@@ -255,18 +255,6 @@ undergrads:
     link: https://www.linkedin.com/in/ilias-karimalis-b034b3172/
     img: ilias.jpeg
 
-#VISITING STUDENTS
-visitors:
-  - name: Fangyu "Gary" Gai
-    info: "Blockchain"
-    link: #
-    img: gary.jpg
-
-  - name: Konstantin Pandl
-    info: "Machine Learning\nBlockchain"
-    link: https://konstantinpandl.com/
-    img: konstantin.jpg
-
 #RESEARCH STAFF
 researchers:
   - name: Phoenix Synkova
