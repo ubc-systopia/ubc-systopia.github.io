@@ -252,6 +252,11 @@ mscs:
     info: "Systems Security\nNetworks Security"
     link: https://rutvora.com/
     img: rut.jpg
+    
+  - name: Xuechun Cao
+    info: "Systems"
+    link: https://www.linkedin.com/in/xuechun-joyce-cao-886958186/
+    img: joyce.JPG
 
 #UNDERGRADUATES
 undergrads:
