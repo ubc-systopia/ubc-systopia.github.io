@@ -155,6 +155,11 @@ phds:
     info: "Operating Systems\nMemory Systems"
     link: https://shauryapatel1995.github.io/
     img: shaurya.jpeg
+    
+  - name: Monowar Anjum
+    info: "Data Provenance\nIntrusion Detection"
+    link: #
+    img: monowar.jpg
 
 #MSCS
 mscs:
