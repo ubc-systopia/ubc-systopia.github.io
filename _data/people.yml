@@ -145,7 +145,7 @@ phds:
     info: "Operating Systems\nStorage Systems\nMemory Systems"
     link: https://www.ece.ubc.ca/~joel
     img: joel_nider.jpg
-    
+
   - name: Qiaoyue Tang
     info: "Privacy\nMachine Learning"
     link: https://www.linkedin.com/in/qiaoyue-tang-b21740141/
@@ -155,7 +155,7 @@ phds:
     info: "Operating Systems\nMemory Systems"
     link: https://shauryapatel1995.github.io/
     img: shaurya.jpeg
-    
+
   - name: Monowar Anjum
     info: "Data Provenance\nIntrusion Detection"
     link: #
@@ -222,12 +222,12 @@ mscs:
     info: "Systems\nSecurity"
     link: https://www.linkedin.com/in/nichole-boufford/
     img: nichole.jpg
-    
+
   - name: Mishaal Kazmi
     info: "Distributed Systems\nMachine Learning\nSecurity and Privacy"
     link: https://www.linkedin.com/in/mishaalkazmi555/
     img: Mishaal_Kazmi.jpg
-    
+
   - name: Amir Sabzi
     info: "Systems\nSecurity and Privacy"
     link: https://www.linkedin.com/in/amir-sabzi/
@@ -237,7 +237,7 @@ mscs:
     info: "Distributed Systems\nDatabases"
     link: https://hadisinaee.github.io/
     img: hadi.jpg
-  
+
   - name: Haley Li
     info: "Systems\nMachine Learning\nReinforcement Learning"
     link: https://hlyli.github.io
@@ -257,7 +257,7 @@ mscs:
     info: "Systems Security\nNetworks Security"
     link: https://rutvora.com/
     img: rut.jpg
-    
+
   - name: Xuechun Cao
     info: "Systems"
     link: https://www.linkedin.com/in/xuechun-joyce-cao-886958186/
@@ -267,6 +267,11 @@ mscs:
     info: "Systems\nSecurity"
     link: https://st-saint.github.io/
     img: yayu.jpg
+
+  - name: Praveen Gupta
+    info: "Cloud Systems\nData Management\nUbiquitous Computing"
+    link: https://pvgupta24.github.io/about/
+    img: praveen.jpg
 
 #UNDERGRADUATES
 undergrads:
