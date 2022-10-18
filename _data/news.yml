@@ -78,6 +78,25 @@ awards:
     link: https://sigmod.org/sigmod-awards/sigmod-systems-award/
 
 papers-posters:
+  - title: "Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction"
+    authors: Ali Behrouz, Margo Seltzer
+    publisher: NeurIPS 2022 TGL Workshop  
+    
+  - title: "Fast Optimization of Weighted Sparse Decision Trees for use in Optimal Treatment Regimes and Optimal Policy Design"
+    authors: Ali Behrouz, Mathias Lécuyer, Cynthia Rudin, Margo Seltzer
+    publisher: AIMLAI 2022  
+    link: https://arxiv.org/pdf/2210.06825.pdf
+  
+  - title: "CS-MLGCN: Multiplex Graph Convolutional Networks for Community Search in Multiplex Networks"
+    authors: Ali Behrouz, Farnoosh Hashemi
+    publisher: CIKM 2022  
+    link: https://dl.acm.org/doi/10.1145/3511808.3557572
+  
+  - title: "FirmTruss Community Search in Multilayer Networks"
+    authors: Ali Behrouz, Farnoosh Hashemi, Laks V.S. Lakshmanan
+    publisher: VLDB 2023
+    link: https://arxiv.org/pdf/2205.00742.pdf
+
   - title: "In-ConcReTeS: Interactive Consistency meets Distributed Real-Time Systems, Again!"
     authors: Arpan Gujarati, Ningfeng Yang, Björn B. Brandenburg
     publisher: RTSS 2022
