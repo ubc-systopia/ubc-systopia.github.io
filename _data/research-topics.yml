@@ -29,3 +29,6 @@
 - topic: "Synthesizing System Software"
   description: We investigate novel techniques for specifying systems components and tractably synthesizing provably correct implementations.
   tag: velosity
+- topic: "Graph-structured Data"
+    description: We develop systems, machine learning models, and algorithms for different tasks on large scale graphs and explore novel applications for graph-structured data.
+    tag: graph
