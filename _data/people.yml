@@ -272,6 +272,11 @@ mscs:
     info: "Cloud Systems\nData Management\nUbiquitous Computing"
     link: https://pvgupta24.github.io/about.html
     img: praveen.jpg
+  
+  - name: Niloofar Gharavi
+    info: "Distributed Systems\nMemory Systems\nProcessing in Memory"
+    link: https://niloo9876.github.io/
+    img: niloog.jpeg
 
 #UNDERGRADUATES
 undergrads:
