@@ -171,6 +171,12 @@ papers-posters:
 # If applicable, add a link to the internship organization under "org-link"
 
 internships:
+  - date: Summer 2022
+    internship:
+      - intern: Shayan Hosseini
+        organization: Microsoft Research, Networking Research Group
+        org-link: https://www.microsoft.com/en-us/research/group/networking-research/
+
   - date: Summer 2021
     internship:
       - intern: Swati Goswami
