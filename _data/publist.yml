@@ -5,6 +5,10 @@
 
 - date: 2022
   publications:
+    - title: "CoSpot: A Cooperative VM Allocation Framework for Increased Revenue from Spot Instances"
+      info: Syed M. Iqbal, Haley Li, Shane Bergsma, Ivan Beschastnikh, and Alan J. Hu. Symposium on Cloud Computing (SoCC '22).
+      link: https://dl.acm.org/doi/10.1145/3542929.3563499
+      
     - title: "In-ConcReTeS: Interactive Consistency meets Distributed Real-Time Systems, Again!"
       info: Arpan Gujarati, Ningfeng Yang, Björn B. Brandenburg. RTSS 2022.
       link: https://arpangujarati.github.io/pdfs/rtss2022_paper.pdf
