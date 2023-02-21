@@ -291,3 +291,8 @@ researchers:
     info: "Fine-grain file system design\nSystem synthesis"
     link: #
     img: phoenix.jpg
+
+  - name: Petal Vitis
+    info: "Cyber-Physical Systems\nRobot Operating System"
+    link: https://www.linkedin.com/in/petalv/
+    img: petalv.jpg
