@@ -9,7 +9,7 @@ layout: post
 date: 2020-06-23 12:02:24 -0700
 tags: security
 headerimg:
-permalink: post_template
+permalink: cps_security
 topic: Cyber-Physical System, Security, Machine Learning
 heading: "CPS Security"
 description: "We offer intelligent techniques for building scalable intrusion detection system for recourse-constrained Cyber-Physical Systems (CPSes)."
