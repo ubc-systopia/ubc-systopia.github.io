@@ -78,6 +78,10 @@ awards:
     link: https://sigmod.org/sigmod-awards/sigmod-systems-award/
 
 papers-posters:
+  - title: "Compiling Distributed System Models with PGo"
+    authors: Finn Hackett, Shayan Hosseini, Renato Costa, Matthew Do, Ivan Beschastnikh
+    publisher: ASPLOS 2023
+    
   - title: "Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction"
     authors: Ali Behrouz, Margo Seltzer
     publisher: NeurIPS 2022 TGL Workshop  
