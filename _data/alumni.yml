@@ -14,6 +14,12 @@ faculty:
 
 # MSC ALUMNI
 mscs:
+  - name: Shiqi He
+    info: 2022
+   
+  - name: Faqia Iqbal
+    info: 2022
+    
   - name: Lana Sodol
     info: 2022
 
@@ -24,7 +30,7 @@ mscs:
     info: 2021, PhD @ MPI-SWS
 
   - name: Syed Mubashir Iqbal
-    info: 2021
+    info: 2021, Amazon Automated Reasoning Group
 
   - name: Joseph Wonsil
     info: 2021, PhD @ UBC
@@ -36,7 +42,7 @@ mscs:
     info: 2020, PhD @ UBC
 
   - name: Muhammad Shayan
-    info: 2020
+    info: 2020, Korbit AI
 
   - name: Jose Pazos
     info: 2020, Wolfram
@@ -51,7 +57,7 @@ mscs:
     info: 2019
 
   - name: Matthew Do
-    info: 2019
+    info: 2019, Hopper
 
   - name: Jodi Spacek
     info: 2019, Shopify
@@ -194,7 +200,7 @@ mscs:
 # PHD ALUMNI
 phds:
   - name: Nodir Kodirov
-    info: 2021, Huawei
+    info: 2021, Huawei Research
 
   - name: Patrick Colp
     info: 2021, Oracle
