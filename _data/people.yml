@@ -188,20 +188,10 @@ mscs:
     link: http://shayanh.ir/
     img: shayanh.jpg
 
-  - name: Faqia Iqbal
-    info: "Usable Security and Privacy"
-    link: https://www.linkedin.com/in/faqiaiqbal/
-    img: faqia.jpg
-
   - name: Mayank Tiwary
     info: "Self-Tuning Servers"
     link: https://scholar.google.co.in/citations?user=xtMDCsQAAAAJ&hl=en
     img: mayank.png
-
-  - name: Shiqi He
-    info: "Distributed ML\nSecurity and Privacy"
-    link: https://tctower.github.io/
-    img: shiqi.jpg
 
   - name: Zainab Saeed Wattoo
     info: "Systems\nSecurity"
