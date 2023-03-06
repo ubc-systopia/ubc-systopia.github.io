@@ -5,12 +5,57 @@
 
 - date: 2023
   publications:
+    - title: "Understanding Inconsistency in Azure Cosmos DB with TLA+"
+      info: Finn Hackett, Joshua Rowe, Markus Alexander Kuppe (ICSE '23-SEIP)
+      link: https://conf.researchr.org/details/icse-2023/icse-2023-SEIP/3/Understanding-Inconsistency-in-Azure-Cosmos-DB-with-TLA-
+      
     - title: "Compiling Distributed System Models with PGo"
       info: Finn Hackett, Shayan Hosseini, Renato Costa, Matthew Do, Ivan Beschastnikh (ASPLOS '23).
       link: https://doi.org/10.1145/3575693.3575695
+      
+    - title: "GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning"
+      info: Shiqi He, Qifan Yan, Feijie Wu, Lanjun Wang, Mathias Lécuyer, Ivan Beschastnikh (MLSys 2023).
+      link: https://arxiv.org/abs/2212.01523
+      
+    - title: "Scaling Blockchain Consensus via a Robust Shared Mempool"
+      info: Fangyu Gai, Jianyu Niu, Ivan Beschastnikh, Chen Feng, Sheng Wang (ICDE 2023).
+      link: https://arxiv.org/abs/2203.05158
+      
+    - title: "Mercury: Fast Transaction Broadcast in High Performance Blockchain Systems"
+      info: Mingxun Zhou, Yilin Han, Liyi Zeng, Peilun Li, Fan Long, Dong Zhou, Ivan Beschastnikh, Ming Wu (INFOCOM 2023).
+      link: https://arxiv.org/abs/2203.05158
+      
+    - title: "Auto-tuning Elastic Applications in Production"
+      info: Adalberto R. Sampaio Junior, Ivan Beschastnikh, Daryl Maier, Don Bourne, Vijay Sundaresan (ICSE 2023, SEIP track).
+      link: https://www.cs.ubc.ca/~bestchai/papers/icse23-seip-smart-tuning.pdf
+      
 
 - date: 2022
   publications:
+    - title: "Repairing Failure-inducing Inputs with Input Reflection"
+      info: Yan Xiao, Yun Lin, Ivan Beschastnikh, Changsheng Sun, David S. Rosenblum, Jin Song Dong (ASE 2022).
+      link: https://www.cs.ubc.ca/~bestchai/papers/ase22-input-reflection.pdf
+      
+    - title: "Affective robots need therapy"
+      info: Paul Bucci, David Marino, Ivan Beschastnikh (ACM Transactions on Human-Robot Interaction (THRI), 2022).
+      link: https://dl.acm.org/doi/abs/10.1145/3543514
+      
+    - title: "Self-Checking Deep Neural Networks for Anomalies and Adversaries in Deployment"
+      info: Yan Xiao, Ivan Beschastnikh, Yun Lin, Rajdeep Singh Hundal, Xiaofei Xie, David S. Rosenblum, Jin Song Dong (IEEE Transactions on Dependable and Secure Computing (TDSC), 2022). 
+      link: https://github.com/yanxiao6/SelfCheckerPlusPlus
+      
+    - title: "Linear-time Temporal Logic guided Greybox Fuzzing"
+      info: Ruijie Meng, Zhen Dong, Jialin Li, Ivan Beschastnikh, Abhik Roychoudhury (ICSE 2022).
+      link: https://www.cs.ubc.ca/~bestchai/papers/icse22-ltl-fuzzing.pdf
+      
+    - title: "One Bad Apple Spoils the Bunch: Transaction DoS in MimbleWimble Blockchains"
+      info: Seyed Ali Tabatabaee, Charlene Nicer, Ivan Beschastnikh, Chen Feng (ICBC 2022).
+      link: https://www.cs.ubc.ca/~bestchai/papers/icbc22-mimble-wimble-dos.pdf
+      
+    - title: "Fair Decision Making via Automated Repair of Decision Trees"
+      info: Zhang Jiang, Ivan Beschastnikh, Sergey Mechtaev, Abhik Roychoudhury (Fairware workshop at ICSE 2022).
+      link: https://www.cs.ubc.ca/~bestchai/papers/fairware22-tree-repair.pdf
+      
     - title: "CoSpot: A Cooperative VM Allocation Framework for Increased Revenue from Spot Instances"
       info: Syed M. Iqbal, Haley Li, Shane Bergsma, Ivan Beschastnikh, and Alan J. Hu. Symposium on Cloud Computing (SoCC '22).
       link: https://dl.acm.org/doi/10.1145/3542929.3563499
