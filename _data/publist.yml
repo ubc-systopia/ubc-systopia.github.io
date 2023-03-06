@@ -3,6 +3,12 @@
 # When entering publication info, please maintain the following format:
 # [Authors, separated by comma]. [Publisher] [Year of publication].
 
+- date: 2023
+  publications:
+    - title: "Compiling Distributed System Models with PGo"
+      info: Finn Hackett, Shayan Hosseini, Renato Costa, Matthew Do, Ivan Beschastnikh (ASPLOS '23).
+      link: https://doi.org/10.1145/3575693.3575695
+
 - date: 2022
   publications:
     - title: "CoSpot: A Cooperative VM Allocation Framework for Increased Revenue from Spot Instances"
