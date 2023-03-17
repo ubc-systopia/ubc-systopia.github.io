@@ -32,6 +32,10 @@
 
 - date: 2022
   publications:
+    - title: "Augmenting Operations Research with Auto-Formulation of Optimization Models From Problem Descriptions"
+      info: Rindra Ramamonjison, Haley Li, Timothy Yu, Shiqi He, Vishnu Rengan, Amin Banitalebi-dehkordi, Zirui Zhou, and Yong Zhang. Proceedings of EMNLP 2022 Industry Track (EMNLP 2022).
+      link: https://aclanthology.org/2022.emnlp-industry.4.pdf
+      
     - title: "Repairing Failure-inducing Inputs with Input Reflection"
       info: Yan Xiao, Yun Lin, Ivan Beschastnikh, Changsheng Sun, David S. Rosenblum, Jin Song Dong (ASE 2022).
       link: https://www.cs.ubc.ca/~bestchai/papers/ase22-input-reflection.pdf
