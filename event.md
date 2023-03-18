@@ -1,11 +1,13 @@
+<img src="./assets/images/Chinook_Salmon_Adult_Male.jpeg"  width="400" height="200">
+
 # SALmon 2023 Workshop Information
 
 ## Vital Statistics
 
 - Date: 24 March 2023
 - Time: 0900-1700
-- Location: KAIS 2020/2030
-- Hosted by: UBC Systopia
+- Location: [KAIS](https://learningspaces.ubc.ca/buildings/fred-kaiser-kais) 2020/2030
+- Hosted by: [UBC Systopia](https://systopia.cs.ubc.ca/)
 
 ## Program
 ### 0830-0900 Room/Poster Setup
