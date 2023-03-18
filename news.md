@@ -10,6 +10,18 @@ tagline: Updates and Accomplishments
 heading: News
 description: Read more about our recent activities--including papers, posters, talks, and internships.
 ---
+<!-- .event -->
+<div class="container">
+    <div class="row mb-5">
+        <div class="col">
+            <h4 class="mb-4">Events</h4>
+            <ul>
+                <a href="/event/"> SALmon 2023 Workshop </a>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- /.event -->
 <!-- .awards -->
 <div class="container">
     <div class="row mb-5">
