@@ -16,7 +16,7 @@ description: Read more about our recent activities--including papers, posters, t
         <div class="col">
             <h4 class="mb-4">Events</h4>
             <ul>
-                <a href="/event/"> SALmon 2023 Workshop </a>
+                <a href="/event"> SALmon 2023 Workshop </a>
             </ul>
         </div>
     </div>
