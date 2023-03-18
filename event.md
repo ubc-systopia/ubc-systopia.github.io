@@ -26,7 +26,7 @@ heading: Events
                 <div class="col">
                     <ul>
                         <li><p class="subheading text-lg-left text-justify">Date: 24 March 2023</p></li>
-                        <li><p class="subheading text-lg-left text-justify">Date: 24 March 2023</p></li>
+                        <li><p class="subheading text-lg-left text-justify">Time: 0900 - 1700</p></li>
                         <li><p class="subheading text-lg-left text-justify">Location: </p><a class="subheading text-lg-left text-justify" href="https://learningspaces.ubc.ca/buildings/fred-kaiser-kais">KAIS 2020/2030</a></li>
                         <li><p class="subheading text-lg-left text-justify">Hosted by: </p><a class="subheading text-lg-left text-justify" href="https://systopia.cs.ubc.ca/">UBC Systopia</a></li>
                     </ul> 
