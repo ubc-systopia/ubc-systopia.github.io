@@ -143,4 +143,6 @@ heading: Events
         Victor Garvalov, Shaurya Patel, Alexandra Fedorova</p>
         <p><b>MERIT: Integrated Reproducibility with Self-describing Machine Learning Models</b><br>
         Joseph Wonsil, Jack Sullivan, Margo Seltzer, and Adam Pocock</p>
+        <p><b>Mitigating Network Side Channels: From Internet to Interconnects</b><br>
+        Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, and Aastha Mehta</p>
 </div></div>
