@@ -101,8 +101,46 @@ heading: Events
     <br>
     <div class="container">
         <h5>1500-1700 Poster Session, Tea/Coffee and Snacks</h5>
-    </div>
-</div>
-
-
-
+        <p><b>Velosiraptor: Why program yourself when you can synthesize address translation?</b><br>
+        Reto Achermann, Ryan Mehri, Ilias Karimalis, Margo Seltzer</p>
+        <p><b>OSMosis: Modeling OS Isolation</b><br>
+        Sidhartha Agrawal, Reto Achermann, Margo Seltzer</p>
+        <p><b>Anomaly Detection in Complex Networks</b><br>
+        Ali Behrouz, Sadaf Sadeghian, Margo Seltzer</p>
+        <p><b>RHuBarb: Speeding up Edge-Centric Graph Processing Using Recursive Hilbert-Blocking</b><br>
+        Alex Trostanovsky, Margo Seltzer</p>
+        <p><b>Shellac: compiler sketching with rewrite rule synthesis</b><br>
+        Christopher Chen, Margo Seltzer, and Mark Greenstreet</p>
+        <p><b>CHERI-picking: Leveraging capability hardware for pre-fetching</b><br>
+        Shaurya Patel, Sidhartha Agrawal, Alexandra Fedorova, Margo Seltzer</p>
+        <p><b>GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning</b><br>
+        Shiqi He, Qifan Yan, Feijie Wu, Lanjun Wang, Mathias Lécuyer, Ivan Beschastnikh</p>
+        <p><b>Two-Phase Graph Partitioner (2GP)</b><br>
+        Hadi Sinaee, Margo Seltzer</p>
+        <p><b>Reinforcement Learning with Work Duplication for Load Balancing in Elasticsearch</b><br>
+        Haley Li, Mathias Lécuyer</p>
+        <p><b>Black-Box Privacy Auditing of Machine Learning Pipelines</b><br>
+        Mishaal Kazmi, Alireza Akbari, Hadrien Laurette, Sébastien Gambs, Mathias Lécuyer</p>
+        <p><b>Experimental Workflow Tracking using Provenance</b><br>
+        Nichole Boufford, Thomas Pasquier</p>
+        <p><b>Compiling Distributed Systems with PGo</b><br>
+        Finn Hackett, Shayan Hosseini, Renato Costa, Matthew Do, Ivan Beschastnikh</p>
+        <p><b>Flexograph: Storing and Analyzing Large Graphs</b><br>
+        Puneet Mehrotra, Haotian Gong, Margo Seltzer</p>
+        <p><b>DP-Adam: Correcting DP Bias in Adam’s Second Moment Estimation</b><br>
+        Qiaoyue Tang, Mathias Lécuyer</p>
+        <p><b>Securing Self-Driving Laboratories: A Collaboration between Computer Science and Chemistry</b><br>
+        Zainab Saeed Wattoo, Petal Vitis, Arpan Gujarati, Maryam Aliabadi, Sean Clark, Noah Depner, Xiaoman Liu, Parisa Shiri, Amee Trivedi, Ivory Zhang, Ruizhe Zhu, Jason Hein, and Margo Seltzer</p>
+        <p><b>Serverless need not be Security-less</b><br>
+        Praveen Gupta, Arshia Moghimi, Aastha Mehta, Mohammad Shahrad, Yayu Wang</p>
+        <p><b>Secure Kernel Extensibility With eBPF</b><br>
+        Soo Yee Lim, Xuechun Cao, Thomas Pasquier</p>
+        <p><b>Right Place, Write Architecture for SMR drives</b><br>
+        Surbhi Palande, Alexandra Fedorova, Margo Seltzer</p>
+        <p><b>μswap: A Semi-microkernel for Memory Disaggregation</b><br>
+        Sepehr Jalalian, Margo Seltzer, Alexandra Fedorova</p>
+        <p><b>Evaluating Partial Memory Traces for Page Temperature Detection</b><br>
+        Victor Garvalov, Shaurya Patel, Alexandra Fedorova</p>
+        <p><b>MERIT: Integrated Reproducibility with Self-describing Machine Learning Models</b><br>
+        Joseph Wonsil, Jack Sullivan, Margo Seltzer, and Adam Pocock</p>
+</div></div>
