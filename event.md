@@ -21,14 +21,14 @@ heading: Events
                 <div class="col-lg-8 d-none"> </div>
                 </div>
                 <br>
-                <img align="right" width="400" height="300" src="./assets/images/Chinook_Salmon_Adult_Male.jpeg" alt="">
+                <img align="right" width="50%" src="./assets/images/Chinook_Salmon_Adult_Male.jpeg" alt="">
             <div class="row">
                 <div class="col">
                     <ul>
                         <li><p class="subheading text-lg-left text-justify">Date: 24 March 2023</p></li>
                         <li><p class="subheading text-lg-left text-justify">Time: 0900 - 1700</p></li>
-                        <li><p class="subheading text-lg-left text-justify">Location: </p><a class="subheading text-lg-left text-justify" href="https://learningspaces.ubc.ca/buildings/fred-kaiser-kais">KAIS 2020/2030</a></li>
-                        <li><p class="subheading text-lg-left text-justify">Hosted by: </p><a class="subheading text-lg-left text-justify" href="https://systopia.cs.ubc.ca/">UBC Systopia</a></li>
+                        <li><p class="subheading text-lg-left text-justify">Location: <a class="subheading text-lg-left text-justify" href="https://learningspaces.ubc.ca/buildings/fred-kaiser-kais">KAIS 2020/2030</a></p></li>
+                        <li><p class="subheading text-lg-left text-justify">Hosted by: <a class="subheading text-lg-left text-justify" href="https://systopia.cs.ubc.ca/">UBC Systopia</a></p></li>
                     </ul> 
                 </div>
             </div>
@@ -56,7 +56,8 @@ heading: Events
     </div>
     <br>
     <div class="container">
-        <h5>1000-1030 Gennady Pekhimenko, UofT</h5>
+        <h5>1000-1030 Gennady Pekhimenko, UofT: A Rise of Machine Learning Compilers</h5>
+        <p>The recent popularity of deep neural networks (DNNs) has generated a lot of research interest in performing DNN-related computation efficiently. In this talk, we will demonstrate why machine learning compilers are critical to realize this vision. We will first look, briefly, at key existing optimization alternatives, and what their pros and cons are. I will then follow with a few of our recent works on machine learning compilers (DietCode, MLSys'22, Roller, OSDI'22, and Hidet, ASPLOS'23). At the end, he will show the performance and visualization tools we built in my group to understand, visualize, and optimize DNN models, and even predict their performance on different hardware (Skyline, UIST'20 and Habitat, ATC'21).</p>
     </div>
     <br>
     <div class="container">
