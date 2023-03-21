@@ -106,7 +106,6 @@ heading: Events
 <p><b>AfterImage: Leaking Control Flow Data and Tracking Load Operations via the Hardware Prefetcher</b><br> Lingfeng Pei, Yun Chen, Trevor E. Carlson</p>
 <p><b>Anomaly Detection in Complex Networks</b><br> Ali Behrouz, Sadaf Sadeghian, Margo Seltzer</p>
 <p><b>Anticipating and Eliminating Redundant Computations in Accelerated Sparse Training</b><br> Jonathan Lew, Yunpeng Liu, Wenyi Gong, Negar Goli, R David Evans, and Tor M Aamodt</p>
-<p><b>BPF for Prefetching</b><br> Xuechun Cao</p>
 <p><b>Black-Box Privacy Auditing of Machine Learning Pipelines</b><br> Mishaal Kazmi, Alireza Akbari, Hadrien Laurette, Sébastien Gambs, Mathias Lécuyer</p>
 <p><b>CHERI-picking: Leveraging capability hardware for pre-fetching</b><br> Shaurya Patel, Sidhartha Agrawal, Alexandra Fedorova, Margo Seltzer</p>
 <p><b>Compiling Distributed Systems with PGo</b><br> Finn Hackett, Shayan Hosseini, Renato Costa, Matthew Do, Ivan Beschastnikh</p>
