@@ -48,6 +48,16 @@ talks:
     video-link: https://youtu.be/50PpVxcy5WM?t=4017
 
 awards:
+  - name: Best Paper award EMSOFT
+    awardee: Bingyao (Jerry) Wang
+    date: 2022
+    link: https://www.seltzer.com/assets/publications/emsoft-tcad-2022.pdf
+
+  - name: Best Paper award RTSS
+    awardee: Arpan Gujarati
+    date: 2022
+    link: https://arpangujarati.github.io/pdfs/rtss2022_paper.pdf
+
   - name: Top 20 Canadian Women in Cyber Security
     awardee: Margo Seltzer
     date: 2021
@@ -81,6 +91,9 @@ papers-posters:
   - title: "Compiling Distributed System Models with PGo"
     authors: Finn Hackett, Shayan Hosseini, Renato Costa, Matthew Do, Ivan Beschastnikh
     publisher: ASPLOS 2023
+
+  - title: "Optimal Sparse Regression Trees"
+    authors: Rui Zhang, Rui Xin, Margo Seltzer, Cynthia Rudin
     
   - title: "Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction"
     authors: Ali Behrouz, Margo Seltzer

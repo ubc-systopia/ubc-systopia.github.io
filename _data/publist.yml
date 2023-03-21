@@ -29,6 +29,9 @@
       info: Adalberto R. Sampaio Junior, Ivan Beschastnikh, Daryl Maier, Don Bourne, Vijay Sundaresan (ICSE 2023, SEIP track).
       link: https://www.cs.ubc.ca/~bestchai/papers/icse23-seip-smart-tuning.pdf
       
+    - title: "Optimal Sparse Regression Trees"
+      info: Rui Zhang, Rui Xin, Margo Seltzer, Cynthia Rudin (AAAI 2023)
+      link: https://arxiv.org/abs/2211.14980
 
 - date: 2022
   publications:
