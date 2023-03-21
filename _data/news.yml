@@ -191,6 +191,9 @@ internships:
 
   - date: Summer 2022
     internship:
+      - intern: Shaurya Patel
+        organization: Google
+        org-link: https://github.com/google/ghost-userspace/tree/main/schedulers/cfs_bpf
       - intern: Shayan Hosseini
         organization: Microsoft Research, Networking Research Group
         org-link: https://www.microsoft.com/en-us/research/group/networking-research/
