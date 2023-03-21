@@ -111,18 +111,19 @@ heading: Events
 <p><b>Compiling Distributed Systems with PGo</b><br> Finn Hackett, Shayan Hosseini, Renato Costa, Matthew Do, Ivan Beschastnikh</p>
 <p><b>ConstSpec: Mitigating Cache-based Spectre Attacks via Fine-Grained Constant-Time Accesses</b><br> Arash Pashrashid</p>
 <p><b>DP-Adam: Correcting DP Bias in Adam’s Second Moment Estimation</b><br> Qiaoyue Tang, Mathias Lécuyer</p>
+<p><b>Enhanced Unstructured Data Search</b><br> William Anthony Mason</p>
 <p><b>Evaluating Partial Memory Traces for Page Temperature Detection</b><br> Victor Garvalov, Shaurya Patel, Alexandra Fedorova</p>
 <p><b>Experimental Workflow Tracking using Provenance</b><br> Nichole Boufford, Thomas Pasquier</p>
 <p><b>FeMux: The Last “Leg” of Serverless Workload Forecasting</b><br> Nima Nasiri, Nalin Munshi</p>
 <p><b>Flexograph: Storing and Analyzing Large Graphs</b><br> Puneet Mehrotra, Haotian Gong, Margo Seltzer</p>
 <p><b>FlowCache: Accelerating Network Functions using Programmable Switches</b><br> Swati Goswami, Jacob Nelson, Dan Ports, Margo Seltzer</p>
-<p><b>GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning</b><br> Shiqi He, Qifan Yan, Feijie Wu, Lanjun Wang, Mathias Lécuyer, Ivan Beschastnikh</p>
 <p><b>Ghost Writer: Your sidekick to synthesizing device drivers for your operating systems</b><br> Bingyao "Jerry" Wang, Sepehr Noorafshan, Reto Achermann and Margo Selzer</p>
-<p><b>Offloading File Systems from the CPU</b><br> Joel Nider, Alexandra Fedorova</p>
+<p><b>GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning</b><br> Shiqi He, Qifan Yan, Feijie Wu, Lanjun Wang, Mathias Lécuyer, Ivan Beschastnikh</p>
 <p><b>Latency and Cost Aware Offloading of Functions from Serverless Platforms</b><br> Ghazal Sadeghian, Mohamed Elsakhawy, Mohanna Shahrad, Joe Hattori, Mohammad Shahrad</p>
 <p><b>MERIT: Integrated Reproducibility with Self-describing Machine Learning Models</b><br> Joseph Wonsil, Jack Sullivan, Margo Seltzer, and Adam Pocock</p>
 <p><b>Mitigating Network Side Channels: From Internet to Interconnects</b><br> Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, and Aastha Mehta</p>
 <p><b>OSMosis: Modeling OS Isolation</b><br> Sidhartha Agrawal, Reto Achermann, Margo Seltzer</p>
+<p><b>Offloading File Systems from the CPU</b><br> Joel Nider, Alexandra Fedorova</p>
 <p><b>PARADISE: Mitigating Power Attacks through Fine-Grained Instruction Reordering</b><br> Yun Chen</p>
 <p><b>PowerPrint: Fine-Grained Intrusion Detection Through Power Analysis for Safety-Critical Cyber-Physical Systems</b><br> Maryam R. Aliabadi</p>
 <p><b>Processing-in-memory for Column-store Workloads</b><br> Niloofar Gharavi, Alexandra Fedorova</p>
