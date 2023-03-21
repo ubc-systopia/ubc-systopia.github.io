@@ -117,15 +117,15 @@ heading: Events
 <p><b>Flexograph: Storing and Analyzing Large Graphs</b><br> Puneet Mehrotra, Haotian Gong, Margo Seltzer</p>
 <p><b>FlowCache: Accelerating Network Functions using Programmable Switches</b><br> Swati Goswami, Jacob Nelson, Dan Ports, Margo Seltzer</p>
 <p><b>GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning</b><br> Shiqi He, Qifan Yan, Feijie Wu, Lanjun Wang, Mathias Lécuyer, Ivan Beschastnikh</p>
-<p><b>Kamehameha</b><br> Joel Nider, Alexandra Fedorova</p>
+<p><b>Ghost Writer: Your sidekick to synthesizing device drivers for your operating systems</b><br> Bingyao "Jerry" Wang, Sepehr Noorafshan, Reto Achermann and Margo Selzer</p>
+<p><b>Offloading File Systems from the CPU</b><br> Joel Nider, Alexandra Fedorova</p>
 <p><b>Latency and Cost Aware Offloading of Functions from Serverless Platforms</b><br> Ghazal Sadeghian, Mohamed Elsakhawy, Mohanna Shahrad, Joe Hattori, Mohammad Shahrad</p>
 <p><b>MERIT: Integrated Reproducibility with Self-describing Machine Learning Models</b><br> Joseph Wonsil, Jack Sullivan, Margo Seltzer, and Adam Pocock</p>
 <p><b>Mitigating Network Side Channels: From Internet to Interconnects</b><br> Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, and Aastha Mehta</p>
 <p><b>OSMosis: Modeling OS Isolation</b><br> Sidhartha Agrawal, Reto Achermann, Margo Seltzer</p>
 <p><b>PARADISE: Mitigating Power Attacks through Fine-Grained Instruction Reordering</b><br> Yun Chen</p>
-<p><b>PIM-REC</b><br> Justin Wong, Niloofar Zarif</p>
 <p><b>PowerPrint: Fine-Grained Intrusion Detection Through Power Analysis for Safety-Critical Cyber-Physical Systems</b><br> Maryam R. Aliabadi</p>
-<p><b>Processing-in-memory for Column-store Workloads</b><br> Niloofar Gharavi</p>
+<p><b>Processing-in-memory for Column-store Workloads</b><br> Niloofar Gharavi, Alexandra Fedorova</p>
 <p><b>RHuBarb: Speeding up Edge-Centric Graph Processing Using Recursive Hilbert-Blocking</b><br> Alex Trostanovsky, Margo Seltzer</p>
 <p><b>Reinforcement Learning with Work Duplication for Load Balancing in Elasticsearch</b><br> Haley Li, Mathias Lécuyer</p>
 <p><b>Right Place, Write Architecture for SMR drives</b><br> Surbhi Palande, Alexandra Fedorova, Margo Seltzer</p>
