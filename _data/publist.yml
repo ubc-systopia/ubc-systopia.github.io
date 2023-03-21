@@ -29,12 +29,32 @@
       info: Adalberto R. Sampaio Junior, Ivan Beschastnikh, Daryl Maier, Don Bourne, Vijay Sundaresan (ICSE 2023, SEIP track).
       link: https://www.cs.ubc.ca/~bestchai/papers/icse23-seip-smart-tuning.pdf
       
+    - title: "FirmTruss Community Search in Multilayer Networks"
+      info: Ali Behrouz, Farnoosh Hashemi, Laks V. S. Lakshmanan (VLDB 2023)
+      link: https://dl.acm.org/doi/10.14778/3570690.3570700
+      
     - title: "Optimal Sparse Regression Trees"
       info: Rui Zhang, Rui Xin, Margo Seltzer, Cynthia Rudin (AAAI 2023)
       link: https://arxiv.org/abs/2211.14980
 
 - date: 2022
   publications:
+    - title: "Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction"
+      info: Ali Behrouz, Margo Seltzer (NeurIPS 2022 Temporal Graph Learning Workshop).
+      link: https://openreview.net/forum?id=UDGZDfwmay
+      
+    - title: "Fast Optimization of Weighted Sparse Decision Trees for use in Optimal Treatment Regimes and Optimal Policy Design"
+      info: Ali Behrouz, Mathias Lécuyer, Cynthia Rudin, Margo Seltzer (AIMLAI 2022).
+      link: https://ceur-ws.org/Vol-3318/short26.pdf
+      
+    - title: "CS-MLGCN: Multiplex Graph Convolutional Networks for Community Search in Multiplex Networks"
+      info: Ali Behrouz, Farnoosh Hashemi (CIKM 2022).
+      link: https://dl.acm.org/doi/10.1145/3511808.3557572
+  
+    - title: "FirmCore Decomposition of Multilayer Networks"
+      info: Farnoosh Hashemi, Ali Behrouz, Laks V. S. Lakshmanan (WWW 2022).
+      link: https://dl.acm.org/doi/abs/10.1145/3485447.3512205
+      
     - title: "Augmenting Operations Research with Auto-Formulation of Optimization Models From Problem Descriptions"
       info: Rindra Ramamonjison, Haley Li, Timothy Yu, Shiqi He, Vishnu Rengan, Amin Banitalebi-dehkordi, Zirui Zhou, and Yong Zhang. Proceedings of EMNLP 2022 Industry Track (EMNLP 2022).
       link: https://aclanthology.org/2022.emnlp-industry.4.pdf
