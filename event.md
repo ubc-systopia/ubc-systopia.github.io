@@ -102,7 +102,7 @@ heading: Events
     <div class="container">
         <h5>1500-1700 Poster Session</h5>
 
-<p><b>Accelerating Recommender Model Inference Using Processing-In-Memory</b><br> Niloofar Zarif, Justin Wong</p>
+<p><b>Accelerating Recommender Model Inference Using Processing-In-Memory</b><br> Niloofar Zarif, Justin Wong, Alexandra Fedorova</p>
 <p><b>AfterImage: Leaking Control Flow Data and Tracking Load Operations via the Hardware Prefetcher</b><br> Lingfeng Pei, Yun Chen, Trevor E. Carlson</p>
 <p><b>Anomaly Detection in Complex Networks</b><br> Ali Behrouz, Sadaf Sadeghian, Margo Seltzer</p>
 <p><b>Anticipating and Eliminating Redundant Computations in Accelerated Sparse Training</b><br> Jonathan Lew, Yunpeng Liu, Wenyi Gong, Negar Goli, R David Evans, and Tor M Aamodt</p>
