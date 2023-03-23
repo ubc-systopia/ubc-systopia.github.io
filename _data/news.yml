@@ -68,6 +68,11 @@ awards:
     date: 2021
     link: https://sigbed.org/2020/12/22/paul-caspi-dissertation-award-21/
 
+  - name: 3rd Place - ICPC Pacific Northwest
+    awardee: Milad Rezaei Hajidehi - Shayan Hosseini
+    date: 2021
+    link: http://www.acmicpc-pacnw.org/scoreboard/2020/index1.html
+
   - name: Election to the American Academy of Arts and Sciences
     awardee: Margo Seltzer
     date: 2021
@@ -188,6 +193,12 @@ papers-posters:
 # If applicable, add a link to the internship organization under "org-link"
 
 internships:
+
+  - date: Spring 2023
+    internship:
+      - intern: Milad Rezaei Hajidehi
+        organization: Harvard University
+        org-link: http://daslab.seas.harvard.edu/
 
   - date: Summer 2022
     internship:
