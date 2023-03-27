@@ -5,6 +5,14 @@
 
 - date: 2023
   publications:
+    - title: "Reproducibility as a Service"
+      info: "Joseph Wonsil, Nichole Boufford, Prakhar Agrawal, Christopher Chen, Tianhang Cui, Akash Sivaram, Margo Seltzer (Software: Practice and Experience 2023)"
+      link: https://doi.org/10.1002/spe.3202
+
+    - title: "Making Provenance Work for You"
+      info: Barbara Lerner, Emery Boose, Orenna Brand, Aaron M Ellison, Elizabeth Fong, Matthew K Lau, Khanh Ngo, Thomas Pasquier, Luis Perez, Margo Seltzer, Rose Sheehan, Joseph Wonsil (The R Journal 2023).
+      link: https://doi.org/10.32614/RJ-2023-003
+
     - title: "Understanding Inconsistency in Azure Cosmos DB with TLA+"
       info: Finn Hackett, Joshua Rowe, Markus Alexander Kuppe (ICSE '23-SEIP)
       link: https://conf.researchr.org/details/icse-2023/icse-2023-SEIP/3/Understanding-Inconsistency-in-Azure-Cosmos-DB-with-TLA-
