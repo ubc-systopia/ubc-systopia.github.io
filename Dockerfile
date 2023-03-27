@@ -1,6 +1,9 @@
 # Known version of ruby that is compatible with the current website configuration
 FROM ruby:2.7.4
 
+# Update gem so that it can still build 
+RUN gem update --system
+
 # Install ruby dependencies necessary to build and serve website
 RUN gem install bundler jekyll
 
