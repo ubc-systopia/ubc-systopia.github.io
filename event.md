@@ -138,3 +138,88 @@ heading: Events
 <p><b>Velosiraptor: Why program yourself when you can synthesize address translation?</b><br>Reto Achermann, Ryan Mehri, Ilias Karimalis, Margo Seltzer</p>
 <p><b>μswap: A Semi-microkernel for Memory Disaggregation</b><br> Sepehr Jalalian, Margo Seltzer, Alexandra Fedorova</p>
 </div></div>
+
+<div class="container">
+        <h5>Photos</h5>
+
+
+<div style="margin-right:auto;margin-left:auto; width: 95%; justify-content: center; display: flex;">
+
+<div class="row" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; align-content: space-around; gap: 2em 0em;">
+    <img src="assets/images/salmon_pic/IMG_0607.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0609.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0613.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0620.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0629.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0631.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0636.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0637.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0646.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0648.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0666.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0667.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0671.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0683.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0686.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0688.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0691.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0701.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0716.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0728.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0750.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0768.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0776.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0783.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0803.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0811.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0813.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0823.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0828.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0842.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0843.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0844.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0849.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0869.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0889.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0900.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0906.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0914.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0917.JPG" width="300px" />
+    <img src="assets/images/salmon_pic/IMG_0920.JPG" width="300px" />
+    </div>
+</div>
+</div>
+
+<div class="container">
+        <h5>Posters</h5>
+
+
+<div style="margin-right:auto;margin-left:auto; width: 95%; justify-content: center; display: flex;">
+
+<div class="row" style="display: flex; flex-direction:column; flex-wrap: wrap; justify-content: space-around; align-items: center; align-content: space-around; gap: 2em 0em;">
+    <img src="assets/images/SALmon_Posters/ANOMULY_poster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/Agrawal_OSmosis_SALmon-2023-poster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/Hadi_Poster_Final.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/Haley_WorkshopPoster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/Jerry_Salmon_Poster_Final.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/Mishaal_SALMON_Poster-2.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/Puneet_Flexograph_SALmon.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/QiaoyueTang_dp_adam_workshop_ver_poster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/Serverless-praveen-arshia-yayu-SALmonPoster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/Surbhi_Palande_poster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/Uswap_poster_SALmonV5_print.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/achreto-salmon-poster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/atrostan-rhubarb-salmon23.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/cchen-shellac-salmon-poster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/cheri-picking.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/eric_yan_gluefl_poster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/jnider-salmon23-poster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/nichole-salmon.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/pgo_poster_SALmon23.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/security self-driving laboratories-cps-poster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/soo_joyce_poster.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/victor_SALmonPoster_final.png" style="height: 600px;"/>
+    <img src="assets/images/SALmon_Posters/wonsil-salmon-poster.png" style="height: 600px;"/>
+</div>
+    </div>
+</div>
