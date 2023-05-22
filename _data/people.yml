@@ -156,11 +156,6 @@ phds:
     link: https://shauryapatel1995.github.io/
     img: shaurya.jpeg
 
-  - name: Monowar Anjum
-    info: "Data Provenance\nIntrusion Detection"
-    link: #
-    img: monowar.jpg
-
 #MSCS
 mscs:
   - name: Niloofar Zarif
@@ -187,11 +182,6 @@ mscs:
     info: "Distributed Systems\nSoftware Engineering"
     link: http://shayanh.ir/
     img: shayanh.jpg
-
-  - name: Mayank Tiwary
-    info: "Self-Tuning Servers"
-    link: https://scholar.google.co.in/citations?user=xtMDCsQAAAAJ&hl=en
-    img: mayank.png
 
   - name: Zainab Saeed Wattoo
     info: "Systems\nSecurity"
@@ -262,7 +252,7 @@ mscs:
     info: "Cloud Systems\nData Management\nUbiquitous Computing"
     link: https://pvgupta24.github.io/about.html
     img: praveen.jpg
-  
+
   - name: Niloofar Gharavi
     info: "Distributed Systems\nMemory Systems\nProcessing in Memory"
     link: https://niloo9876.github.io/

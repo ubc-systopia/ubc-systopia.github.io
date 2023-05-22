@@ -14,18 +14,22 @@ faculty:
 
 # MSC ALUMNI
 mscs:
+
+  - name: Mayank Tiwary
+    info: 2023
+
   - name: Shiqi He
     info: 2022
-   
+
   - name: Faqia Iqbal
     info: 2022
-    
+
   - name: Lana Sodol
     info: 2022
 
   - name: Seyed Ali Tabatabaee
     info: 2021, PhD @ UBC
-    
+
   - name: Matheus Stolet
     info: 2021, PhD @ MPI-SWS
 
@@ -73,7 +77,7 @@ mscs:
 
   - name: Stewart Grant
     info: 2018, PhD @ UC San Diego
-    
+
   - name: Amanda Carbonari
     info: 2018, Google
 
@@ -283,7 +287,7 @@ postdocs:
     info: 2016, Assistant Professor @ UCCS
 
 # VISITING ALUMNI
-visitors: 
+visitors:
   - name: Fangyu "Gary" Gai
     info: 2022
 
