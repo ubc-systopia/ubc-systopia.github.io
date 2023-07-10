@@ -47,7 +47,7 @@ description: "We offer techniques for building intrusion detection system for Cy
     <h6>Additional Information</h6>
         
         <li> People: Arpan Gujarati, Zainab Wattoo, Maryam R.Aliabadi, Amee Trivedi, Richard Zhu</li>
- <li><a href="https://github.com/ubc-systopia/dsn_2022_rad_public/tree/main/dataset">Robotic Arm Dataset</a></li>
+ <li><a href="https://github.com/ubc-systopia/dsn-2022-rad-artifact/tree/main/dataset">Robotic Arm Dataset</a></li>
  <li><a href="https://ieeexplore.ieee.org/abstract/document/9833708?casa_token=wLxSMv69c44AAAAA:uiRJHl4nAwGXtCQCxs1X1bA3Z5jUaFm4K4OWGtOOgIlHqG9L2SQ-e1l1Hog3dKnnacCkdSKh"> Arming IDS Researchers with a Robotic Arm Dataset</a>, DSN 2022</li>
    
 </div>
