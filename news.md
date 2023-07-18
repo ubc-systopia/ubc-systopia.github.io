@@ -16,6 +16,9 @@ description: Read more about our recent activities--including papers, posters, t
         <div class="col">
             <h4 class="mb-4">Events</h4>
             <ul>
+                <a href="https://unikraft.org/community/hackathons/2023-09-vancouver/"> Unikraft Hackathon </a>
+            </ul>
+            <ul>
                 <a href="/event"> SALmon 2023 Workshop </a>
             </ul>
         </div>
