@@ -3,6 +3,12 @@
 # When entering publication info, please maintain the following format:
 # [Authors, separated by comma]. [Publisher] [Year of publication].
 
+- date: 2024
+  publications:
+    - title: "KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance"
+      info: "Zijun Cheng, Qiujian Lv, Jinyuan Liang, Yan Wang, Degang Sun, Thomas Pasquier, Xueyuan Han (IEEE S&P 2024)"
+      link: https://tfjmp.org/publication/2024-sp/
+
 - date: 2023
   publications:
     - title: "Reproducibility as a Service"
