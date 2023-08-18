@@ -168,11 +168,6 @@ mscs:
     link: https://www.linkedin.com/in/milad-rezaei-hajidehi-63013773/
     img: milad.jpg
 
-  - name: Ali Behrouz
-    info: "Machine Learning\nOptimization"
-    link: https://abehrouz.github.io/
-    img: ali.jpg
-
   - name: Alex Trostanovsky
     info: "Graph Processing\nGraph Storage"
     link: https://atrostan.github.io/
