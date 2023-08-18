@@ -11,7 +11,7 @@
 
 - date: 2023
   publications:
-   - title: "Anomaly Detection in Human Brain via Inductive Learning on Temporal Multiplex Networks"
+    - title: "Anomaly Detection in Human Brain via Inductive Learning on Temporal Multiplex Networks"
       info: "Ali Behrouz, Margo Seltzer (Machin Learning in Healthcare 2023)"
       link: https://www.mlforhc.org/s/ID160_Research-Paper_2023.pdf
       
@@ -19,7 +19,7 @@
       info: "Ali Behrouz, Margo Seltzer (ICML IMLH Workshop 2023)"
       link: https://openreview.net/forum?id=t4H8acYudJ
       
-     - title: "CS-TGN: Community Search via Temporal Graph Neural Networks"
+    - title: "CS-TGN: Community Search via Temporal Graph Neural Networks"
       info: "Farnoosh Hashemi, Ali Behrouz, Milad Rezaei Hajidehi (WWW Companion 2023)"
       link: https://dl.acm.org/doi/abs/10.1145/3543873.3587654
     
