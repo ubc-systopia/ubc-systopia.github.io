@@ -206,6 +206,9 @@ mscs:
 
 # PHD ALUMNI
 phds:
+  - name: Mohammad Dashti
+    info: 2023 
+
   - name: Nodir Kodirov
     info: 2021, Huawei Research
 
@@ -225,7 +228,7 @@ phds:
     info: 2017, Amazon
 
   - name: Jean-Sébastien Légaré
-    info: 2017, PostDoc at UBC
+    info: 2017, AWS
 
   - name: Dutch Meyer
     info: 2015, Microsoft
@@ -264,7 +267,7 @@ phds:
     info: 2003, Assistant Professor @ UWinnipeg
 
   - name: Yvonne Coady
-    info: 2003, Assistant Professor @ UVIC
+    info: 2003, Professor @ UVIC
 
   - name: Joon Suan Ong
     info: 2003, Google
@@ -274,6 +277,12 @@ phds:
 
 # POSTDOC ALUMNI
 postdocs:
+  - name: Arpan Gujarati
+    info: 2023, Professor UBC
+
+  - name: Amee Trivedi
+    info: 2022, AT&T
+
   - name: Mohamad-Jaafar NEHME
     info: 2022, Huawei
 

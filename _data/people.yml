@@ -74,11 +74,6 @@ postdocs:
     link: https://www.aliabadi.ca/
     img: Maryam.jpeg
 
-  - name: Amee Trivedi
-    info: "Interpretable ML in Healthcare\nUbiquitous Computing\nData Mining"
-    link: https://ameetrivedi.github.io/
-    img: amee.jpeg
-
 # PHDS
 phds:
   - name: Swati Goswami
@@ -110,11 +105,6 @@ phds:
     info: "Programming Language Design\nApplied Declarative Programming"
     link: http://fhackett.github.io/
     img: finn.jpg
-
-  - name: Mohammad Dashti
-    info: "Operating Systems\nHeterogeneous Systems\nMemory Systems"
-    link: http://ece.ubc.ca/~mdashti
-    img: mohammad_dashti.jpg
 
   - name: Sid Agrawal
     info: "Operating Systems"
@@ -253,12 +243,13 @@ mscs:
     link: https://niloo9876.github.io/
     img: niloog.jpeg
 
-#UNDERGRADUATES
-undergrads:
   - name: Ilias Karimalis
-    info: "System Synthesis\nMachine Learning"
+    info: "Operating Systems and Program Synthesis"
     link: https://www.linkedin.com/in/ilias-karimalis-b034b3172/
     img: ilias.jpeg
+
+#UNDERGRADUATES
+undergrads:
 
 #RESEARCH STAFF
 researchers:
