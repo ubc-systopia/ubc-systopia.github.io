@@ -141,6 +141,11 @@ phds:
     link: #
     img: qiaoyue.jpg
 
+  - name: Saiyue Lyu
+    info: "Privacy\nMachine Learning"
+    link: https://saiyuelyu.github.io/
+    img: saiyue.png
+
   - name: Shaurya Patel
     info: "Operating Systems\nMemory Systems"
     link: https://shauryapatel1995.github.io/
@@ -257,6 +262,11 @@ mscs:
     info: "Systems"
     link: https://www.linkedin.com/in/philipschowitz
     img: philip.jpg
+ 
+  - name: Frederick Shpilevskiy
+    info: "Privacy\nMachine Learning"
+    link: #
+    img: frederick.jpg
 
 #UNDERGRADUATES
 undergrads:
