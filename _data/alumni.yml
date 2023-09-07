@@ -14,6 +14,8 @@ faculty:
 
 # MSC ALUMNI
 mscs:
+  - name: Shayan Hosseini
+    info: 2023
 
   - name: Ali Behrouz
     info: 2023, PhD @ Cornell
@@ -22,7 +24,7 @@ mscs:
     info: 2023
 
   - name: Shiqi He
-    info: 2022
+    info: 2022, PhD @ UMich
 
   - name: Faqia Iqbal
     info: 2022
