@@ -5,24 +5,36 @@
 
 - date: 2024
   publications:
+    - title: "NetShaper: A Differentially Private Network Side-Channel Mitigation System"
+      info: "Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, Aastha Mehta (USENIX Security 2024)"
+      link: https://arxiv.org/abs/2310.06293
+
     - title: "KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance"
       info: "Zijun Cheng, Qiujian Lv, Jinyuan Liang, Yan Wang, Degang Sun, Thomas Pasquier, Xueyuan Han (IEEE S&P 2024)"
       link: https://tfjmp.org/publication/2024-sp/
 
 - date: 2023
   publications:
+    - title: "Turbo: Effective Caching in Differentially-Private Databases"
+      info: "Kelly Kostopoulou, Pierre Tholoniat, Asaf Cidon, Roxana Geambasu, Mathias Lécuyer (SOSP 2023)"
+      link: https://dl.acm.org/doi/abs/10.1145/3600006.3613174
+
     - title: "Anomaly Detection in Human Brain via Inductive Learning on Temporal Multiplex Networks"
-      info: "Ali Behrouz, Margo Seltzer (Machin Learning in Healthcare 2023)"
+      info: "Ali Behrouz, Margo Seltzer (Machine Learning in Healthcare 2023)"
       link: https://www.mlforhc.org/s/ID160_Research-Paper_2023.pdf
-      
+
     - title: "ADMIRE++: Explainable Anomaly Detection in the Human Brain via Inductive Learning on Temporal Multiplex Networks"
       info: "Ali Behrouz, Margo Seltzer (ICML IMLH Workshop 2023)"
       link: https://openreview.net/forum?id=t4H8acYudJ
-      
+
     - title: "CS-TGN: Community Search via Temporal Graph Neural Networks"
       info: "Farnoosh Hashemi, Ali Behrouz, Milad Rezaei Hajidehi (WWW Companion 2023)"
       link: https://dl.acm.org/doi/abs/10.1145/3543873.3587654
-    
+
+    - title: "DP-Adam: Correcting DP Bias in Adam's Second Moment Estimation"
+      info: "Qiaoyue Tang, Mathias Lécuyer (RTML workshop at ICLR 2023)"
+      link: https://openreview.net/forum?id=t4H8acYudJ
+
     - title: "Reproducibility as a Service"
       info: "Joseph Wonsil, Nichole Boufford, Prakhar Agrawal, Christopher Chen, Tianhang Cui, Akash Sivaram, Margo Seltzer (Software: Practice and Experience 2023)"
       link: https://doi.org/10.1002/spe.3202
