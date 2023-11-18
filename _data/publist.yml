@@ -5,6 +5,10 @@
 
 - date: 2024
   publications:
+    - title: "CHERI-picking: Leveraging capability hardware for prefetching"
+      info: "Shaurya Patel, Sidharth Agrawal, Alexandra (Sasha) Fedorova, Margo Seltzer (PLOS @ SOSP'23)"
+      link: https://doi.org/10.1145/3623759.3624553
+
     - title: "NetShaper: A Differentially Private Network Side-Channel Mitigation System"
       info: "Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, Aastha Mehta (USENIX Security 2024)"
       link: https://arxiv.org/abs/2310.06293
