@@ -7,7 +7,7 @@ layout: page
 headerimg: Social-Distancing-Pano-1.jpeg
 tagline: Papers, Articles, and More
 heading: Publications
-description: We have a strong track-record in publishing in top systems, networks, and security conferences and journals.
+description: We have a strong track-record in publishing in top systems, networking, security, and machine learning conferences and journals.
 ---
 <!-- .publication_list -->
 <div class="container">
