@@ -16,15 +16,15 @@
 - date: 2023
   publications:
     - title: "CAT-Walk: Inductive Hypergraph Learning via Set Walks"
-      info: "Ali Behrouz, Farnoosh Hashemi, Sadaf Sadeghian, Margo Seltzer"
+      info: "Ali Behrouz, Farnoosh Hashemi, Sadaf Sadeghian, Margo Seltzer (NeurIPS 2023)"
       link: https://arxiv.org/abs/2306.11147
 
     - title: "Exploring and Interacting with the Set of Good Sparse Generalized Additive Models"
-      info: "Chudi Zhong, Zhi Chen, Jiachang Liu, Margo Seltzer, Cynthia Rudin"
+      info: "Chudi Zhong, Zhi Chen, Jiachang Liu, Margo Seltzer, Cynthia Rudin (NeurIPS 2023)"
       link: https://arxiv.org/abs/2303.16047
 
     - title: "Synthesizing Device Drivers with Ghost Writer"
-      info: "Bingyao Wang, Sepehr Noorafshan, Reto Achermann, Margo Seltzer"
+      info: "Bingyao Wang, Sepehr Noorafshan, Reto Achermann, Margo Seltzer (PLOS 2023)"
       link: https://dl.acm.org/doi/pdf/10.1145/3623759.3624545
 
     - title: "CHERI-picking: Leveraging capability hardware for prefetching"
