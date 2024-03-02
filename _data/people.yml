@@ -151,6 +151,11 @@ phds:
     link: https://shauryapatel1995.github.io/
     img: shaurya.jpeg
 
+  - name: Zainab Saeed Wattoo
+    info: "Systems\nSecurity"
+    link: https://www.linkedin.com/in/zainab-saeed-wattoo/
+    img: Zainab.jpeg
+
 #MSCS
 mscs:
   - name: Niloofar Zarif
@@ -162,11 +167,6 @@ mscs:
     info: "Data-Intensive Applications \n Graph Processing \n Data Management"
     link: https://www.linkedin.com/in/milad-rezaei-hajidehi-63013773/
     img: milad.jpg
-
-  - name: Zainab Saeed Wattoo
-    info: "Systems\nSecurity"
-    link: https://www.linkedin.com/in/zainab-saeed-wattoo/
-    img: Zainab.jpeg
 
   - name: Jinyuan Liang
     info: "Security\nProvenance"
