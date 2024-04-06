@@ -2,6 +2,7 @@
 # To add a new image to the carousel, upload the image to the "slides" folder and add the path below.
 
 images:
+  - image: /assets/images/slides/lunch-truck-2024.jpg
   - image: /assets/images/slides/orientation-w23.jpg
   - image: /assets/images/slides/science-world-s2022.jpeg
   - image: /assets/images/slides/soccer-s2022.jpeg
@@ -13,7 +14,7 @@ images:
   - image: /assets/images/slides/Sasha.jpeg
   - image: /assets/images/slides/AX6.png
   #- image: /assets/images/slides/AX2.png
-  - image: /assets/images/slides/AX5.png
+  # - image: /assets/images/slides/AX5.png
   # - image: /assets/images/slides/standupMar8.jpeg
-  - image: /assets/images/slides/Langley.jpeg
+  # - image: /assets/images/slides/Langley.jpeg
   # - image: /assets/images/slides/CSNight1.jpeg
