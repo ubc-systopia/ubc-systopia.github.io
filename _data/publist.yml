@@ -13,6 +13,10 @@
       info: "Zijun Cheng, Qiujian Lv, Jinyuan Liang, Yan Wang, Degang Sun, Thomas Pasquier, Xueyuan Han (IEEE S&P 2024)"
       link: https://tfjmp.org/publication/2024-sp/
 
+    - title: "DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)"
+      info: "Qiaoyue Tang, Frederick Shpilevskiy, Mathias Lécuyer (AAAI 2024)"
+      link: https://arxiv.org/abs/2312.14334
+
 - date: 2023
   publications:
     - title: "CAT-Walk: Inductive Hypergraph Learning via Set Walks"
@@ -22,6 +26,10 @@
     - title: "Exploring and Interacting with the Set of Good Sparse Generalized Additive Models"
       info: "Chudi Zhong, Zhi Chen, Jiachang Liu, Margo Seltzer, Cynthia Rudin (NeurIPS 2023)"
       link: https://arxiv.org/abs/2303.16047
+
+    - title: "Flowering Onset Detection: Traditional Learning vs. Deep Learning Performance in a Sparse Label Context"
+      info: "Mauricio Soroco, Joel Hempel, Xinze Xiong, Mathias Lécuyer, Joséphine Gantois (Climate Change AI workshop @ NeurIPS 2023)"
+      link: https://www.climatechange.ai/papers/neurips2023/40
 
     - title: "Synthesizing Device Drivers with Ghost Writer"
       info: "Bingyao Wang, Sepehr Noorafshan, Reto Achermann, Margo Seltzer (PLOS 2023)"
