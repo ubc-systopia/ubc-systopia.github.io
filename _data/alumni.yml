@@ -14,20 +14,41 @@ faculty:
 
 # MSC ALUMNI
 mscs:
-  - name: Hadi Sinaee
-    info: 2023 
+  - name: Jinyuan Liang
+    info: 2024
 
-  - name: Alex Trostanovsky
+  - name: Nichole Boufford
+    info: 2024
+
+  - name: Sepehr Jalalian
+    info: 2024
+
+  - name: Sadaf Sadeghian
+    info: 2024
+
+  - name: Niloofar Gharavi
+    info: 2024, Arista Networks
+
+  - name: Hadi Sinaee
     info: 2023
 
+  - name: Amir Sabzi
+    info: 2023
+
+  - name: Alex Trostanovsky
+    info: 2023, Arista Networks
+
   - name: Shayan Hosseini
+    info: 2023, Axiom
+
+  - name: Niloofar Zarif
     info: 2023
 
   - name: Ali Behrouz
     info: 2023, PhD @ Cornell
 
   - name: Mayank Tiwary
-    info: 2023
+    info: 2023, Salesforce
 
   - name: Shiqi He
     info: 2022, PhD @ UMich
@@ -215,7 +236,7 @@ mscs:
 # PHD ALUMNI
 phds:
   - name: Mohammad Dashti
-    info: 2023 
+    info: 2023
 
   - name: Nodir Kodirov
     info: 2021, Huawei Research
