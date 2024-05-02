@@ -5,6 +5,14 @@
 
 - date: 2024
   publications:
+    - title: "FetchBPF: Customizable Prefetching Policies in Linux with eBPF"
+      info: "Xuechun Cao, Shaurya Patel , Soo Yee Lim, Xueyuan Han, Thomas Pasquier (USENIX ATC 2024)"
+      link: https://tfjmp.org/publication/2024-atc/
+
+    - title: "Computational Experiment Comprehension using Provenance Summarization"
+      info: "Nichole Boufford, Joseph Wonsil, Adam Pocock, Jack Sullivan, Margo Seltzer, Thomas Pasquier (ACM REP 2024)"
+      link: https://tfjmp.org/publication/2024-rep/
+
     - title: "NetShaper: A Differentially Private Network Side-Channel Mitigation System"
       info: "Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, Aastha Mehta (USENIX Security 2024)"
       link: https://arxiv.org/abs/2310.06293
