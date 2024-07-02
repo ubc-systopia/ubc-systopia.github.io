@@ -58,14 +58,16 @@ layout: default
 <!-- /.info cards -->
 
 <!-- .footer -->
-<section class="py-5"><div class="container-fluid img-divider p-0">
-    <div class="row">
-      <div class="col-lg-4 my-auto py-5">
-      </div>
-      <div class="col-lg-8 mh-100"><img class="img-fluid" src="../../assets/images/20089915475_8364baed6d_k.jpg" alt=""></div>
+<section class="py-5">
+  <div class="container-fluid img-divider p-0">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-8 text-center">
+        <img class="img-fluid" src="../../assets/images/20089915475_8364baed6d_k.jpg" alt="">
       </div>
     </div>
+  </div>
 </section>
+
 
 <section class="pb-5"><div class="container text-center">
     <p class="small">Systopia lab is supported by a number of government and industrial sources, including Oracle, Cisco Systems, Huawei, the Communications Security Establishment Canada, Intel Research, the Natural Sciences and Engineering Research Council of Canada (NSERC), Network Appliance, Office of the Privacy Commissioner of Canada, and the National Science Foundation (NSF).</p>

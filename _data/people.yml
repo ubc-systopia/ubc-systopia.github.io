@@ -47,6 +47,11 @@ faculty:
     link: http://arpangujarati.github.io/
     img: arpan.jpg
 
+  - name: Nguyen Phong Hoang
+    info: "Network security\nOnline privacy\nInternet measurement"
+    link: https://homepage.np-tokumei.net
+    img: phong.jpg
+
   - name: Mike Feeley
     info: "Distributed systems\nOperating systems"
     link: http://www.cs.ubc.ca/~feeley/
