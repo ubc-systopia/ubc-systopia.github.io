@@ -52,6 +52,11 @@ faculty:
     link: https://homepage.np-tokumei.net
     img: phong.jpg
 
+  - name: Reto Achermann
+    info: "Operating Systems\nMemory Systems\nApplied Verification"
+    link: https://retoachermann.ch/
+    img: reto.jpg
+
   - name: Mike Feeley
     info: "Distributed systems\nOperating systems"
     link: http://www.cs.ubc.ca/~feeley/
@@ -69,10 +74,6 @@ faculty:
 
 # POSTDOCS
 postdocs:
-  - name: Reto Achermann
-    info: "Operating Systems"
-    link: https://retoachermann.ch/
-    img: reto.jpg
 
   - name: Maryam R. Aliabadi
     info: "CPS Security\nProgram Analysis\nFault Tolerance"
@@ -212,7 +213,7 @@ mscs:
     info: "Systems"
     link: https://www.linkedin.com/in/philipschowitz
     img: philip.jpg
- 
+
   - name: Frederick Shpilevskiy
     info: "Privacy\nMachine Learning"
     link: #
