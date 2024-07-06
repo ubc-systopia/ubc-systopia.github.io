@@ -5,21 +5,30 @@
 
 - date: 2024
   publications:
+
+    - title: "GFWeb: Measuring the Great Firewall's Web Censorship at Scale"
+      info: "Nguyen Phong Hoang, Jakub Dalek, Masashi Crete-Nishihata, Nicolas Christin, Vinod Yegneswaran, Michalis Polychronakis, Nick Feamster (USENIX Security 2024)"
+      link: https://www.usenix.org/system/files/sec24fall-prepub-310-hoang.pdf
+
+    - title: "Automatic Generation of Web Censorship Probe Lists"
+      info: "Jenny Tang, Léo Alvarez, Arjun Brar, Nguyen Phong Hoang, Nicolas Christin (PoPETs 2024)"
+      link: https://www.andrew.cmu.edu/user/nicolasc/publications/Tang-PETS24.pdf
+
     - title: "FetchBPF: Customizable Prefetching Policies in Linux with eBPF"
       info: "Xuechun Cao, Shaurya Patel , Soo Yee Lim, Xueyuan Han, Thomas Pasquier (USENIX ATC 2024)"
-      link: https://tfjmp.org/publication/2024-atc/
+      link: https://tfjmp.org/publications/2024-atc.pdf
 
     - title: "Computational Experiment Comprehension using Provenance Summarization"
       info: "Nichole Boufford, Joseph Wonsil, Adam Pocock, Jack Sullivan, Margo Seltzer, Thomas Pasquier (ACM REP 2024)"
-      link: https://tfjmp.org/publication/2024-rep/
+      link: https://tfjmp.org/publications/2024-rep.pdf
 
     - title: "NetShaper: A Differentially Private Network Side-Channel Mitigation System"
       info: "Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, Aastha Mehta (USENIX Security 2024)"
-      link: https://arxiv.org/abs/2310.06293
+      link: https://www.usenix.org/system/files/sec24summer-prepub-168-sabzi.pdf
 
     - title: "KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance"
       info: "Zijun Cheng, Qiujian Lv, Jinyuan Liang, Yan Wang, Degang Sun, Thomas Pasquier, Xueyuan Han (IEEE S&P 2024)"
-      link: https://tfjmp.org/publication/2024-sp/
+      link: https://tfjmp.org/publications/2024-sp.pdf
 
     - title: "DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)"
       info: "Qiaoyue Tang, Frederick Shpilevskiy, Mathias Lécuyer (AAAI 2024)"
