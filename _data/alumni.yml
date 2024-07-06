@@ -9,8 +9,13 @@ faculty:
   - name: Son Vuong
     info: Associate Professor Emeritus, UBC
 
+  - name: Alan Wagner
+    info: Professor Emeritus, UBC
+
   - name: Andrew Warfield
     info: Amazon
+
+
 
 # MSC ALUMNI
 mscs:

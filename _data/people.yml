@@ -67,11 +67,6 @@ faculty:
     link: http://www.cs.ubc.ca/~norm/
     img: norm.jpg
 
-  - name: Alan Wagner
-    info: "High performance systems"
-    link: http://www.cs.ubc.ca/~wagner/
-    img: alan.jpg
-
 # POSTDOCS
 postdocs:
 
