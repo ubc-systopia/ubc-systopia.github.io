@@ -14,6 +14,10 @@
       info: "Jenny Tang, Léo Alvarez, Arjun Brar, Nguyen Phong Hoang, Nicolas Christin (PoPETs 2024)"
       link: https://www.andrew.cmu.edu/user/nicolasc/publications/Tang-PETS24.pdf
 
+    - title: "Toward Automated DNS Tampering Detection Using Machine Learning"
+      info: "Paola Calle, Larissa Savitsky, Arjun Nitin Bhagoji, Nguyen Phong Hoang, Shinyoung Cho (FOCI 2024)"
+      link: https://www.petsymposium.org/foci/2024/foci-2024-0008.pdf
+
     - title: "FetchBPF: Customizable Prefetching Policies in Linux with eBPF"
       info: "Xuechun Cao, Shaurya Patel , Soo Yee Lim, Xueyuan Han, Thomas Pasquier (USENIX ATC 2024)"
       link: https://tfjmp.org/publications/2024-atc.pdf
