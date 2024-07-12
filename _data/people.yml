@@ -220,12 +220,16 @@ mscs:
     img: jonas.jpg
 
   - name: Tanya Prasad
-    info: "Operating sytems\nSystems Security"
+    info: "Operating systems\nSystems Security"
     link: https://tanyaprasad.com
     img: tanya.png
 
 #UNDERGRADUATES
 undergrads:
+  - name: Anastasiia Beheni
+    info: "Operating Systems\nSecurity"
+    link: https://www.linkedin.com/in/anastasiia-beheni-845939242/
+    img: anastasiia.jpg
 
 #RESEARCH STAFF
 researchers:
