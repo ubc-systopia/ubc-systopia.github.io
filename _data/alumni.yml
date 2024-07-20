@@ -37,6 +37,9 @@ mscs:
   - name: Niloofar Gharavi
     info: 2024, Arista Networks
 
+  - name: Augustine Wong
+    info: 2024, Intel
+
   - name: Hadi Sinaee
     info: 2023
 
@@ -50,7 +53,7 @@ mscs:
     info: 2023, Axiom
 
   - name: Niloofar Zarif
-    info: 2023
+    info: 2023, TorcAI
 
   - name: Ali Behrouz
     info: 2023, PhD @ Cornell

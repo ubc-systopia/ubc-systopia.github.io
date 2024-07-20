@@ -6,6 +6,10 @@
 - date: 2024
   publications:
 
+    - title: "EXTMEM: Enabling Application-Aware Virtual Memory Management for Data-Intensive Applications"
+      info: "Sepehr Jalalian, Shaurya Patel, Milad Rezaei Hajidehi, Margo Seltzer, Alexandra Fedorova (USENIX ATC 2024)"
+      link: https://www.usenix.org/conference/atc24/presentation/jalalian
+
     - title: "GFWeb: Measuring the Great Firewall's Web Censorship at Scale"
       info: "Nguyen Phong Hoang, Jakub Dalek, Masashi Crete-Nishihata, Nicolas Christin, Vinod Yegneswaran, Michalis Polychronakis, Nick Feamster (USENIX Security 2024)"
       link: https://www.usenix.org/system/files/sec24fall-prepub-310-hoang.pdf
