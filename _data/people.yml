@@ -236,6 +236,11 @@ undergrads:
     link: https://www.linkedin.com/in/tom-wang-554904220/
     img: Tom_Wang.jpg
 
+  - name: Arya Stevinson
+    info: "Operating Systems"
+    link: https://www.linkedin.com/in/arya-stevinson-2a85a0238/
+    img: arya.jpg
+
 #RESEARCH STAFF
 researchers:
   - name: Phoenix Synkova
