@@ -231,6 +231,11 @@ undergrads:
     link: https://www.linkedin.com/in/anastasiia-beheni-845939242/
     img: anastasiia.jpg
 
+  - name: Xingyu (Tom) Wang
+    info: "Computer Architecture\nMemory Systems"
+    link: https://www.linkedin.com/in/tom-wang-554904220/
+    img: Tom_Wang.jpg
+
 #RESEARCH STAFF
 researchers:
   - name: Phoenix Synkova
