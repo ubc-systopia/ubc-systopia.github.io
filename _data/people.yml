@@ -241,6 +241,11 @@ undergrads:
     link: https://www.linkedin.com/in/arya-stevinson-2a85a0238/
     img: arya.jpg
 
+  - name: Linh Pham
+    info: "Operating Systems"
+    link: https://www.linkedin.com/in/linh-pham-686536211/
+    img: linh.jpg
+
 #RESEARCH STAFF
 researchers:
   - name: Phoenix Synkova
