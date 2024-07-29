@@ -84,6 +84,10 @@
       info: "Qiaoyue Tang, Mathias Lécuyer (RTML workshop at ICLR 2023)"
       link: https://openreview.net/forum?id=t4H8acYudJ
 
+    - title: "Integrated Reproducibility with Self-describing Machine Learning Models"
+      info: "Joseph Wonsil, Jack Sullivan, Margo Seltzer, Adam Pocock (ACM REP 2023)"
+      link: https://doi.org/10.1145/3589806.3600039
+
     - title: "Reproducibility as a Service"
       info: "Joseph Wonsil, Nichole Boufford, Prakhar Agrawal, Christopher Chen, Tianhang Cui, Akash Sivaram, Margo Seltzer (Software: Practice and Experience 2023)"
       link: https://doi.org/10.1002/spe.3202
