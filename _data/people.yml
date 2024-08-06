@@ -247,6 +247,11 @@ undergrads:
     link: https://www.linkedin.com/in/linh-pham-686536211/
     img: linh.jpg
 
+  - name: Dmytro Buialo
+    info: "Online privacy\nInternet measurement\nSecurity"
+    link: https://www.linkedin.com/in/dmytro-buialo
+    img: dmytro.jpg
+
 #RESEARCH STAFF
 researchers:
   - name: Phoenix Synkova
