@@ -1,5 +1,5 @@
 # Known version of ruby that is compatible with the current website configuration
-FROM ruby:2.7.4
+FROM ruby:3.0.0
 
 # Update gem so that it can still build 
 RUN gem update --system
