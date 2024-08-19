@@ -114,7 +114,7 @@ description: We are a diverse group and are always looking to recruit strong stu
 </div>
 <!-- /.phds -->
 
-<!-- .mscs -->
+<!-- .mscs and .meng -->
 <div class="container mt-4">
     <h4>Master's Students</h4>
 </div>
@@ -145,9 +145,33 @@ description: We are a diverse group and are always looking to recruit strong stu
             </div></a>
         </div>
         {% endfor %}
+        {% for mscs in site.data.people.meng %}
+        <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
+            <a href="{{ mscs.link }}" alt="View Personal Site"><div class="card rounded-0 m-1 profile">
+                <div class="row px-3">
+                    <div>
+                        <img src="../../assets/images/profiles/{{ mscs.img }}">
+                    </div>
+                    <div class="col p-3 d-flex align-items-start flex-column">
+                        <h6>
+                            {{ mscs.name }}
+                        </h6>
+                        <span class="small">
+                            {{ mscs.info | newline_to_br }}
+                        </span>
+                        <a class="mt-auto profile-link text-right ml-auto" href="{{ mscs.link }}">
+                            <span class="material-icons">
+                            arrow_forward
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div></a>
+        </div>
+        {% endfor %}
     </div>
 </div>
-<!-- /.mscs -->
+<!-- /.mscs and /.meng-->
 
 <!-- .undergrads -->
 <div class="container mt-4">
