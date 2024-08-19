@@ -225,6 +225,13 @@ mscs:
     link: https://www.tanya-prasad.com/
     img: tanya.png
 
+#MENG
+meng:
+  - name: Yisheng Liu
+    info: "Computer Architecture\nMemory Systems"
+    link: https://www.linkedin.com/in/liuyisheng/
+    img: yisheng.jpg
+    
 #UNDERGRADUATES
 undergrads:
   - name: Anastasiia Beheni
