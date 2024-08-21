@@ -109,6 +109,11 @@ awards:
     link: https://sigmod.org/sigmod-awards/sigmod-systems-award/
 
 papers-posters:
+  - title: "RABIT, a Robot Arm Bug Intervention Tool for Self-Driving Labs"
+    authors: Zainab Saeed Wattoo, Petal Vitis, Ruizhe Zhu, Noah Depner, Ivory Zhang, Jason Hein, Arpan Gujarati, Margo Seltzer
+    publisher: DSN 2024
+    link: https://arpangujarati.github.io/pdfs/dsn2024_paper_a.pdf
+
   - title: "Compiling Distributed System Models with PGo"
     authors: Finn Hackett, Shayan Hosseini, Renato Costa, Matthew Do, Ivan Beschastnikh
     publisher: ASPLOS 2023
