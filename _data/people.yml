@@ -75,6 +75,11 @@ postdocs:
     link: https://www.aliabadi.ca/
     img: Maryam.jpeg
 
+  - name: Hugo Lefeuvre
+    info: "Systems\nSecurity"
+    link: https://www.owl.eu.com/
+    img: hugo.jpeg
+
 # PHDS
 phds:
   - name: Swati Goswami
