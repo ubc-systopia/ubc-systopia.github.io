@@ -257,6 +257,11 @@ undergrads:
     link: https://www.linkedin.com/in/dmytro-buialo
     img: dmytro.jpg
 
+  - name: Iris Xu
+    info: "Robotics\nComputer Vision"
+    link: https://www.irisxu.me
+    img: iris.jpg
+
 #RESEARCH STAFF
 researchers:
   - name: Phoenix Synkova
