@@ -262,7 +262,7 @@ undergrads:
     link: https://www.irisxu.me
     img: iris.jpg
   
-    - name: Peter Whiting
+  - name: Peter Whiting
     info: "Network security\nInternet measurement"
     link: https://peterwhiting.me
     img: peter.jpg
