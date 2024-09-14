@@ -32,7 +32,7 @@
 
     - title: "NetShaper: A Differentially Private Network Side-Channel Mitigation System"
       info: "Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, Aastha Mehta (USENIX Security 2024)"
-      link: https://www.usenix.org/system/files/sec24summer-prepub-168-sabzi.pdf
+      link: https://www.usenix.org/system/files/usenixsecurity24-sabzi.pdf
 
     - title: "KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance"
       info: "Zijun Cheng, Qiujian Lv, Jinyuan Liang, Yan Wang, Degang Sun, Thomas Pasquier, Xueyuan Han (IEEE S&P 2024)"
