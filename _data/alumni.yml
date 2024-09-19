@@ -23,16 +23,16 @@ mscs:
     info: 2024
 
   - name: Jinyuan Liang
-    info: 2024
+    info: 2024, WeBank
 
   - name: Nichole Boufford
-    info: 2024
+    info: 2024, Oracle
 
   - name: Sepehr Jalalian
     info: 2024
 
   - name: Sadaf Sadeghian
-    info: 2024
+    info: 2024, Chubb
 
   - name: Niloofar Gharavi
     info: 2024, Arista Networks
@@ -340,6 +340,12 @@ postdocs:
 
 # VISITING ALUMNI
 visitors:
+  - name: Tristan Bilot
+    info: 2024, Université Paris-Saclay France
+
+  - name: Wellison Raul Mariz Santos
+    info: 2024, UFPE Brazil
+
   - name: Fangyu "Gary" Gai
     info: 2022
 
