@@ -6,6 +6,10 @@
 - date: 2024
   publications:
 
+    - title: "SafeBPF: Hardware-assisted Defense-in-depth for eBPF Kernel Extensions"
+      info: "Soo Yee Lim, Tanya Prasad, Xueyuan Han, Thomas Pasquier (ACM CCSW 2024)"
+      link: https://tfjmp.org/publications/2024-ccsw.pdf
+
     - title: "EXTMEM: Enabling Application-Aware Virtual Memory Management for Data-Intensive Applications"
       info: "Sepehr Jalalian, Shaurya Patel, Milad Rezaei Hajidehi, Margo Seltzer, Alexandra Fedorova (USENIX ATC 2024)"
       link: https://www.usenix.org/conference/atc24/presentation/jalalian
