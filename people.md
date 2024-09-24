@@ -114,14 +114,14 @@ description: We are a diverse group and are always looking to recruit strong stu
 </div>
 <!-- /.phds -->
 
-<!-- .mscs -->
+<!-- .mscs and .meng -->
 <div class="container mt-4">
     <h4>Master's Students</h4>
 </div>
 
 <div class="container-fluid mb-5 px-4">
     <div class="row limitsize">
-        {% for mscs in site.data.people.mscs %}
+        {% for mscs in site.data.people.mscs | concat: site.data.people.meng %}
         <div class="card-deck mx-0 p-0 col-lg-4 col-md-6">
             <a href="{{ mscs.link }}" alt="View Personal Site"><div class="card rounded-0 m-1 profile">
                 <div class="row px-3">
@@ -147,7 +147,7 @@ description: We are a diverse group and are always looking to recruit strong stu
         {% endfor %}
     </div>
 </div>
-<!-- /.mscs -->
+<!-- /.mscs and /.meng-->
 
 <!-- .undergrads -->
 <div class="container mt-4">
