@@ -235,6 +235,11 @@ mscs:
     link: https://www.tanya-prasad.com/
     img: tanya.png
 
+  - name: Satvik Vemuganti
+    info: "System Security\nSide Channels"
+    link: https://vsatvik.in
+    img: satvik.JPG
+
 #UNDERGRADUATES
 undergrads:
   - name: Anastasiia Beheni
