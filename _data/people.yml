@@ -69,12 +69,6 @@ faculty:
 
 # POSTDOCS
 postdocs:
-
-  - name: Maryam R. Aliabadi
-    info: "CPS Security\nProgram Analysis\nFault Tolerance"
-    link: https://www.aliabadi.ca/
-    img: Maryam.jpeg
-
   - name: Hugo Lefeuvre
     info: "Systems\nSecurity"
     link: https://www.owl.eu.com/
@@ -101,11 +95,6 @@ phds:
     info: "Operating systems\nDistributed systems\nGraph processing"
     link: https://artorhem.github.io
     img: puneet.jpg
-
-  - name: Paul H. B.
-    info: "Human-computer Interaction\nAffective Computing\nDesign"
-    link: https://paulbucci.ca/
-    img: paul.jpg
 
   - name: A. Finn Hackett
     info: "Programming Language Design\nApplied Declarative Programming"
@@ -161,12 +150,12 @@ phds:
     info: "Systems\nSecurity"
     link: https://www.linkedin.com/in/zainab-saeed-wattoo/
     img: Zainab.jpeg
-  
+
   - name: Xuechun Cao
     info: "Systems"
     link: https://joycecao11.github.io/
     img: joyce.JPG
-    
+
   - name: Zefeng Li
     info: "Security"
     link: #
@@ -175,21 +164,6 @@ phds:
 
 #MSCS
 mscs:
-  - name: Milad Rezaei Hajidehi
-    info: "Data-Intensive Applications \n Graph Processing \n Data Management"
-    link: https://www.linkedin.com/in/milad-rezaei-hajidehi-63013773/
-    img: milad.jpg
-
-  - name: Mishaal Kazmi
-    info: "Distributed Systems\nMachine Learning\nSecurity and Privacy"
-    link: https://www.linkedin.com/in/mishaalkazmi555/
-    img: Mishaal_Kazmi.jpg
-
-  - name: Shadab Shaikh
-    info: "Security\nMachine Learning\nSystems"
-    link: https://shadabs.com/
-    img: shadabs.jpg
-
   - name: Rut Vora
     info: "Systems Security\nNetworks Security"
     link: https://rutvora.com/
@@ -199,11 +173,6 @@ mscs:
     info: "Systems\nSecurity"
     link: https://st-saint.github.io/
     img: yayu.jpg
-
-  - name: Praveen Gupta
-    info: "Cloud Systems\nData Management\nUbiquitous Computing"
-    link: https://pvgupta24.github.io/about.html
-    img: praveen.jpg
 
   - name: Ilias Karimalis
     info: "Operating Systems and Program Synthesis"
@@ -251,21 +220,6 @@ undergrads:
     info: "Computer Architecture\nMemory Systems"
     link: https://www.linkedin.com/in/tom-wang-554904220/
     img: Tom_Wang.jpg
-
-  - name: Arya Stevinson
-    info: "Operating Systems"
-    link: https://www.linkedin.com/in/arya-stevinson-2a85a0238/
-    img: arya.jpg
-
-  - name: Linh Pham
-    info: "Operating Systems"
-    link: https://www.linkedin.com/in/linh-pham-686536211/
-    img: linh.jpg
-
-  - name: Dmytro Buialo
-    info: "Online privacy\nInternet measurement\nSecurity"
-    link: https://www.linkedin.com/in/dmytro-buialo
-    img: dmytro.jpg
 
   - name: Iris Xu
     info: "Robotics\nComputer Vision"
