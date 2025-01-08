@@ -225,11 +225,6 @@ undergrads:
     info: "Robotics\nComputer Vision"
     link: https://www.irisxu.me
     img: iris.jpg
-  
-  - name: Peter Whiting
-    info: "Network security\nInternet measurement"
-    link: https://peterwhiting.me
-    img: peter.jpg
 
 #RESEARCH STAFF
 researchers:
