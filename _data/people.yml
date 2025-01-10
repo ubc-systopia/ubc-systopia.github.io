@@ -161,6 +161,11 @@ phds:
     link: #
     img: zefeng.jpg
 
+  - name: Philip Schowitz
+    info: "Real-time systems"
+    link: https://www.linkedin.com/in/philipschowitz
+    img: philip.jpg
+
 
 #MSCS
 mscs:
@@ -183,11 +188,6 @@ mscs:
     info: "Operating Systems"
     link: #
     img: SepehrN.jpeg
-
-  - name: Philip Schowitz
-    info: "Systems"
-    link: https://www.linkedin.com/in/philipschowitz
-    img: philip.jpg
 
   - name: Frederick Shpilevskiy
     info: "Privacy\nMachine Learning"
