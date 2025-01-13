@@ -3,6 +3,13 @@
 # When entering publication info, please maintain the following format:
 # [Authors, separated by comma]. [Publisher] [Year of publication].
 
+- date: 2025
+  publications:
+  
+    - title: "ORTHRUS: Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems"
+      info: "Baoxiang Jian, Tristan Bilot, Nour El Madhoun, Khaldoun Al Agha, Anis Zouaoui, Shahrear Iqbal, Xueyuan Han, Thomas Pasquier (USENIX  Sec'2025)"
+      link: https://tfjmp.org/publications/2025-usenixsec.pdf
+      
 - date: 2024
   publications:
 
