@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-05 16:00:00 -0700
-tags: velosity
+tags: operating_systems
 headerimg:
 permalink: general-purpose-isolation
 topic: Decomposing isolation mechanisms
