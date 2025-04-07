@@ -169,11 +169,6 @@ phds:
 
 #MSCS
 mscs:
-  - name: Rut Vora
-    info: "Systems Security\nNetworks Security"
-    link: https://rutvora.com/
-    img: rut.jpg
-
   - name: Yayu Wang
     info: "Systems\nSecurity"
     link: https://st-saint.github.io/
