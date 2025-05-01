@@ -5,11 +5,16 @@
 
 - date: 2025
   publications:
+
+    - title: "Growlithe: A Developer-Centric Compliance Tool for Serverless Applications"
+      info: "Praveen Gupta, Arshia Moghimi, Devam Sisodraker, Mohammad Shahrad, Aastha Mehta (S&P 2025)"
+      link: https://aasthakm.github.io/files/sp25-growlithe.pdf
   
     - title: "ORTHRUS: Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems"
       info: "Baoxiang Jiang, Tristan Bilot, Nour El Madhoun, Khaldoun Al Agha, Anis Zouaoui, Shahrear Iqbal, Xueyuan Han, Thomas Pasquier (USENIX  Security 2025)"
       link: https://tfjmp.org/publications/2025-usenixsec.pdf
       
+
 - date: 2024
   publications:
 
@@ -44,6 +49,7 @@
     - title: "NetShaper: A Differentially Private Network Side-Channel Mitigation System"
       info: "Amir Sabzi, Rut Vora, Swati Goswami, Margo Seltzer, Mathias Lécuyer, Aastha Mehta (USENIX Security 2024)"
       link: https://www.usenix.org/system/files/usenixsecurity24-sabzi.pdf
+      code: https://github.com/ubc-systopia/netshaper
 
     - title: "KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance"
       info: "Zijun Cheng, Qiujian Lv, Jinyuan Liang, Yan Wang, Degang Sun, Thomas Pasquier, Xueyuan Han (IEEE S&P 2024)"
