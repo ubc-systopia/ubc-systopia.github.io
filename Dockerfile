@@ -1,7 +1,7 @@
 # Known version of ruby that is compatible with the current website configuration
-FROM ruby:3.0
+FROM ruby:3.1
 
-# Update gem so that it can still build 
+# Update gem so that it can still build
 RUN gem update --system
 
 # Install ruby dependencies necessary to build and serve website
@@ -11,7 +11,7 @@ RUN gem install bundler jekyll
 RUN useradd -ms /bin/bash systopia
 WORKDIR /home/systopia
 
-# Copy website 
+# Copy website
 COPY . ./website/
 
 # More installation stuff
