@@ -161,14 +161,13 @@ phds:
     link: https://www.linkedin.com/in/philipschowitz
     img: philip.jpg
 
-
-#MSCS
-mscs:
   - name: Yayu Wang
     info: "Systems\nSecurity"
     link: https://st-saint.github.io/
     img: yayu.jpg
 
+#MSCS
+mscs:
   - name: Ilias Karimalis
     info: "Operating Systems and Program Synthesis"
     link: https://www.linkedin.com/in/ilias-karimalis-b034b3172/
@@ -222,4 +221,3 @@ researchers:
     info: "Fine-grain file system design\nSystem synthesis"
     link: #
     img: phoenix.jpg
-
