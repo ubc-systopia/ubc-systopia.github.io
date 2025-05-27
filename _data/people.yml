@@ -166,6 +166,11 @@ phds:
     link: https://st-saint.github.io/
     img: yayu.jpg
 
+  - name: Harshinee Sriram
+    info: "Machine Learning\nHealthcare"
+    link: https://www.cs.ubc.ca/~hsriram/
+    img: harshinee.png
+
 #MSCS
 mscs:
   - name: Ilias Karimalis
