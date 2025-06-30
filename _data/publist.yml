@@ -16,7 +16,7 @@
     
     - title: "IRBlock: A Large-Scale Measurement Study of the Great Firewall of Iran"
       info: "Jonas Tai, Karthik Nishanth Sengottuvelavan, Peter Whiting, Nguyen Phong Hoang (USENIX  Security 2025)"
-      linl: https://www.usenix.org/conference/usenixsecurity25/presentation/tai
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/tai
 
     - title: "ORTHRUS: Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems"
       info: "Baoxiang Jiang, Tristan Bilot, Nour El Madhoun, Khaldoun Al Agha, Anis Zouaoui, Shahrear Iqbal, Xueyuan Han, Thomas Pasquier (USENIX  Security 2025)"
