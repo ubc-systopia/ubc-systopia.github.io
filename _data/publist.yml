@@ -7,11 +7,11 @@
   publications:
 
     - title: "Growlithe: A Developer-Centric Compliance Tool for Serverless Applications"
-      info: "Praveen Gupta, Arshia Moghimi, Devam Sisodraker, Mohammad Shahrad, Aastha Mehta (S&P 2025)"
+      info: "Praveen Gupta, Arshia Moghimi, Devam Sisodraker, Mohammad Shahrad, Aastha Mehta (IEEE S&P 2025)"
       link: https://aasthakm.github.io/files/sp25-growlithe.pdf
   
     - title: "Is Nobody There? Good! Globally Measuring Connection Tampering without Responsive Endhosts"
-      info: "Sadia Nourin, Erik Rye, Kevin Bock, Nguyen Phong Hoang, Dave Levin (S&P 2025)"
+      info: "Sadia Nourin, Erik Rye, Kevin Bock, Nguyen Phong Hoang, Dave Levin (IEEE S&P 2025)"
       link: https://censorbib.nymity.ch/pdf/Nourin2025a.pdf
     
     - title: "IRBlock: A Large-Scale Measurement Study of the Great Firewall of Iran"
@@ -25,6 +25,10 @@
     - title: "Sometimes Simpler is Better: A Comprehensive Analysis of State-of-the-Art Provenance-Based Intrusion Detection Systems"
       info: "Tristan Bilot, Baoxiang Jiang, Zefeng Li, Nour El Madhoun, Khaldoun Al Agha, Anis Zouaoui, Thomas Pasquier (USENIX  Security 2025)"
       link: https://tfjmp.org/publications/2025-usenixsec-2.pdf
+
+    - title: "On the Reproducibility of Provenance-based Intrusion Detection that uses Deep Learning"
+      info: "T Abrar, A Shamail, M J Iqbal, M Iqbal, A Zouaoui, A Ahmed, M Abdullah, M Shayan, F Zaffar, T Pasquier, D Eyers, A Gehani (ACM REP 2025)"
+      link: https://tfjmp.org/publications/2025-rep.pdf
 
       
 
