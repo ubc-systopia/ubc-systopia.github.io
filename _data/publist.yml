@@ -30,6 +30,17 @@
       info: "T Abrar, A Shamail, M J Iqbal, M Iqbal, A Zouaoui, A Ahmed, M Abdullah, M Shayan, F Zaffar, T Pasquier, D Eyers, A Gehani (ACM REP 2025)"
       link: https://tfjmp.org/publications/2025-rep.pdf
 
+    - title: "Raising the Reproducibility Bar"
+      info: "Joseph Wonsil, Rúbia Guerra, Adam Pocock, Jack Sullivan and Margo Seltzer (ACM REP 2025)"
+      link: https://josephs.website/files/acmrep25-raising-bar.pdf
+
+    - title: "Experience with Reproducibility and Consistency in Writing an Academic Paper"
+      info: "Joseph Wonsil, Nichole Boufford, and Margo Seltzer (ACM REP 2025)"
+      link: https://josephs.website/files/acmrep25-experience.pdf
+
+    - title: "Provenance Design and Evolution in a Production ML Library"
+      info: "Adam Craig Pocock, Joseph Wonsil, Romina Mahinpei, Jack Sullivan, Margo Seltzer (CODEML@ ICML25)"
+      link: https://openreview.net/pdf?id=VrbDf3UDgv
       
 
 - date: 2024

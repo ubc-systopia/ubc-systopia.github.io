@@ -27,6 +27,21 @@ description: "We develop systems that facilitate computational reproducibility f
     <h6>Publications</h6>
         <ul>
             <li>
+                <a href="https://josephs.website/files/acmrep25-raising-bar.pdf">
+                    Raising the Reproducibility Bar Joseph Wonsil, Rúbia Guerra, Adam Pocock, Jack Sullivan and Margo Seltzer (ACM REP 2025)
+                </a>
+            </li>
+            <li>
+                <a href="https://josephs.website/files/acmrep25-experience.pdf">
+                    Experience with Reproducibility and Consistency in Writing an Academic Paper Joseph Wonsil, Nichole Boufford, and Margo Seltzer (ACM REP 2025)
+                </a>
+            </li>
+            <li>
+                <a href="https://openreview.net/pdf?id=VrbDf3UDgv">
+                    Provenance Design and Evolution in a Production ML Library Adam Craig Pocock, Joseph Wonsil, Romina Mahinpei, Jack Sullivan, Margo Seltzer (CODEML@ ICML25)
+                </a>
+            </li>
+            <li>
                 <a href="https://doi.org/10.1145/3641525.3663617">
                     Computational Experiment Comprehension using Provenance Summarization Nichole Boufford, Joseph Wonsil, Adam Pocock, Jack Sullivan, Margo Seltzer, Thomas Pasquier (ACM REP 2024)
                 </a>
@@ -55,6 +70,7 @@ description: "We develop systems that facilitate computational reproducibility f
             <li>Thomas Pasquier</li>
             <li>Margo Seltzer</li>
 	        <li>Joseph Wonsil</li>
+            <li>Rubia Guerra</li>
         </ul>
     <h6>Alumni</h6>
         <ul>
