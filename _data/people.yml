@@ -171,6 +171,11 @@ phds:
     link: https://www.cs.ubc.ca/~hsriram/
     img: harshinee.png
 
+  - name: Rubia Guerra
+    info: "Reproducibility\nAffective Computing"
+    link: https://rubiarg.github.io/
+    img: rubia.png
+
 #MSCS
 mscs:
   - name: Ilias Karimalis
