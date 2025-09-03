@@ -19,6 +19,9 @@ faculty:
 
 # MSC ALUMNI
 mscs:
+  - name: Jonas Tai
+    info: 2025
+  
   - name: Rut Vora
     info: 2025, Arista Networks
 
