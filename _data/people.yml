@@ -193,11 +193,6 @@ mscs:
     link: #
     img: frederick.jpg
 
-  - name: Jonas Tai
-    info: "Systems\nMachine Learning"
-    link: https://www.linkedin.com/in/jonas-tai-rwth/
-    img: jonas.jpg
-
   - name: Tanya Prasad
     info: "Operating systems\nSystems Security"
     link: https://www.tanya-prasad.com/
@@ -207,6 +202,11 @@ mscs:
     info: "System Security\nSide Channels"
     link: https://vsatvik.in
     img: satvik.JPG
+
+  - name: Kjell Dankert
+    info: "Systems Security"
+    link: https://www.linkedin.com/in/kdankert/
+    img: kjell.jpg
 
 #UNDERGRADUATES
 undergrads:
