@@ -225,6 +225,12 @@ undergrads:
     link: https://www.irisxu.me
     img: iris.jpg
 
+  - name: Shubhaankar Sharma
+    info: "Real Time Systems\nDistributed Systems"
+    link: https://shubhaankar.com
+    img:  shubhaankar.png
+
+
 #RESEARCH STAFF
 researchers:
   - name: Phoenix Synkova
