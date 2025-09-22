@@ -234,6 +234,11 @@ undergrads:
     info: "Systems"
     link: https://aghadia.com
     img:  anmol.jpg
+  
+  - name: Shibo Ai
+    info: "Security"
+    link: https://shibo.ca
+    img:  shibo.jpeg
 
 
 #RESEARCH STAFF
