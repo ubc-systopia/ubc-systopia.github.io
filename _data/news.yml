@@ -10,6 +10,12 @@
 # If there is a separate link for the video, put it in "video-link"
 
 talks:
+  - title: "CellulOS: An OS for comparing Isolation Mechanisms"
+    speaker: Sidhartha Agrawal
+    event: seL4 Summit 2025
+    link: https://sched.co/26GFQ
+    video-link: https://youtu.be/KDZpBvh7Y08
+
   - title: "Compiling Distributed System Models Into Implementations with PGo"
     speaker: Finn Hackett, Shayan Hosseini
     event: AWS Automated Reasoning Group 2022

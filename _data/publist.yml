@@ -6,6 +6,10 @@
 - date: 2025
   publications:
 
+    - title: "Comparing Isolation Mechanisms with OSmosis"
+      info: "Sidhartha Agrawal, Shaurya Patel, Arya Stevinson, Linh Pham, Ilias Karimalis, Hugo Lefeuvre, Aastha Mehta, Reto Achermann, Margo I. Seltzer (PLOS 2025)"
+      link: https://sid-agrawal.ca/agrawalOSmosisPLOS2025.pdf
+
     - title: "Relocate-Vote: Using Sparsity Information to Exploit Ciphertext Side-Channels"
       info: "Yuqin Yan, Wei Huang, Ilya Grishchenko, Gururaj Saileshwar, Aastha Mehta, David Lie (USENIX Security 2025)"
       link: https://aasthakm.github.io/files/sec25-relocatevote.pdf
