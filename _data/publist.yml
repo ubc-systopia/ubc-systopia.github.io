@@ -13,11 +13,11 @@
     - title: "Growlithe: A Developer-Centric Compliance Tool for Serverless Applications"
       info: "Praveen Gupta, Arshia Moghimi, Devam Sisodraker, Mohammad Shahrad, Aastha Mehta (IEEE S&P 2025)"
       link: https://aasthakm.github.io/files/sp25-growlithe.pdf
-  
+
     - title: "Is Nobody There? Good! Globally Measuring Connection Tampering without Responsive Endhosts"
       info: "Sadia Nourin, Erik Rye, Kevin Bock, Nguyen Phong Hoang, Dave Levin (IEEE S&P 2025)"
       link: https://censorbib.nymity.ch/pdf/Nourin2025a.pdf
-    
+
     - title: "IRBlock: A Large-Scale Measurement Study of the Great Firewall of Iran"
       info: "Jonas Tai, Karthik Nishanth Sengottuvelavan, Peter Whiting, Nguyen Phong Hoang (USENIX  Security 2025)"
       link: https://www.usenix.org/conference/usenixsecurity25/presentation/tai
@@ -25,7 +25,7 @@
     - title: "ORTHRUS: Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems"
       info: "Baoxiang Jiang, Tristan Bilot, Nour El Madhoun, Khaldoun Al Agha, Anis Zouaoui, Shahrear Iqbal, Xueyuan Han, Thomas Pasquier (USENIX  Security 2025)"
       link: https://tfjmp.org/publications/2025-usenixsec.pdf
-    
+
     - title: "Sometimes Simpler is Better: A Comprehensive Analysis of State-of-the-Art Provenance-Based Intrusion Detection Systems"
       info: "Tristan Bilot, Baoxiang Jiang, Zefeng Li, Nour El Madhoun, Khaldoun Al Agha, Anis Zouaoui, Thomas Pasquier (USENIX  Security 2025)"
       link: https://tfjmp.org/publications/2025-usenixsec-2.pdf
@@ -45,7 +45,7 @@
     - title: "Provenance Design and Evolution in a Production ML Library"
       info: "Adam Craig Pocock, Joseph Wonsil, Romina Mahinpei, Jack Sullivan, Margo Seltzer (CODEML@ ICML25)"
       link: https://openreview.net/pdf?id=VrbDf3UDgv
-      
+
 
 - date: 2024
   publications:
