@@ -33,33 +33,8 @@ The project has the following goals:
         <li>Formally verify the model in Verus.  </li>
     </ul>
 
-## Publications
-* Comparing Isolation mechanisms using OSmosis
-    * <ins>Sidhartha Agrawal</ins>, Shaurya Patel, Linh Pham, Arya Stevinson, Ilias Karimalis, Hugo Lefeuvre, Aastha Mehta, Reto Achermann, Margo Seltzer
-    * [13th Workshop on Programming Languages and Operating Systems (PLOS 2025)](https://plos-workshop.org/2025/)
-    * [PDF](https://doi.org/10.1145/3764860.3768325)
-* OSmosis: No more Déjà vu in OS isolation
-    * <ins>Sidhartha Agrawal</ins>, Reto Achermann, and Margo Seltzer
-    * ArXiv
-    * [PDF](https://arxiv.org/abs/2309.09291)
-
-## Posters
-* OSmosis: Modeling & Building Flexible OS Isolation Mechanisms
-    * <ins>Sidhartha Agrawal</ins>, Shaurya Patel, Reto Achermann, and Margo Seltzer
-    * [SOSP 2023 Poster Session](https://sosp2023.mpi-sws.org/cfpo.html)
-    * [Submission](https://sid-agrawal.ca/OSmosis_SOSP_2023_Poster_Submission.pdf) & [Poster](https://sid-agrawal.ca/OSmosis_SOSP_2023_Poster.pdf)
-* OSmosis: Modeling & Building Flexible OS Isolation Mechanisms
-    * <ins>Sidhartha Agrawal</ins>, Reto Achermann, and Margo Seltzer
-    * [Salmon 2023 Poster Session](https://systopia.cs.ubc.ca/event)
-    * [Poster](https://sid-agrawal.ca/OSmosis_Salmon_2023_Poster.pdf)
-
-## Talks
-* Longer talk on OSmosis/CellulOS
-    * [seL4 Summit 2025](https://sel4summit2025.sched.com/event/26GFQ?iframe=no): CellulOS: An OS for Comparing Isolation Mechanisms
-        * Slides & Video will be available in late Sep 2025
-
-
-
+<p>Sid gave a lightning(gong) talk at <a href="http://hpts.ws">HPTS2022</a> based on this work. A prior version of the model is in our <a href="https://arxiv.org/abs/2309.09291">Arxiv submission</a>, 
+and <a href="https://sid-agrawal.ca/OSmosis_SOSP_2023_Poster.pdf">SOSP 2023 Poster</a>. Stay tuned for the latest model.</p>
     </div>
 </div>
 <!-- /Project Overview section -->
