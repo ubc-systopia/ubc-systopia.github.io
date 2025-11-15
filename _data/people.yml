@@ -176,6 +176,11 @@ phds:
     link: https://rubiarg.github.io/
     img: rubia.png
 
+   - name: Aida Aminian
+    info: "Systems"
+    link: https://aidaaminian.github.io/
+    img: Aida.JPG   
+
 #MSCS
 mscs:
   - name: Ilias Karimalis
