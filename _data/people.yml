@@ -179,7 +179,12 @@ phds:
   - name: Aida Aminian
     info: "Systems"
     link: https://aidaaminian.github.io/
-    img: Aida.JPG   
+    img: Aida.JPG
+
+  - name: Frederick Shpilevskiy
+    info: "Privacy\nMachine Learning"
+    link: #
+    img: frederick.jpg
 
 #MSCS
 mscs:
@@ -187,11 +192,6 @@ mscs:
     info: "Operating Systems and Program Synthesis"
     link: https://www.linkedin.com/in/ilias-karimalis-b034b3172/
     img: ilias.jpeg
-
-  - name: Frederick Shpilevskiy
-    info: "Privacy\nMachine Learning"
-    link: #
-    img: frederick.jpg
 
   - name: Tanya Prasad
     info: "Operating systems\nSystems Security"
@@ -234,7 +234,7 @@ undergrads:
     info: "Systems"
     link: https://aghadia.com
     img:  anmol.jpg
-  
+
   - name: Shibo Ai
     info: "Security"
     link: https://shibo.ca
