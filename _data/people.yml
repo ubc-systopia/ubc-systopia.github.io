@@ -208,6 +208,10 @@ mscs:
     link: https://www.linkedin.com/in/kdankert/
     img: kjell.jpg
 
+  - name: Jiayin Kralik
+    info: "Systems\nMachine Learning"
+    img: jiayin.jpg
+
 #UNDERGRADUATES
 undergrads:
   - name: Anastasiia Beheni
