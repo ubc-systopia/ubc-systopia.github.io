@@ -186,6 +186,11 @@ phds:
     link: #
     img: frederick.jpg
 
+  - name: Ian Dougherty
+    info: "Operating Systems\nMemory Systems"
+    link: https://idougherty.net
+    img: ian.jpg
+
 #MSCS
 mscs:
   - name: Ilias Karimalis
