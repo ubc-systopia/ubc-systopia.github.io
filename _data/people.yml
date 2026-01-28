@@ -191,6 +191,11 @@ phds:
     link: https://idougherty.net
     img: ian.jpg
 
+  - name: Kevin Wang
+    info: "Security\nPrivacy"
+    link: https://musicer-kw.com
+    img: kevin.JPG
+
 #MSCS
 mscs:
   - name: Ilias Karimalis
