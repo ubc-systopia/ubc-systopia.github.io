@@ -230,6 +230,11 @@ mscs:
   - name: Cathy Liu
     info: "Systems\nSecurity"
     img: cathy.jpg
+    
+  - name: Hanson Liang
+    info: "Systems\nSecurity"
+    link: https://www.linkedin.com/in/hanson-liang/
+    img: hanson.jpg
 
 #UNDERGRADUATES
 undergrads:
