@@ -268,6 +268,11 @@ undergrads:
     link: https://shibo.ca
     img:  shibo.jpeg
 
+  - name: Ning Ding
+    info: "Operating Systems"
+    link: https://nding0405.org
+    img:  ningding.jpg
+
 
 #RESEARCH STAFF
 researchers:
