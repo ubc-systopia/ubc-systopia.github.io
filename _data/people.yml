@@ -79,6 +79,12 @@ postdocs:
     link: https://tristanbilot.github.io/#/
     img: tristan.jpg
 
+  - name: Peterson Yuhala
+    info: "Systems\nSecurity"
+    link: https://yuhala.github.io/
+    img: pyuhala.jpeg
+
+
 # PHDS
 phds:
   - name: Swati Goswami
