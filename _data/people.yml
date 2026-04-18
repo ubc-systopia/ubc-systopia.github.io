@@ -84,6 +84,10 @@ postdocs:
     link: https://yuhala.github.io/
     img: pyuhala.jpeg
 
+  - name: Duy Kha Dinh
+    info: "Systems\nSecurity"
+    link: https://kha-dinh.github.io/
+    img: kha.jpg
 
 # PHDS
 phds:
