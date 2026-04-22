@@ -14,6 +14,13 @@ docker run -p 4000:4000 --mount src="$(pwd)",target=/home/systopia/website,type=
 
 This command will build and run a new Docker image called `systopia-website`. 
 All necessary dependencies to build and serve the site locally are in this container. 
+
+Alternatively, you can use docker compose to run the website.
+```
+cd path/to/ubc-systopia.github.io
+docker compose up
+```
+
 See page at http://localhost:4000
 There is no need to re-build the container once it is running.
 Changes are dynamically reflected as you write files; just reload pages. 

@@ -1,0 +1,12 @@
+services:
+  website:
+    build: .
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/home/systopia/website
+      - gem_cache:/usr/local/bundle
+    command: bundle exec jekyll serve --host 0.0.0.0 --livereload
+
+volumes:
+  gem_cache:
