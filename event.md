@@ -172,7 +172,6 @@ heading: Events
     <img src="assets/images/salmon_pic/IMG_0783.JPG" width="300px" />
     <img src="assets/images/salmon_pic/IMG_0803.JPG" width="300px" />
     <img src="assets/images/salmon_pic/IMG_0811.JPG" width="300px" />
-    <img src="assets/images/salmon_pic/IMG_0813.JPG" width="300px" />
     <img src="assets/images/salmon_pic/IMG_0823.JPG" width="300px" />
     <img src="assets/images/salmon_pic/IMG_0828.JPG" width="300px" />
     <img src="assets/images/salmon_pic/IMG_0842.JPG" width="300px" />
