@@ -3,6 +3,17 @@
 # When entering publication info, please maintain the following format:
 # [Authors, separated by comma]. [Publisher] [Year of publication].
 
+- date: 2026
+  publications:
+
+    - title: "PIDSMaker: Building and Evaluating Provenance-based Intrusion Detection Systems"
+      info: "T Bilot, B Jiang, T Pasquier (KDD 2026)"
+      link: https://tfjmp.org/publications/2026-kdd.pdf
+
+    - title: "Inside Out: A Paradigm Shift In VM Introspection"
+      info: "D Teguia, L Duval, T Pisenti, K Lazri, D Hagimont, T Pasquier, R Lachaize, A Tchana (OSDI 2026)"
+      link: https://tfjmp.org/publications/2026-osdi.pdf
+
 - date: 2025
   publications:
 
