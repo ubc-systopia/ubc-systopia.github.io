@@ -14,6 +14,10 @@
       info: "D Teguia, L Duval, T Pisenti, K Lazri, D Hagimont, T Pasquier, R Lachaize, A Tchana (OSDI 2026)"
       link: https://tfjmp.org/publications/2026-osdi.pdf
 
+    - title: "RegTrack: Uncovering Global Disparities in Third-party Advertising and Tracking"
+      info: "T Prasad, R Vora, SY Lim, NP Phong, T Pasquier (MadWeb 2026)"
+      link: https://tfjmp.org/publications/2026-madweb.pdf
+
 - date: 2025
   publications:
 
