@@ -241,6 +241,11 @@ mscs:
     link: https://www.linkedin.com/in/ethan-xu-727982249/
     img: ethan_xu.jpg
 
+  - name: Mark Van Genderen
+    info: "Real-time systems"
+    link: https://www.linkedin.com/in/mark-v/
+    img: mark.jpg   
+
 #UNDERGRADUATES
 undergrads:
   - name: Anastasiia Beheni
