@@ -230,7 +230,7 @@ mscs:
   - name: Cathy Liu
     info: "Systems\nSecurity"
     img: cathy.jpg
-    
+
   - name: Hanson Liang
     info: "Systems\nSecurity"
     link: https://www.linkedin.com/in/hanson-liang/
@@ -244,7 +244,12 @@ mscs:
   - name: Mark Van Genderen
     info: "Real-time systems"
     link: https://www.linkedin.com/in/mark-v/
-    img: mark.jpg   
+    img: mark.jpg
+
+  - name: Jerry S. Zhang
+    info: "Real-time systems"
+    link: https://www.cs.ubc.ca/~jerryzs/
+    img: jerryz.webp
 
 #UNDERGRADUATES
 undergrads:
