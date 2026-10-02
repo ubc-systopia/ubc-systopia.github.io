@@ -88,6 +88,11 @@ postdocs:
     info: "Systems\nSecurity"
     link: https://kha-dinh.github.io/
     img: kha.jpg
+  
+  - name: Anjali
+    info: "Operating Systems"
+    link: https://anjali05.github.io/
+    img: anjali.jpg
 
 # PHDS
 phds:
