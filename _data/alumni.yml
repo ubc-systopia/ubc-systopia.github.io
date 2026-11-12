@@ -19,6 +19,9 @@ faculty:
 
 # MSC ALUMNI
 mscs:
+  - name: Kjell Dankert
+    info: 2026, PhD @ University of Luebeck
+
   - name: Tanya Prasad
     info: 2026, Amazon Route 53
 
